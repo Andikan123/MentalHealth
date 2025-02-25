@@ -5,7 +5,15 @@ import { Link } from "react-router-dom";
 const lessons = [
   { id: 1, title: "History of Psychiatry and Psychiatric Nursing " },
   { id: 2, title: "Definition, Roles And Practice Standards Of Psychiatric Nursing" },
-  { id: 3, title: "Practicing Mindfulness" },
+  { id: 3, title: "The  Mental Status Examination" },
+  { id: 4, title: "Culture and Psychiatry" },
+  { id: 5, title: "Defense Mechanism" },
+  { id: 6, title: "Classification of Mental Illnesses" },
+  { id: 7, title: "General Symptoms in Psychiatric disease" },
+  { id: 8, title: "Systematic (Planned) Nursing Approach in Psychiatric Nursing" },
+  { id: 9, title: "Therapeutic Environment,  Therapeutic  Communication" },
+  { id: 10, title: "Thetapeuric Communication Proncıples and Technıques ın Mental Health and Psychiatric Nursing" },
+  { id: 11, title: "Personality Development, Eight Stages of Human Development" },
   // Add more lessons here
 ];
 
