@@ -1,5 +1,11 @@
 import React from "react";
 import { useParams, Link } from "react-router-dom";
+import riskFactor from "../assets/Picture1.png"
+import riskFactor2 from "../assets/Picture2.png"
+import levelOfrisk from "../assets/Picture3.png"
+import riskassess from "../assets/riskassess.png"
+import assessTools from "../assets/assesstools.png"
+import adminright from "../assets/adminrights.png"
 
 // Sample content for lessons
 const lessonData = [
@@ -2771,6 +2777,1601 @@ const lessonData = [
       </p>
     </div>
     
+    ),
+    
+  },
+  {
+    id: 12,
+    title: "Schizophrenia",
+    content: (
+      <div class="max-w-7xl mx-auto px-6 py-8 bg-gray-50 text-gray-800">
+      <h1 class="text-3xl font-semibold text-center mb-6">Schizophrenia Spectrum and Other Psychotic Disorders</h1>
+      
+      <p class="text-lg leading-relaxed mb-6">
+          The syndrome of symptoms associated with schizophrenia and other psychotic disorders reveals alterations in content and organization of thoughts, perception of sensory input, affect or emotional tone, sense of identity, psychomotor behavior, and ability to establish satisfactory interpersonal relationships.
+      </p>
+      
+      <p class="text-lg leading-relaxed mb-6">
+          The Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) identifies a spectrum of psychotic disorders that are organized to reflect a gradient of psychopathology from least to most severe. Degree of severity is determined by the level, number, and duration of psychotic signs and symptoms.
+      </p>
+      
+      <h2 class="text-2xl font-semibold mt-6 mb-4 text-blue-600">DSM-5 Classification</h2>
+      <ul class="list-disc pl-8 space-y-2 mb-6">
+          <li>Delusional Disorder</li>
+          <li>Brief Psychotic Disorder</li>
+          <li>Schizophreniform Disorder</li>
+          <li>Schizophrenia</li>
+          <li>Schizoaffective Disorder</li>
+          <li>Substance/Medication-Induced Psychotic Disorder</li>
+          <li>Psychotic Disorder Due to Another Medical Condition</li>
+          <li>Catatonia Associated with Another Mental Disorder (Catatonia Specifier)</li>
+          <li>Catatonic Disorder Due to Another Medical Condition</li>
+      </ul>
+  
+      <h3 class="text-xl font-medium mt-6 mb-4 text-green-600">Delusional Disorder</h3>
+      <p class="text-lg leading-relaxed mb-4">
+          Delusional disorder is characterized by the presence of delusions that have been experienced by the individual for at least 1 month. Hallucinatory activity is not prominent, and behavior is not bizarre. The subtype of delusional disorder is based on the predominant delusional theme.
+      </p>
+      <p class="text-lg leading-relaxed mb-6">
+          The DSM-5 states that a specifier may be added to denote if the delusions are considered bizarre, i.e., if the thought is “clearly implausible, not understandable, and not derived from ordinary life experiences.”
+      </p>
+  
+      <h3 class="text-xl font-medium mt-6 mb-4 text-green-600">Brief Psychotic Disorder</h3>
+      <p class="text-lg leading-relaxed mb-4">
+          This disorder is identified by the sudden onset of psychotic symptoms that may or may not be preceded by a severe psychosocial stressor. These symptoms last at least 1 day but less than 1 month, and there is an eventual full return to the premorbid level of functioning. The individual experiences emotional turmoil or overwhelming perplexity or confusion.
+      </p>
+  
+      <h3 class="text-xl font-medium mt-6 mb-4 text-green-600">Schizophreniform Disorder</h3>
+      <p class="text-lg leading-relaxed mb-6">
+          The client exhibits the symptoms of schizophrenia but for less than the 6 months necessary to meet the diagnostic criteria for schizophrenia. Social or occupational functioning may or may not be impaired.
+      </p>
+  
+      <h3 class="text-xl font-medium mt-6 mb-4 text-green-600">Substance/Medication-Induced Psychotic Disorder</h3>
+      <p class="text-lg leading-relaxed mb-4">
+          The prominent hallucinations and delusions associated with this disorder are found to be directly attributable to substance intoxication or withdrawal or after exposure to a medication or toxin. The medical history, physical examination, or laboratory findings provide evidence that the appearance of the symptoms occurred in association with a substance intoxication or withdrawal or exposure to a medication or toxin.
+      </p>
+  
+      <h3 class="text-xl font-medium mt-6 mb-4 text-green-600">Psychotic Disorder Due to Another Medical Condition</h3>
+      <p class="text-lg leading-relaxed mb-4">
+          The essential features of this disorder are prominent hallucinations and delusions that can be directly attributed to another medical condition. The diagnosis is not made if the symptoms occur during the course of a delirium.
+      </p>
+  
+      <h3 class="text-xl font-medium mt-6 mb-4 text-green-600">Catatonia Associated With Another Mental Disorder</h3>
+      <p class="text-lg leading-relaxed mb-6">
+          The characteristics of catatonia are identified by symptoms such as stupor, waxy flexibility, mutism, negativism, posturing, stereotypical, repetitive movements, agitation, grimacing, echolalia (mimicking another’s speech), and echopraxia (mimicking another’s movements).
+      </p>
+  
+      <h3 class="text-xl font-medium mt-6 mb-4 text-green-600">Schizophrenia</h3>
+      <p class="text-lg leading-relaxed mb-4">
+          Schizophrenia is a serious and often persistent mental illness characterized by disturbances in reality orientation, thinking, and social involvement. It cannot be defined as a single illness; rather, schizophrenia is thought of as a syndrome or as a disease process with many different varieties and symptoms, much like the varieties of cancer.
+      </p>
+      <p class="text-lg leading-relaxed mb-6">
+          The word schizophrenia originally referred to a “splitting off” of thoughts from emotions. However, the word has become confused with “split personality” or “multiple personality.” No laboratory test for schizophrenia currently exists. The average life expectancy of people with the disorder is 10 to 12 years less than those without, due to increased physical health problems and a higher suicide rate (about 5%).
+      </p>
+  
+      <h3 class="text-xl font-medium mt-6 mb-4 text-green-600">Predisposing Factors</h3>
+      <h4 class="text-lg font-semibold text-blue-600">Biologic Theories</h4>
+      <p class="text-lg leading-relaxed mb-4">
+          The biologic theories of schizophrenia focus on genetic factors, neuroanatomic and neurochemical factors (structure and function of the brain), and immunovirology (the body’s response to exposure to a virus).
+      </p>
+      <p class="text-lg leading-relaxed mb-4">
+          Endocrine factors: Changes in prolactin, melatonin, and thyroid function have been found in schizophrenia. Brain structural changes: CT, MRI, and postmortem studies have shown decreased volume and density in limbic and frontal areas in schizophrenic patients. Other medical imaging studies have also revealed various physical and physiological anomalies in some patients. Other research has focused on mistiming of neural responses to stimuli in the brain.
+      </p>
+  
+      <h4 class="text-lg font-semibold text-blue-600">Genetics</h4>
+      <p class="text-lg leading-relaxed mb-4">
+          Most genetic studies have focused on immediate families (i.e., parents, siblings, and offspring) to examine whether schizophrenia is genetically transmitted or inherited.
+      </p>
+  
+      <p class="text-lg leading-relaxed mb-4">
+          Family studies: The most important studies have centered on twins; these findings have demonstrated that identical twins have a 50% risk for schizophrenia; that is, if one twin has schizophrenia, the other has a 50% chance of developing it as well. Fraternal twins have only a 15% risk. This finding indicates that schizophrenia is at least partially inherited.
+      </p>
+  
+      <h4 class="text-lg font-semibold text-blue-600">Psychological Factors</h4>
+      <p class="text-lg leading-relaxed mb-4">
+          Personality traits: Personality characteristics of an individual, such as withdrawn, extreme quietness and shyness, highly dependent and obedient, having temper tantrums, and always looking sad and miserable, are a recipe for schizophrenia.
+      </p>
+  
+      <h4 class="text-lg font-semibold text-blue-600">Environmental/Social Factors</h4>
+      <p class="text-lg leading-relaxed mb-4">
+          Recreational drug use: Although about half of all patients with schizophrenia use drugs or alcohol, a clear causal connection between drug use and schizophrenia has been difficult to prove.
+      </p>
+      <p class="text-lg leading-relaxed mb-4">
+          Social: Living in an urban environment has been consistently found to be a risk factor for schizophrenia. Social disadvantages found to be a risk factor include:
+          <ul class="list-inside list-disc">
+              <li>poverty</li>
+              <li>migration related to social adversity</li>
+              <li>racial discrimination</li>
+              <li>family dysfunction</li>
+              <li>unemployment</li>
+              <li>poor housing conditions</li>
+          </ul>
+      </p>
+
+      <div class="max-w-7xl mx-auto px-6 py-8 bg-white text-gray-800">
+    <h1 class="text-3xl font-semibold text-center mb-6 text-blue-600">Prognostic Factors in Schizophrenia</h1>
+
+    <p class="text-lg leading-relaxed mb-6">
+        Prognosis refers to the likelihood of recovery from a disease. Several factors play a role in determining a favorable prognosis for individuals with schizophrenia:
+    </p>
+
+    <ul class="list-inside list-disc pl-6 space-y-4">
+        <li>
+            <strong class="font-semibold text-green-600">Age:</strong> Older patients tend to have a more favorable prognosis.
+        </li>
+        <li>
+            <strong class="font-semibold text-green-600">Duration of Illness:</strong> A shorter duration before treatment leads to a better outcome.
+        </li>
+        <li>
+            <strong class="font-semibold text-green-600">Rapidity of Symptom Development:</strong> Faster onset of symptoms typically results in a quicker response to treatment.
+        </li>
+        <li>
+            <strong class="font-semibold text-green-600">Pre-illness Relationships:</strong> Patients with close friendships and multiple relationships before illness tend to have a better prognosis.
+        </li>
+        <li>
+            <strong class="font-semibold text-green-600">Life Stress Prior to Onset:</strong> Episodes triggered by major life stressors often respond more quickly to treatment.
+        </li>
+        <li>
+            <strong class="font-semibold text-green-600">Marital History:</strong> Those with stable and supportive marital relationships tend to fare better.
+        </li>
+        <li>
+            <strong class="font-semibold text-green-600">Educational History:</strong> A higher level of education helps patients adapt and manage the post-illness process more effectively.
+        </li>
+        <li>
+            <strong class="font-semibold text-green-600">Occupational History:</strong> Patients with stable jobs or businesses before illness usually respond better to treatment.
+        </li>
+        <li>
+            <strong class="font-semibold text-green-600">Family Attitude:</strong> Supportive, non-hostile family behavior is key to recovery. Over-attention or hostility can undermine confidence.
+        </li>
+        <li>
+            <strong class="font-semibold text-green-600">Social Support:</strong> A strong support system from family and friends can significantly improve outcomes.
+        </li>
+        <li>
+            <strong class="font-semibold text-green-600">Organic Brain Damage:</strong> The presence of conditions like mental retardation, epilepsy, or head injuries can hinder recovery.
+        </li>
+    </ul>
+</div>
+
+<div class="max-w-7xl mx-auto px-6 py-8 bg-white text-gray-800">
+    <h1 class="text-3xl font-semibold text-center mb-6 text-blue-600">Types of Symptoms in Schizophrenia</h1>
+
+    <p class="text-lg leading-relaxed mb-6">
+        Schizophrenia is associated with two main categories of symptoms: <strong class="font-semibold text-green-600">Positive</strong> and <strong class="font-semibold text-green-600">Negative</strong>.
+    </p>
+
+    <div class="grid md:grid-cols-2 gap-8 mb-8">
+        <div>
+            <h2 class="text-2xl font-semibold text-blue-500 mb-4">Positive Symptoms</h2>
+            <ul class="list-inside list-disc pl-6 space-y-4">
+                <li>Hallucinations</li>
+                <li>Delusions</li>
+                <li>Bizarre Behavior</li>
+                <li>Paranoia</li>
+            </ul>
+            <p class="mt-4 text-lg leading-relaxed">
+                Positive symptoms are things that are present in individuals with schizophrenia but not in most healthy individuals. They include delusions, hallucinations (especially auditory), thought disorders, and disorganized behavior.
+            </p>
+        </div>
+
+        <div>
+            <h2 class="text-2xl font-semibold text-blue-500 mb-4">Negative Symptoms</h2>
+            <ul class="list-inside list-disc pl-6 space-y-4">
+                <li>Apathy</li>
+                <li>Flat Affect</li>
+                <li>Alogia (Poverty of Speech)</li>
+                <li>Avolition (Lack of Motivation)</li>
+                <li>Anhedonia</li>
+                <li>Poor Social Functioning</li>
+            </ul>
+            <p class="mt-4 text-lg leading-relaxed">
+                Negative symptoms reflect the loss or absence of normal traits or abilities, such as emotional expression, motivation, or social functioning. These symptoms include apathy, flat affect, poverty of speech, and social isolation.
+            </p>
+        </div>
+    </div>
+
+    <h2 class="text-2xl font-semibold text-blue-500 mb-4">Detailed Breakdown of Symptoms</h2>
+    <div class="space-y-6">
+        <div class="bg-gray-100 p-4 rounded-lg shadow-sm">
+            <h3 class="text-xl font-semibold text-blue-600">Positive Symptoms</h3>
+            <p class="text-lg leading-relaxed">
+                Positive symptoms involve experiences and behaviors not typically found in healthy individuals, such as hallucinations and delusions.
+            </p>
+        </div>
+
+        <div class="bg-gray-100 p-4 rounded-lg shadow-sm">
+            <h3 class="text-xl font-semibold text-blue-600">Negative Symptoms</h3>
+            <p class="text-lg leading-relaxed">
+                Negative symptoms reflect the absence of normal functioning and include apathy, flat affect, and difficulty initiating goal-directed behavior.
+            </p>
+        </div>
+
+        <div class="bg-gray-100 p-4 rounded-lg shadow-sm">
+            <h3 class="text-xl font-semibold text-blue-600">Impairment in Social Functioning</h3>
+            <p class="text-lg leading-relaxed">
+                Symptoms like social isolation, emotional detachment, and inappropriate behaviors can result in severe challenges in social interactions.
+            </p>
+        </div>
+
+        <div class="bg-gray-100 p-4 rounded-lg shadow-sm">
+            <h3 class="text-xl font-semibold text-blue-600">Psychomotor Symptoms</h3>
+            <p class="text-lg leading-relaxed">
+                Behaviors such as pacing, rocking, posturing, and waxy flexibility are common psychomotor manifestations observed in schizophrenia.
+            </p>
+        </div>
+
+        <div class="bg-gray-100 p-4 rounded-lg shadow-sm">
+            <h3 class="text-xl font-semibold text-blue-600">Anhedonia</h3>
+            <p class="text-lg leading-relaxed">
+                Anhedonia refers to the inability to experience pleasure, which can lead to feelings of deep distress and an increased risk of suicide.
+            </p>
+        </div>
+
+        <div class="bg-gray-100 p-4 rounded-lg shadow-sm">
+            <h3 class="text-xl font-semibold text-blue-600">Regression</h3>
+            <p class="text-lg leading-relaxed">
+                Regression involves retreating to an earlier stage of development as a coping mechanism, often resulting in anxiety-reducing behaviors.
+            </p>
+        </div>
+    </div>
+</div>
+
+<div class="max-w-7xl mx-auto px-6 py-8 bg-white text-gray-800">
+    <h1 class="text-3xl font-semibold text-center mb-6 text-blue-600">Treatment of Schizophrenia</h1>
+    
+    <section class="space-y-8">
+        <h2 class="text-2xl font-semibold text-blue-500 mb-4">Psychopharmacology</h2>
+        <p class="text-lg leading-relaxed mb-4">
+            The primary medical treatment for schizophrenia is psychopharmacology. Antipsychotic medications, also known as neuroleptics, are used primarily to manage symptoms but do not cure the disease. These medications are classified into two categories:
+        </p>
+        
+        <div class="grid md:grid-cols-2 gap-8">
+            <div>
+                <h3 class="text-xl font-semibold text-blue-600">Conventional Antipsychotics</h3>
+                <p class="text-lg leading-relaxed">
+                    These target positive symptoms like delusions, hallucinations, and disturbed thinking. However, they have no effect on negative symptoms.
+                </p>
+            </div>
+            <div>
+                <h3 class="text-xl font-semibold text-blue-600">Atypical Antipsychotics</h3>
+                <p class="text-lg leading-relaxed">
+                    Atypical antipsychotics not only reduce positive symptoms but also alleviate some negative symptoms, including lack of motivation, social withdrawal, and anhedonia. They target both dopamine and serotonin receptors.
+                </p>
+            </div>
+        </div>
+
+        <h3 class="text-xl font-semibold text-blue-600 mt-6">Side Effects</h3>
+        <p class="text-lg leading-relaxed mb-4">
+            The side effects of antipsychotic medications can range from mild discomfort to severe conditions like movement disorders. Some of the common side effects include:
+        </p>
+        <div class="space-y-4">
+            <ul class="list-inside list-disc pl-6">
+                <li>Extrapyramidal side effects (EPS): dystonia, akathisia, parkinsonism</li>
+                <li>Tardive dyskinesia, seizures, neuroleptic malignant syndrome (NMS)</li>
+                <li>Nonneurologic side effects: weight gain, sedation, dry mouth, blurred vision, constipation</li>
+                <li>Serious reactions like muscle spasms, including dystonic reactions, may occur early in treatment</li>
+            </ul>
+        </div>
+
+        <h3 class="text-xl font-semibold text-blue-600 mt-6">Neuroleptic Malignant Syndrome (NMS)</h3>
+        <p class="text-lg leading-relaxed">
+            NMS is a potentially fatal condition caused by antipsychotic medications, characterized by muscle rigidity, high fever, and increased muscle enzymes. Discontinuation of the medication is the primary treatment.
+        </p>
+        
+        <h3 class="text-xl font-semibold text-blue-600 mt-6">Other Medical Treatments</h3>
+        <p class="text-lg leading-relaxed">
+            Electroconvulsive therapy (ECT) may also be used in some cases, especially when medication does not work.
+        </p>
+
+        <h2 class="text-2xl font-semibold text-blue-500 mt-8 mb-4">Psychosocial Treatment</h2>
+        <p class="text-lg leading-relaxed mb-4">
+            Individual and group therapy can be supportive for clients, offering them opportunities for social contact, medication management, and dealing with family concerns. These therapies help clients engage with their community and family for better recovery.
+        </p>
+
+        <h2 class="text-2xl font-semibold text-blue-500 mt-8 mb-4">Nursing Diagnosis</h2>
+        <p class="text-lg leading-relaxed mb-4">
+            Nursing diagnoses guide the care for clients with schizophrenia, including issues like disturbed thought processes, sensory perception disturbances, risk of violence, and social isolation.
+        </p>
+        
+        <h2 class="text-2xl font-semibold text-blue-500 mt-8 mb-4">Nursing Interventions</h2>
+        <div class="space-y-6">
+            <div class="bg-gray-100 p-4 rounded-lg shadow-sm">
+                <h3 class="text-xl font-semibold text-blue-600">Promoting Client Safety</h3>
+                <p class="text-lg leading-relaxed">
+                    Safety is a top priority for both the client and the nurse. The nurse must approach the client in a nonthreatening manner, provide ample personal space, and be alert for signs of agitation. If necessary, medication, a quiet space, or seclusion may be used.
+                </p>
+            </div>
+
+            <div class="bg-gray-100 p-4 rounded-lg shadow-sm">
+                <h3 class="text-xl font-semibold text-blue-600">Establishing Trust</h3>
+                <p class="text-lg leading-relaxed">
+                    Building trust takes time. Nurses should listen actively, ask clarifying questions, and ensure clear communication to foster trust and understanding. Avoid pretending to understand or agreeing with unclear statements.
+                </p>
+            </div>
+
+            <div class="bg-gray-100 p-4 rounded-lg shadow-sm">
+                <h3 class="text-xl font-semibold text-blue-600">Interventions for Delusional Thoughts</h3>
+                <p class="text-lg leading-relaxed">
+                    Delusional thoughts can be addressed with distraction techniques like listening to music or engaging in positive thinking. Direct interventions should focus on helping the client minimize the impact of delusions.
+                </p>
+            </div>
+
+            <div class="bg-gray-100 p-4 rounded-lg shadow-sm">
+                <h3 class="text-xl font-semibold text-blue-600">Interventions for Hallucinations</h3>
+                <p class="text-lg leading-relaxed">
+                    When dealing with hallucinations, the nurse should focus on what is real and help the client shift towards reality by asking clarifying questions and acknowledging the client’s experiences.
+                </p>
+            </div>
+        </div>
+    </section>
+</div>
+
+
+  </div>
+  
+    ),
+    
+  },
+  {
+    id: 13,
+    title: "Writing Observation Report",
+    content: (
+   <>
+ <div class="container mx-auto p-8 bg-gray-50 rounded-lg shadow-lg">
+ 
+  <h1 class="text-4xl font-extrabold text-center mb-12 text-indigo-700">Patient Evaluation Form</h1>
+
+
+  <section class="space-y-6">
+    <div class="flex items-center space-x-4 p-4 bg-indigo-100 rounded-lg shadow-md">
+      <span class="text-4xl text-indigo-600">🩺</span>
+      <h2 class="text-2xl font-semibold text-indigo-800">Physical Findings</h2>
+    </div>
+    <ul class="list-disc pl-10 text-lg space-y-2">
+      <li>Clothing and self-care features</li>
+      <li>Eating characteristics</li>
+      <li>Sleeping characteristics</li>
+      <li>Motor behavior</li>
+      <li>Facial expression and emotion</li>
+    </ul>
+  </section>
+
+
+  <section class="space-y-6 mt-10">
+    <div class="flex items-center space-x-4 p-4 bg-green-100 rounded-lg shadow-md">
+      <span class="text-4xl text-green-600">🧠</span>
+      <h2 class="text-2xl font-semibold text-green-800">Thought and Perception Features</h2>
+    </div>
+    <ul class="list-disc pl-10 text-lg space-y-2">
+      <li>Speech and communication features</li>
+      <li>Social behavioral characteristics and way of relating to the environment</li>
+      <li>Relations with service staff, compliance with the rules and clinical activities</li>
+      <li>Response to medication and treatment</li>
+      <li>Orientation-consciousness and memory-related features</li>
+    </ul>
+  </section>
+
+
+  <section class="space-y-6 mt-10">
+    <div class="flex items-center space-x-4 p-4 bg-yellow-100 rounded-lg shadow-md">
+      <span class="text-4xl text-yellow-600">⚖️</span>
+      <h2 class="text-2xl font-semibold text-yellow-800">Decision Making / Judging / Learning Features</h2>
+    </div>
+    <ul class="list-disc pl-10 text-lg space-y-2">
+      <li>Family processes and role performances</li>
+      <li>Values and beliefs</li>
+      <li>Features related to leave off</li>
+      <li>Relations with visitors</li>
+    </ul>
+  </section>
+
+
+  <section class="space-y-6 mt-10">
+    <div class="flex items-center space-x-4 p-4 bg-purple-100 rounded-lg shadow-md">
+      <span class="text-4xl text-purple-600">🖊️</span>
+      <h2 class="text-2xl font-semibold text-purple-800">Writing Reports</h2>
+    </div>
+    <ul class="list-disc pl-10 text-lg space-y-2">
+      <li>Writing with clear, smooth, legible ink pen, no deletion or scraping</li>
+      <li>Specifying date and time</li>
+      <li>Signing</li>
+    </ul>
+  </section>
+
+  
+  <section class="space-y-6 mt-10">
+    <div class="flex items-center space-x-4 p-4 bg-red-100 rounded-lg shadow-md">
+      <span class="text-4xl text-red-600">📅</span>
+      <h2 class="text-2xl font-semibold text-red-800">Recording Observations</h2>
+    </div>
+    <ul class="list-disc pl-10 text-lg space-y-2">
+      <li>Writing observations in order of time</li>
+      <li>Using clear and simple language</li>
+      <li>Not using commented expressions, being objective</li>
+      <li>Not using general statements/judgments/medical terms</li>
+      <li>Recording unusual events (place, time, person, intervention, medical treatment, nursing care)</li>
+      <li>Ensuring the continuity of the records</li>
+    </ul>
+  </section>
+
+
+  <div class="text-center mt-12 p-4 bg-gray-100 rounded-lg">
+    <p class="text-lg font-semibold text-gray-800">Note: Always maintain confidentiality and accuracy when documenting observations.</p>
+  </div>
+</div>
+
+
+   </>
+  
+    ),
+    
+  },
+  {
+    id: 14,
+    title: "ASSESSMENT AND RISK MANAGEMENT IN PSYCHIATRY CLINICS",
+    content: (
+   <>
+  <div class="max-w-3xl mx-auto p-6 bg-white rounded-lg shadow-lg space-y-6">
+  <h2 class="text-2xl font-semibold text-blue-800">🛡️ Safety in Mental Health Services</h2>
+  <p class="text-gray-600">
+    Safety is central to the provision of quality mental health services. However, adverse events do occur, sometimes with tragic personal consequences. Protecting patients and others from harm is a key priority, and risk management is an essential component of providing such protection.
+  </p>
+
+  <section class="bg-gray-50 p-4 rounded-md space-y-4">
+    <h3 class="text-xl font-medium text-blue-700">🏥 How should psychiatry clinics be?</h3>
+    <p class="text-gray-600">Different situations lead to different results, environments, and scenarios in psychiatric care. Below are some common factors involved in psychiatric clinics:</p>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+      <div class="space-y-2">
+        <h4 class="font-medium text-blue-600">🌍 Different Environments</h4>
+        <ul class="list-disc pl-5 text-gray-600">
+          <li>Acute</li>
+          <li>Rehabilitation</li>
+          <li>Chronic</li>
+          <li>Child and Adolescents</li>
+          <li>Substance Abuse</li>
+        </ul>
+      </div>
+
+      <div class="space-y-2">
+        <h4 class="font-medium text-blue-600">🛋️ Different Scenarios</h4>
+        <ul class="list-disc pl-5 text-gray-600">
+          <li>Ward Visit</li>
+          <li>Dining Room</li>
+          <li>Garden</li>
+          <li>Group Sessions</li>
+          <li>Recruitment Sessions</li>
+          <li>One-on-One Sessions</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="space-y-4">
+    <h3 class="text-xl font-medium text-blue-700">⚖️ Understanding Risk in Psychiatry Clinics</h3>
+    <p class="text-gray-600">
+      Risk is the probability that an adverse event or outcome will occur. Risk factors are certain characteristics of diseases, behaviors, or conditions that, alone or in combination, lead to an increased risk. Risk assessment is the probability of predicting adverse events occurring under certain conditions during a specified period of time.
+    </p>
+  </section>
+
+  <section class="bg-gray-50 p-4 rounded-md">
+    <h3 class="text-xl font-medium text-blue-700">🚨 What are the possible risks in psychiatry clinics?</h3>
+    <ul class="list-inside list-disc space-y-2 text-gray-600">
+      <li>💔 Risk of self-harm</li>
+      <li>⚔️ Risk of harming someone else</li>
+      <li>🔒 Compulsory measures to calm down violent patients</li>
+      <li>🩹 Risks of injury (to patients, staff, and the public)</li>
+      <li>💬 Risks to the service user experience</li>
+      <li>📋 Risks to compliance with standards</li>
+      <li>📉 Risks to objectives and projects</li>
+      <li>📊 Risks to business continuity</li>
+      <li>🕵️‍♂️ Risks to reputation</li>
+      <li>💸 Risk to finances</li>
+      <li>🌍 Risk to the environment</li>
+    </ul>
+  </section>
+
+  <div class="flex items-center justify-center">
+    <svg xmlns="http://www.w3.org/2000/svg" class="h-12 w-12 text-blue-500" viewBox="0 0 20 20" fill="currentColor">
+      <path fill-rule="evenodd" d="M5.293 5.293a1 1 0 011.414 0L10 8.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
+    </svg>
+  </div>
+</div>
+
+<div class="max-w-3xl mx-auto p-8 bg-white rounded-xl shadow-lg space-y-8">
+ 
+  <div class="text-center space-y-4">
+    <h2 class="text-3xl font-extrabold text-blue-900">🛡️ Managing Risks in Mental Health Care</h2>
+    <p class="text-lg text-gray-700">
+      Effective risk management is crucial for the safety and well-being of individuals in mental health care settings. Below are key risk areas to consider when managing people with mental health issues.
+    </p>
+  </div>
+
+  
+  <section class="space-y-8">
+    <h3 class="text-2xl font-semibold text-blue-800">🔎 Key Areas of Risk in Mental Health</h3>
+    
+   
+    <div class="space-y-3 bg-blue-50 p-6 rounded-xl shadow-md">
+      <h4 class="text-xl font-medium text-blue-700">🧠 Vulnerability</h4>
+      <p class="text-gray-600">
+        The service user can be at risk of harm due to personal or external factors (e.g., naiveté, low insight, family/social pressures, poverty, homelessness). 
+        Awareness of sexual vulnerability and the risk of both the patient’s own behavior and advances of others is critical.
+      </p>
+    </div>
+    
+   
+    <div class="space-y-3 bg-blue-50 p-6 rounded-xl shadow-md">
+      <h4 class="text-xl font-medium text-blue-700">💔 Self-Harm / Suicide Risk</h4>
+      <p class="text-gray-600">
+        The service user may be at risk of self-harm, intentional injury, or killing oneself through behaviors destructive to their own health or safety.
+      </p>
+    </div>
+
+   
+    <div class="space-y-3 bg-blue-50 p-6 rounded-xl shadow-md">
+      <h4 class="text-xl font-medium text-blue-700">⚠️ Mental Instability</h4>
+      <p class="text-gray-600">
+        The service user may be a risk to themselves or others due to fluctuating or unpredictable mental health, particularly in relation to command hallucinations or other disturbed phenomena.
+      </p>
+    </div>
+
+   
+    <div class="space-y-3 bg-blue-50 p-6 rounded-xl shadow-md">
+      <h4 class="text-xl font-medium text-blue-700">💥 Risk to Others</h4>
+      <p class="text-gray-600">
+        The service user may pose a risk of harm to others, either intentionally or unintentionally, or may encourage or involve others in causing harm or injury.
+      </p>
+    </div>
+  </section>
+
+ 
+  <section class="bg-blue-50 p-6 rounded-xl shadow-md space-y-4">
+    <h3 class="text-2xl font-semibold text-blue-800">⚖️ Risk Factors in Mental Health</h3>
+    <p class="text-gray-600">
+      The following images illustrate the risk factors for vulnerability, self-harm, and mental instability:
+    </p>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+     
+      <div class="text-center">
+        <img class="max-w-full rounded-xl shadow-md" src={riskFactor} alt="Risk Factor for Vulnerability" />
+        <p class="mt-2 text-gray-700">Risk Factors for Vulnerability</p>
+      </div>
+
+    
+      <div class="text-center">
+        <img class="max-w-full rounded-xl shadow-md" src={riskFactor2} alt="Risk Factor for Self-Harm" />
+        <p class="mt-2 text-gray-700">Risk Factors for Self-Harm</p>
+      </div>
+
+     
+      <div class="text-center">
+        <img class="max-w-full rounded-xl shadow-md" src={levelOfrisk} alt="Level of Risk" />
+        <p class="mt-2 text-gray-700">Level of Risk</p>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="space-y-8">
+    <h3 class="text-2xl font-semibold text-blue-800">🧑‍⚕️ Clinical Risk Management in Mental Health</h3>
+    <p class="text-gray-600">
+      Clinical Risk Management (CRM) in mental health is critical to ensuring the safety of patients and staff. While CRM is considered less advanced in mental health than in other healthcare sectors, increasing awareness is essential.
+    </p>
+    <div class="bg-blue-50 p-6 rounded-xl shadow-md">
+      <h4 class="text-xl font-medium text-blue-700">🔑 Main CRM Concerns:</h4>
+      <ul class="list-disc pl-5 text-gray-600 space-y-2">
+        <li>💥 Violence and self-destructive behavior (protecting patients and staff)</li>
+        <li>⚠️ Treatment and diagnostic errors, side effects of medication</li>
+        <li>💊 Risks associated with mental illnesses (e.g., psychosis or depression)</li>
+      </ul>
+    </div>
+  </section>
+
+  
+  <section class="space-y-8">
+    <h3 class="text-2xl font-semibold text-blue-800">📊 Clinical Risk Management Process</h3>
+    <p class="text-gray-600">
+      Risk management is a four-step process aimed at minimizing adverse events and providing safe, effective care:
+    </p>
+    <div class="text-center">
+      <img class="max-w-full rounded-xl shadow-md" src={riskassess} alt="Risk Management Process" />
+      <p class="mt-2 text-gray-700">Step 1: Identification of Risk</p>
+    </div>
+
+    <p class="text-gray-600">
+      Safe assessment requires the accumulation of reliable information and consideration of various risk factors. It involves multiple assessment methods and information sources, including family members, friends, GPs, and agencies.
+    </p>
+    <p class="text-gray-600">
+      Risk assessment is a continuous process that informs decision-making and supports systematic evaluation.
+    </p>
+
+    <div class="bg-blue-50 p-6 rounded-xl shadow-md">
+      <h4 class="text-xl font-medium text-blue-700">📝 Four Key Parameters of Risk:</h4>
+      <ul class="list-disc pl-5 text-gray-600 space-y-2">
+        <li>📖 History</li>
+        <li>🩺 Clinical</li>
+        <li>🔄 Disposition</li>
+        <li>🌍 Context</li>
+      </ul>
+    </div>
+  </section>
+</div>
+
+<div class="max-w-3xl mx-auto p-8 bg-white rounded-xl shadow-lg space-y-8">
+
+  <div class="text-center space-y-4">
+    <h2 class="text-3xl font-extrabold text-blue-900">🛡️ Risk Management in Mental Health Care</h2>
+    <p class="text-lg text-gray-700">
+      Effective risk management is essential for providing safe and effective care. Below, we outline the key steps in managing risk within mental health settings.
+    </p>
+  </div>
+
+  
+  <section class="space-y-8">
+    <h3 class="text-2xl font-semibold text-blue-800">🔍 Types of Risks</h3>
+    
+    
+    <div class="space-y-3 bg-blue-50 p-6 rounded-xl shadow-md">
+      <h4 class="text-xl font-medium text-blue-700">💔 Putting Yourself at Risk</h4>
+      <ul class="list-disc pl-5 text-gray-600">
+        <li>Self-harm</li>
+        <li>Suicide</li>
+        <li>Self-neglect</li>
+        <li>Substance or alcohol use</li>
+        <li>Medical conditions</li>
+      </ul>
+    </div>
+
+    
+    <div class="space-y-3 bg-blue-50 p-6 rounded-xl shadow-md">
+      <h4 class="text-xl font-medium text-blue-700">💥 Putting Others at Risk</h4>
+      <ul class="list-disc pl-5 text-gray-600">
+        <li>Harassment</li>
+        <li>Violence</li>
+        <li>Anger</li>
+        <li>Inner distress</li>
+      </ul>
+    </div>
+
+    <div class="space-y-3 bg-blue-50 p-6 rounded-xl shadow-md">
+      <h4 class="text-xl font-medium text-blue-700">⚠️ Being Put at Risk by Others</h4>
+      <ul class="list-disc pl-5 text-gray-600">
+        <li>Physical harm</li>
+        <li>Sexual harm</li>
+        <li>Emotional harm</li>
+        <li>Social harm</li>
+        <li>Economic harm</li>
+      </ul>
+    </div>
+  </section>
+
+
+  <section class="space-y-8">
+    <h3 class="text-2xl font-semibold text-blue-800">🔑 The Risk Management Process</h3>
+
+  
+    <div class="bg-blue-50 p-6 rounded-xl shadow-md space-y-4">
+      <h4 class="text-xl font-medium text-blue-700">🔍 Step 2: Analysis of Risk</h4>
+      <p class="text-gray-600">
+        Risk analysis is the systematic process of understanding and determining the level of risk. Risk management emphasizes prevention rather than prediction.
+        Consider all risk factors and the conditions under which they may increase or decrease. 
+        Multiple sources of information, including current and historical presentations, collateral reports (e.g., from family, partners, or GPs), and contextual features (e.g., intoxication or addiction), should be included in the analysis.
+      </p>
+      <p class="text-gray-600">
+        Don't forget to consider protective factors that can mitigate risk, both historical and current.
+      </p>
+    </div>
+
+  
+    <div class="bg-blue-50 p-6 rounded-xl shadow-md space-y-4">
+      <h4 class="text-xl font-medium text-blue-700">⚖️ Step 3: Evaluation of Risk</h4>
+      <p class="text-gray-600">
+        Evaluation of risk includes examining the nature, severity, imminence, and likelihood of risk. All risks should be identified, analyzed, and evaluated to determine the appropriate risk management approach.
+        This evaluation should be carried out collaboratively with service users, carers, professionals, and other stakeholders.
+      </p>
+      <p class="text-gray-600">
+        It is important to balance risk, need, and recovery while considering the person’s overall needs and balancing individual autonomy with public safety and professional accountability.
+        The risk evaluation should also factor in specific influences that might increase or decrease risk, such as alcohol addiction or bereavement.
+      </p>
+      <p class="text-gray-600">
+        The risk evaluation will guide the management plan, ensuring that decisions made are rational and evidence-based.
+      </p>
+    </div>
+
+   
+    <div class="bg-blue-50 p-6 rounded-xl shadow-md space-y-4">
+      <h4 class="text-xl font-medium text-blue-700">🛠️ Step 4: Treating the Risks – Clinical Risk Management Plan</h4>
+      <p class="text-gray-600">
+        Based on the information gathered in Steps 1-3, a clinical risk management plan is developed by the multidisciplinary team in partnership with the service user.
+        This plan informs ongoing treatment, care, and management, ensuring continuous review and adjustments as circumstances change.
+      </p>
+    </div>
+
+    
+    <div class="space-y-4 text-center">
+      <h4 class="text-xl font-medium text-blue-700">🛠️ Tools for Risk Assessment and Management</h4>
+      <p class="text-gray-600">Risk assessment tools play a vital role in identifying and managing risks. These tools should be used to assist in the decision-making process.</p>
+      <div class="flex justify-center">
+        <img class="max-w-full rounded-xl shadow-md" src={assessTools} alt="Risk Assessment Tools" />
+      </div>
+    </div>
+  </section>
+</div>
+
+<div class="max-w-3xl mx-auto p-8 bg-white rounded-xl shadow-lg space-y-8">
+  
+  <div class="text-center space-y-4">
+    <h2 class="text-3xl font-extrabold text-blue-900">🏥 Ideal Clinical Environment</h2>
+    <p class="text-lg text-gray-700">
+      Creating an ideal clinical environment is essential to ensure the safety and comfort of both patients and staff. Below, we outline key factors to consider and areas of improvement for an optimal care setting.
+    </p>
+  </div>
+
+
+  <section class="space-y-8">
+    <h3 class="text-2xl font-semibold text-blue-800">🔑 Key Factors in the Clinical Environment</h3>
+
+  
+    <div class="space-y-3 bg-blue-50 p-6 rounded-xl shadow-md">
+      <h4 class="text-xl font-medium text-blue-700">🏢 Clinical Environment Considerations</h4>
+      <ul class="list-disc pl-5 text-gray-600">
+        <li>Security</li>
+        <li>Noise level</li>
+        <li>Room temperature</li>
+        <li>External distractions</li>
+        <li>Alternative exits</li>
+        <li>Reaching the call source when needed</li>
+      </ul>
+    </div>
+
+  
+    <div class="space-y-3 bg-blue-50 p-6 rounded-xl shadow-md">
+      <h4 class="text-xl font-medium text-blue-700">💡 How to Improve the Clinical Environment</h4>
+      <ul class="list-disc pl-5 text-gray-600">
+        <li>Better clinical environment design</li>
+        <li>Sustainable patient safety measures</li>
+        <li>Improved risk assessment procedures</li>
+        <li>Enhanced teamwork and collaboration</li>
+        <li>Non-custodial approach for handling patients</li>
+        <li>Explaining ward policies and rules early</li>
+      </ul>
+    </div>
+
+    
+    <div class="space-y-3 bg-blue-50 p-6 rounded-xl shadow-md">
+      <h4 class="text-xl font-medium text-blue-700">🛏️ Treatment Room Setup</h4>
+      <ul class="list-disc pl-5 text-gray-600">
+        <li>Getting familiar with the treatment room layout</li>
+        <li>Drug store location and organization</li>
+        <li>Managing cold materials and temperature</li>
+        <li>Ensuring sufficient materials (e.g., sharp edges, sinks, protective clothing)</li>
+      </ul>
+    </div>
+  </section>
+
+ 
+  <section class="space-y-8">
+    <h3 class="text-2xl font-semibold text-blue-800">🩺 Treatment Management Procedures</h3>
+
+    <div class="space-y-3 bg-blue-50 p-6 rounded-xl shadow-md">
+      <h4 class="text-xl font-medium text-blue-700">👩‍⚕️ Treatment Process</h4>
+      <ul class="list-disc pl-5 text-gray-600">
+        <li>Introduce yourself and welcome the patient</li>
+        <li>Check for the correct patient</li>
+        <li>Offer a glass of water</li>
+        <li>Confirm if the patient received the treatment</li>
+        <li>Ensure the responsible nurse ends the procedure correctly</li>
+        <li>Always have two nurses for treatment procedures</li>
+      </ul>
+    </div>
+
+   
+    <div class="space-y-3 bg-blue-50 p-6 rounded-xl shadow-md">
+      <h4 class="text-xl font-medium text-blue-700">💊 Storing and Administering Medicine</h4>
+      <ul class="list-disc pl-5 text-gray-600">
+        <li>Adhere to drug storage guidelines and policies</li>
+        <li>Always check if the required drug is available</li>
+        <li>Provide small doses to prevent adverse effects (theoretical dose)</li>
+        <li>Ensure there is a warehouse management table for drug storage</li>
+      </ul>
+    </div>
+  </section>
+
+
+  <section class="space-y-8">
+    <h3 class="text-2xl font-semibold text-blue-800">⚠️ Good Practice and Key Clinical Risks</h3>
+
+    <div class="space-y-3 bg-blue-50 p-6 rounded-xl shadow-md">
+      <h4 class="text-xl font-medium text-blue-700">🔑 Risk Management and Clinical Practice</h4>
+      <p class="text-gray-600">
+        Risk management is integral to good clinical practice. Effective communication, service user and staff safety, and ongoing training and support are key factors.
+      </p>
+    </div>
+
+
+    <div class="space-y-3 bg-blue-50 p-6 rounded-xl shadow-md">
+      <h4 class="text-xl font-medium text-blue-700">🗣️ Communication in Risk Management</h4>
+      <p class="text-gray-600">
+        Communication is central to effective risk management. Several aspects are vital:
+      </p>
+      <ul class="list-disc pl-5 text-gray-600">
+        <li>Listening to all concerned parties for a full, clear picture</li>
+        <li>Asking appropriate questions to ensure comprehensive assessment</li>
+        <li>Maintaining good written records for clarity and accountability</li>
+        <li>Regularly reviewing and consulting records to track changes</li>
+        <li>Establishing a strategy with clear action points and shared goals</li>
+        <li>Ensuring confidentiality and sharing information on a ‘need-to-know’ basis</li>
+        <li>Reviewing risk management strategies regularly as risks are dynamic</li>
+      </ul>
+    </div>
+
+   
+    <div class="space-y-3 bg-blue-50 p-6 rounded-xl shadow-md">
+      <h4 class="text-xl font-medium text-blue-700">🤝 Collaboration Across Agencies</h4>
+      <p class="text-gray-600">
+        When agencies work together effectively, the risks are better managed, and clinical outcomes improve. Standardized forms and safe systems should be implemented, with regular updates provided to ensure continuous improvement.
+      </p>
+    </div>
+  </section>
+
+ 
+  <div class="text-center">
+    <img class="max-w-full rounded-xl shadow-md" src={adminright} alt="Admin Right Tools" />
+  </div>
+</div>
+
+<div class="max-w-4xl mx-auto p-8 bg-white rounded-xl shadow-lg space-y-8">
+ 
+  <div class="text-center space-y-4">
+    <h2 class="text-3xl font-extrabold text-blue-900">⚖️ Managing Risk in Mental Health Settings</h2>
+    <p class="text-lg text-gray-700">
+      Although risk can never be completely eliminated, it can be minimized with careful attention to documentation, communication, and active monitoring.
+    </p>
+  </div>
+
+  
+  <section class="space-y-8">
+    <h3 class="text-2xl font-semibold text-blue-800">📝 Minimizing Risk Through Documentation</h3>
+
+    
+    <div class="bg-blue-50 p-6 rounded-xl shadow-md space-y-3">
+      <h4 class="text-xl font-medium text-blue-700">📚 Good Written Records</h4>
+      <p class="text-gray-600">
+        Proper documentation is crucial to managing risk. Without clear records, important information can be forgotten, missed, or ignored.
+      </p>
+      <ul class="list-disc pl-5 text-gray-600">
+        <li>Ensure all information is recorded accurately and thoroughly.</li>
+        <li>Consistently review and update records to monitor changes.</li>
+        <li>Clear and detailed records help in forming a strategy for action and communication.</li>
+      </ul>
+    </div>
+
+   
+    <div class="bg-blue-50 p-6 rounded-xl shadow-md space-y-3">
+      <h4 class="text-xl font-medium text-blue-700">🔄 Regular Review and Active Learning</h4>
+      <p class="text-gray-600">
+        Regular review of records and risk assessments ensures that no crucial detail is missed, reducing the risk of underestimating potential hazards.
+      </p>
+      <ul class="list-disc pl-5 text-gray-600">
+        <li>Risk is dynamic and requires an active, changing process for management.</li>
+        <li>Missing information can lead to underestimation of risk, which may prevent necessary actions from being taken.</li>
+        <li>Develop a culture of regular review and collaboration among team members.</li>
+      </ul>
+    </div>
+
+  
+    <div class="bg-blue-50 p-6 rounded-xl shadow-md space-y-3">
+      <h4 class="text-xl font-medium text-blue-700">🔐 Confidentiality and Communication</h4>
+      <p class="text-gray-600">
+        Clear communication and confidentiality are key when managing risk. Information sharing should only happen on a 'need-to-know' basis.
+      </p>
+      <ul class="list-disc pl-5 text-gray-600">
+        <li>Maintain confidentiality at all times to protect both patients and staff.</li>
+        <li>Ensure that information is shared effectively within the care team, respecting privacy guidelines.</li>
+        <li>Develop a communication strategy that fosters trust and clarity among all stakeholders.</li>
+      </ul>
+    </div>
+  </section>
+
+  
+  <section class="space-y-8">
+    <h3 class="text-2xl font-semibold text-blue-800">🛡️ Service User and Staff Safety</h3>
+
+
+    <div class="bg-blue-50 p-6 rounded-xl shadow-md space-y-3">
+      <h4 class="text-xl font-medium text-blue-700">💥 Violence and Aggression in Mental Health</h4>
+      <p class="text-gray-600">
+        Aggression and violence in mental health services are complex issues that pose a risk to both patients and staff. Effective risk management is necessary to ensure a safe environment for all.
+      </p>
+      <ul class="list-disc pl-5 text-gray-600">
+        <li>Aggressive behavior is a significant concern for both staff and service users.</li>
+        <li>Service users can feel unsafe in inpatient settings, even though the aim is to provide a safe and therapeutic environment.</li>
+        <li>Managing disruptive behavior requires balancing patient rights with the safety of all involved.</li>
+      </ul>
+    </div>
+
+    
+    <div class="bg-blue-50 p-6 rounded-xl shadow-md space-y-3">
+      <h4 class="text-xl font-medium text-blue-700">⚖️ Legal Obligations for Employers</h4>
+      <p class="text-gray-600">
+        Employers have a legal obligation to ensure the safety of employees and others within the mental health setting. This includes conducting risk assessments and implementing protective measures.
+      </p>
+      <ul class="list-disc pl-5 text-gray-600">
+        <li>Organizations must take all reasonable steps to prevent accidents and injuries.</li>
+        <li>Systematic risk assessments should inform the implementation of necessary control measures.</li>
+        <li>Employers must continuously monitor and adjust risk management strategies as needed.</li>
+      </ul>
+    </div>
+
+   
+    <div class="bg-blue-50 p-6 rounded-xl shadow-md space-y-3">
+      <h4 class="text-xl font-medium text-blue-700">🎯 High-Priority Risk Reduction Measures</h4>
+      <p class="text-gray-600">
+        Effective risk management in mental health settings requires attention to a range of high-priority areas. These should be addressed as soon as possible.
+      </p>
+      <ul class="list-disc pl-5 text-gray-600">
+        <li>Risks associated with lone working and working alone</li>
+        <li>Non-physical aggression and violence</li>
+        <li>Physical aggression and violence</li>
+        <li>Behavioral manifestations of medical conditions (e.g., cognitive impairments, substance use)</li>
+        <li>Training and managing physical interventions</li>
+        <li>Psychological impacts of aggression and violence</li>
+      </ul>
+    </div>
+
+    
+    <div class="bg-blue-50 p-6 rounded-xl shadow-md space-y-3">
+      <h4 class="text-xl font-medium text-blue-700">🛠️ Organisational Response to Aggression and Violence</h4>
+      <p class="text-gray-600">
+        A cohesive, integrated approach is needed to address work-related aggression and violence effectively, considering both health and safety, and quality perspectives.
+      </p>
+      <ul class="list-disc pl-5 text-gray-600">
+        <li>A contextual understanding of aggression in healthcare is essential.</li>
+        <li>An integrated and balanced response is key to managing risks and improving outcomes.</li>
+        <li>A partnership ethos of collaboration among staff and external agencies can significantly improve safety.</li>
+      </ul>
+    </div>
+  </section>
+
+</div>
+
+<div class="max-w-4xl mx-auto p-8 bg-white rounded-xl shadow-xl space-y-8">
+
+
+  <div class="text-center space-y-4">
+    <h2 class="text-3xl font-extrabold text-blue-900">👩‍⚕️ Staff Training & Support in Mental Health Risk Management</h2>
+    <p class="text-lg text-gray-700">
+      Effective training and support for mental health staff are crucial to managing risk and ensuring patient safety in clinical settings.
+    </p>
+  </div>
+
+
+  <section class="space-y-8">
+    <h3 class="text-2xl font-semibold text-blue-800">📚 Importance of Staff Training & Support</h3>
+
+    <div class="bg-blue-50 p-6 rounded-xl shadow-md space-y-3">
+      <h4 class="text-xl font-medium text-blue-700">🛠️ Comprehensive Training</h4>
+      <p class="text-gray-600">
+        All staff involved in mental health services must receive ongoing training in risk management. This includes:
+      </p>
+      <ul class="list-disc pl-5 text-gray-600">
+        <li>Training on mental health risk management at multiple levels.</li>
+        <li>Specialist training on aggression and violence prevention and management.</li>
+        <li>Collaborative skills to work effectively with service users, carers, and other agencies.</li>
+      </ul>
+    </div>
+
+    <div class="bg-blue-50 p-6 rounded-xl shadow-md space-y-3">
+      <h4 class="text-xl font-medium text-blue-700">🤝 Multidisciplinary Collaboration</h4>
+      <p class="text-gray-600">
+        The success of a risk management strategy hinges on the involvement of all staff members, whether directly or indirectly involved. This is best achieved through:
+      </p>
+      <ul class="list-disc pl-5 text-gray-600">
+        <li>Clear expectations for each staff role within a collaborative framework.</li>
+        <li>Multidisciplinary team training to ensure a coordinated approach.</li>
+      </ul>
+    </div>
+  </section>
+
+  
+  <section class="space-y-8">
+    <h3 class="text-2xl font-semibold text-blue-800">🔑 Key Competencies for Effective Risk Management</h3>
+
+    <div class="bg-blue-50 p-6 rounded-xl shadow-md space-y-3">
+      <h4 class="text-xl font-medium text-blue-700">📋 Essential Competencies</h4>
+      <ul class="list-decimal pl-8 text-gray-600 space-y-2">
+        <li>Positive risk management should be an integral part of a well-constructed care plan for all mental health practitioners.</li>
+        <li>Decisions should be based on research evidence, individual service user knowledge, and clinical judgment.</li>
+        <li>Collaboration between service users and carers is key, fostering a trusting and transparent relationship.</li>
+        <li>Risk management plans must be grounded in the service user's strengths, focusing on recovery.</li>
+      </ul>
+    </div>
+
+    <div class="bg-blue-50 p-6 rounded-xl shadow-md space-y-3">
+      <h4 class="text-xl font-medium text-blue-700">📊 Structured, Dynamic Approach</h4>
+      <ul class="list-decimal pl-8 text-gray-600 space-y-2">
+        <li>Risk management requires a flexible approach to prevent harm or minimize its impact.</li>
+        <li>Risk assessments should be both general and specific, reducing potential harm effectively.</li>
+        <li>Understanding mental health legislation is essential for appropriate risk management actions.</li>
+      </ul>
+    </div>
+  </section>
+
+ 
+  <section class="space-y-8">
+    <h3 class="text-2xl font-semibold text-blue-800">📅 Developing a Comprehensive Risk Management Plan</h3>
+
+    <div class="bg-blue-50 p-6 rounded-xl shadow-md space-y-3">
+      <h4 class="text-xl font-medium text-blue-700">📝 Key Components of a Risk Management Plan</h4>
+      <ul class="list-decimal pl-8 text-gray-600 space-y-2">
+        <li>A clear summary of identified risks and situations in which they may occur.</li>
+        <li>Action plans that outline what to do during a crisis, both for the practitioner and the service user.</li>
+        <li>Regular assessments using structured clinical judgment (SPJ) tools to ensure thorough evaluation of risks.</li>
+        <li>Plans should be developed by multidisciplinary teams in an open, democratic culture that encourages reflective practice.</li>
+      </ul>
+    </div>
+
+    <div class="bg-blue-50 p-6 rounded-xl shadow-md space-y-3">
+      <h4 class="text-xl font-medium text-blue-700">📅 Regular Review & Updating</h4>
+      <p class="text-gray-600">
+        A risk management plan is only as good as the time and effort put into communicating and updating it regularly. All involved parties should:
+      </p>
+      <ul class="list-disc pl-5 text-gray-600">
+        <li>Ensure all updates are communicated effectively to all stakeholders.</li>
+        <li>Regularly review risk levels as they can change over time.</li>
+        <li>Ensure that each service user receives a personalized and consistent approach to their care and risk management plan.</li>
+      </ul>
+    </div>
+  </section>
+
+ 
+  <section class="space-y-8">
+    <h3 class="text-2xl font-semibold text-blue-800">🗓️ Ongoing Training and Best Practice Principles</h3>
+
+    <div class="bg-blue-50 p-6 rounded-xl shadow-md space-y-3">
+      <h4 class="text-xl font-medium text-blue-700">🕒 Training Frequency</h4>
+      <p class="text-gray-600">
+        All staff involved in risk management should receive relevant training that is updated at least every three years. This ensures that staff:
+      </p>
+      <ul class="list-disc pl-5 text-gray-600">
+        <li>Stay up-to-date with the latest practices in risk management.</li>
+        <li>Are equipped with the necessary knowledge to handle evolving challenges in mental health care.</li>
+      </ul>
+    </div>
+
+    <div class="bg-blue-50 p-6 rounded-xl shadow-md space-y-3">
+      <h4 class="text-xl font-medium text-blue-700">🌟 Best Practice Principles</h4>
+      <p class="text-gray-600">
+        Effective risk assessment and management is guided by several key principles:
+      </p>
+      <ul class="list-disc pl-5 text-gray-600">
+        <li>Risk management must incorporate a holistic approach, considering historical, clinical, dispositional, and contextual parameters.</li>
+        <li>Structured Professional Judgment (SPJ) instruments help ensure comprehensive assessments that prevent missing key areas of risk.</li>
+        <li>Effective care requires mental health professionals to actively involve service users in the care and risk management process, fostering a sense of ownership and collaboration.</li>
+      </ul>
+    </div>
+  </section>
+
+  
+  <div class="text-center space-y-4">
+    <h3 class="text-2xl font-semibold text-blue-900">💡 Conclusion: Risk Can Be Minimized</h3>
+    <p class="text-lg text-gray-700">
+      While it is impossible to completely eliminate risk, following these structured processes and prioritizing communication, safety, and training will significantly minimize risk and improve outcomes for both staff and service users.
+    </p>
+  </div>
+
+</div>
+
+   </>
+  
+    ),
+    
+  },
+  {
+    id: 15,
+    title: "INDIVIDUALS WITH PERSONALITY DISORDER AND THE NURSING APPROACH",
+    content: (
+   <>
+   <div class="max-w-4xl mx-auto p-8 bg-white rounded-xl shadow-xl space-y-8">
+
+
+<div class="text-center space-y-4">
+  <h2 class="text-3xl font-extrabold text-blue-900">🧠 What is Personality?</h2>
+  <p class="text-lg text-gray-700">
+    Personality encompasses unique traits that define individuals and their behaviors, and is shaped by a blend of cognitive, emotional, and social factors.
+  </p>
+</div>
+
+
+<section class="space-y-8">
+  <h3 class="text-2xl font-semibold text-blue-800">🔍 Personality Overview</h3>
+
+  <div class="bg-blue-50 p-6 rounded-xl shadow-md space-y-3">
+    <h4 class="text-xl font-medium text-blue-700">💡 What is Personality?</h4>
+    <p class="text-gray-600">
+      Derived from the Greek word *persona*, personality refers to an individual's unique traits and behaviors that distinguish them from others. It includes:
+    </p>
+    <ul class="list-disc pl-5 text-gray-600">
+      <li>How an individual thinks, perceives, and interprets the world.</li>
+      <li>The ability to show emotional reactions in varying situations.</li>
+      <li>Effective coping mechanisms and defense responses to frustration or conflict.</li>
+    </ul>
+  </div>
+</section>
+
+
+<section class="space-y-8">
+  <h3 class="text-2xl font-semibold text-blue-800">⚠️ Personality Disorders</h3>
+
+  <div class="bg-blue-50 p-6 rounded-xl shadow-md space-y-3">
+    <h4 class="text-xl font-medium text-blue-700">🧩 Key Features of Personality Disorders</h4>
+    <ul class="list-disc pl-5 text-gray-600">
+      <li>Self-involved behaviors without flexibility for adaptation.</li>
+      <li>Deviation from societal norms causing interpersonal conflict.</li>
+      <li>Persistent patterns from childhood, leading to significant deterioration in work and social life.</li>
+      <li>Unwillingness to change or recognize the need for change.</li>
+      <li>Conflict with the environment, often attempting to change surroundings to fit personal needs.</li>
+      <li>No significant cognitive or emotional impairment.</li>
+    </ul>
+  </div>
+</section>
+
+
+<section class="space-y-8">
+  <h3 class="text-2xl font-semibold text-blue-800">📊 Prevalence and Gender Distribution</h3>
+
+  <div class="bg-blue-50 p-6 rounded-xl shadow-md space-y-3">
+    <h4 class="text-xl font-medium text-blue-700">🔢 Frequency & Prevalence</h4>
+    <p class="text-gray-600">
+      Personality disorders are more common in:
+    </p>
+    <ul class="list-disc pl-5 text-gray-600">
+      <li>Urbanized, industrialized societies with low socio-economic levels.</li>
+      <li>Rapidly changing or unstable social environments.</li>
+    </ul>
+    <p class="text-gray-600">
+      Prevalence studies indicate a rate of 10-20% in developed societies, with no significant gender difference.
+    </p>
+  </div>
+</section>
+
+
+<section class="space-y-8">
+  <h3 class="text-2xl font-semibold text-blue-800">🧬 Etiology of Personality Disorders</h3>
+
+  <div class="bg-blue-50 p-6 rounded-xl shadow-md space-y-3">
+    <h4 class="text-xl font-medium text-blue-700">🔬 Genetic and Biological Factors</h4>
+    <p class="text-gray-600">
+      Personality disorders may be influenced by genetic and biological factors:
+    </p>
+    <ul class="list-disc pl-5 text-gray-600">
+      <li>**Antisocial Personality Disorder**: Often linked with alcohol use.</li>
+      <li>**Histrionic Personality Disorder**: Tied to somatization disorders.</li>
+      <li>**Schizotypal Personality Disorder**: Associated with low platelet levels and MAO activity.</li>
+      <li>**Borderline & Antisocial Personality Disorders**: Connected to abnormal EEG slow-wave activity.</li>
+    </ul>
+  </div>
+
+  <div class="bg-blue-50 p-6 rounded-xl shadow-md space-y-3">
+    <h4 class="text-xl font-medium text-blue-700">🧠 Psychoanalytic Theories</h4>
+    <p class="text-gray-600">
+      Renowned psychoanalysts like **Freud** and **Reich** have contributed theories explaining personality disorders:
+    </p>
+    <ul class="list-disc pl-5 text-gray-600">
+      <li>**Freud** emphasized unconscious conflicts as a root cause.</li>
+      <li>**Reich** focused on body armoring and emotional repression.</li>
+    </ul>
+  </div>
+</section>
+
+
+<section class="space-y-8">
+  <h3 class="text-2xl font-semibold text-blue-800">🔚 Summary</h3>
+
+  <div class="bg-blue-50 p-6 rounded-xl shadow-md space-y-3">
+    <p class="text-gray-600">
+      Personality encompasses a person's unique cognitive, emotional, and behavioral patterns. When these traits become rigid and cause significant disruption in life, personality disorders may arise. These disorders are often resistant to change and can lead to conflict within the individual's environment.
+    </p>
+  </div>
+</section>
+
+</div>
+
+<div class="max-w-4xl mx-auto p-8 bg-white rounded-xl shadow-xl space-y-8">
+  <h2 class="text-3xl font-extrabold text-blue-900 text-center">🧠 Types of Personality Disorders</h2>
+
+  
+  <section class="space-y-6">
+    <h3 class="text-2xl font-semibold text-blue-800 text-center">📊 Personality Disorder Clusters</h3>
+
+    <div class="overflow-x-auto bg-blue-50 p-6 rounded-xl shadow-md">
+      <table class="min-w-full text-center table-auto">
+        <thead>
+          <tr class="bg-blue-200">
+            <th class="px-6 py-4 text-xl font-medium text-blue-700">Cluster-A (Weird)</th>
+            <th class="px-6 py-4 text-xl font-medium text-blue-700">Cluster-B (Dramatic)</th>
+            <th class="px-6 py-4 text-xl font-medium text-blue-700">Cluster-C (Anxious)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="border-t border-b bg-white">
+            <td class="px-6 py-4 text-gray-700">Paranoid</td>
+            <td class="px-6 py-4 text-gray-700">Antisocial</td>
+            <td class="px-6 py-4 text-gray-700">Avoidant</td>
+          </tr>
+          <tr class="border-t border-b bg-gray-50">
+            <td class="px-6 py-4 text-gray-700">Schizoid</td>
+            <td class="px-6 py-4 text-gray-700">Borderline</td>
+            <td class="px-6 py-4 text-gray-700">Dependent</td>
+          </tr>
+          <tr class="border-t border-b bg-white">
+            <td class="px-6 py-4 text-gray-700">Schizotypal</td>
+            <td class="px-6 py-4 text-gray-700">Histrionic</td>
+            <td class="px-6 py-4 text-gray-700">Obsessive-Compulsive</td>
+          </tr>
+          <tr class="border-t border-b bg-gray-50">
+            <td class="px-6 py-4 text-gray-700">—</td>
+            <td class="px-6 py-4 text-gray-700">Narcissistic</td>
+            <td class="px-6 py-4 text-gray-700">—</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+   
+    <p class="text-gray-600 text-center">
+      This table categorizes various types of personality disorders into three clusters based on their characteristics:
+      <ul class="list-disc pl-6 space-y-1 text-gray-600">
+        <li><strong>Cluster A</strong> (Weird): Disorders characterized by odd or eccentric behavior.</li>
+        <li><strong>Cluster B</strong> (Dramatic): Disorders marked by emotional, erratic, or dramatic behaviors.</li>
+        <li><strong>Cluster C</strong> (Anxious): Disorders characterized by anxiety, fear, and avoidance behaviors.</li>
+      </ul>
+    </p>
+  </section>
+</div>
+
+<div class="max-w-4xl mx-auto p-8 bg-white rounded-xl shadow-xl space-y-8">
+
+  <div class="text-center space-y-4">
+    <h2 class="text-3xl font-extrabold text-blue-900">🧠 Other Personality Disorders</h2>
+    <p class="text-lg text-gray-700">
+      Exploring various types of personality disorders beyond the core clusters.
+    </p>
+  </div>
+
+  
+  <section class="space-y-6">
+    <h3 class="text-2xl font-semibold text-blue-800 text-center">⚡ Other Personality Disorders</h3>
+    <ul class="list-disc pl-8 text-gray-700">
+      <li><span class="font-medium text-blue-700">💭</span> Personality Changes Due to General Medical Condition</li>
+      <li><span class="font-medium text-blue-700">🌀</span> Passive-aggressive Personality Disorder</li>
+      <li><span class="font-medium text-blue-700">🔗</span> Sadomasochistic Personality Disorder</li>
+      <li><span class="font-medium text-blue-700">❓</span> Personality Disorder Not Otherwise Specified</li>
+    </ul>
+  </section>
+
+ 
+  <section class="space-y-6">
+    <h3 class="text-2xl font-semibold text-blue-800 text-center">🔍 Cluster-A: Odd or Eccentric Disorders</h3>
+    
+   
+    <div class="bg-blue-50 p-6 rounded-xl shadow-md space-y-4">
+      <h4 class="text-xl font-medium text-blue-700">1. 🕵️‍♂️ Paranoid Personality Disorder</h4>
+      <p class="text-gray-600">
+        People with this disorder are often suspicious and distrustful of others. Key traits include:
+      </p>
+      <ul class="list-disc pl-6 text-gray-600">
+        <li>🧐 Suspicion that others may be harmful or deceiving.</li>
+        <li>🤔 Difficulty trusting friends, colleagues, or loved ones.</li>
+        <li>💬 Interpreting ordinary words or events as threatening.</li>
+        <li>💢 Vindictiveness and a strong sense of injustice.</li>
+        <li>💔 Suspicion toward spouses and loved ones, expecting harm.</li>
+      </ul>
+    </div>
+
+    
+    <div class="bg-blue-50 p-6 rounded-xl shadow-md space-y-4">
+      <h4 class="text-xl font-medium text-blue-700">2. 🌫️ Schizoid Personality Disorder</h4>
+      <p class="text-gray-600">
+        Individuals with schizoid personality disorder tend to be emotionally detached and withdrawn. Traits include:
+      </p>
+      <ul class="list-disc pl-6 text-gray-600">
+        <li>🚶‍♂️ Lack of interest in intimate relationships.</li>
+        <li>📚 Preference for solitary activities and hobbies.</li>
+        <li>💔 Emotional coldness, detachment, and monotony.</li>
+        <li>💭 Limited interest in sexual experiences or interactions.</li>
+        <li>👥 Few to no close friends outside of 1-2 people.</li>
+      </ul>
+    </div>
+
+   
+    <div class="bg-blue-50 p-6 rounded-xl shadow-md space-y-4">
+      <h4 class="text-xl font-medium text-blue-700">3. 🔮 Schizotypal Personality Disorder</h4>
+      <p class="text-gray-600">
+        Individuals with this disorder exhibit odd beliefs and behaviors. Key characteristics include:
+      </p>
+      <ul class="list-disc pl-6 text-gray-600">
+        <li>🔮 Bizarre beliefs and magical thinking (e.g., superstition, sixth sense).</li>
+        <li>👀 Unusual perceptual experiences or bodily illusions.</li>
+        <li>🗣️ Peculiar speech and mannerisms.</li>
+        <li>🤯 Skepticism and paranoid thinking.</li>
+        <li>😶 Inappropriate or limited affect (emotional expression).</li>
+        <li>👤 Limited close friends or confidants.</li>
+        <li>😨 Social anxiety, often linked to paranoid fears.</li>
+      </ul>
+    </div>
+  </section>
+
+</div>
+
+<div class="max-w-4xl mx-auto p-8 bg-white rounded-xl shadow-xl space-y-8">
+
+
+  <div class="text-center space-y-4">
+    <h2 class="text-3xl font-extrabold text-blue-900">🔥 Cluster-B: Dramatic, Emotional, or Erratic Disorders</h2>
+    <p class="text-lg text-gray-700">
+      Cluster B personality disorders are marked by dramatic, emotional, or unpredictable behaviors. Here's a look at each disorder in this category.
+    </p>
+  </div>
+
+ 
+  <section class="space-y-6">
+    <div class="bg-red-50 p-6 rounded-xl shadow-md space-y-4">
+      <h3 class="text-xl font-medium text-red-700">1. ⚡ Antisocial Personality Disorder</h3>
+      <p class="text-gray-600">
+        People with antisocial personality disorder often disregard the rights and feelings of others. They exhibit the following behaviors:
+      </p>
+      <ul class="list-disc pl-6 text-gray-600">
+        <li>🚫 Difficulty adapting to social conditions.</li>
+        <li>⚠️ Onset typically before the age of 15.</li>
+        <li>👫 Disregard for the rights of others, with actions leading to arrests.</li>
+        <li>💥 Impulsive behavior and aggression.</li>
+        <li>🧨 Indifference to self and others' safety.</li>
+        <li>⛔ Persistent irresponsibility with little remorse.</li>
+        <li>❌ No signs of schizophrenia or manic episodes.</li>
+        <li>🎯 Be over 18 years old for diagnosis.</li>
+      </ul>
+    </div>
+  </section>
+
+  
+  <section class="space-y-6">
+    <div class="bg-yellow-50 p-6 rounded-xl shadow-md space-y-4">
+      <h3 class="text-xl font-medium text-yellow-700">2. 💔 Borderline Personality Disorder</h3>
+      <p class="text-gray-600">
+        Individuals with borderline personality disorder often experience extreme emotional instability and interpersonal challenges. They may show:
+      </p>
+      <ul class="list-disc pl-6 text-gray-600">
+        <li>💢 Frantic efforts to avoid abandonment, real or imagined.</li>
+        <li>🔄 Intense, unstable relationships that alternate between idealization and devaluation.</li>
+        <li>🌀 Identity confusion or instability.</li>
+        <li>⚠️ Higher risk of self-harm or suicidal behaviors.</li>
+        <li>💥 Impulsivity in at least two areas, such as spending money, substance abuse, reckless driving, or binge eating.</li>
+      </ul>
+    </div>
+  </section>
+
+  
+  <section class="space-y-6">
+    <div class="bg-pink-50 p-6 rounded-xl shadow-md space-y-4">
+      <h3 class="text-xl font-medium text-pink-700">3. 🌟 Histrionic Personality Disorder</h3>
+      <p class="text-gray-600">
+        People with histrionic personality disorder seek constant attention and approval. Key traits include:
+      </p>
+      <ul class="list-disc pl-6 text-gray-600">
+        <li>🎤 Discomfort when not the center of attention.</li>
+        <li>💃 Tendency to exhibit seductive behavior to attract attention.</li>
+        <li>😱 Fast-changing, exaggerated emotions.</li>
+        <li>💅 Attention-seeking behavior, often through physical appearance.</li>
+        <li>🎭 Speaking in a vague, dramatic manner to impress others.</li>
+        <li>💭 Easily influenced or prone to suggestion.</li>
+        <li>💓 Expecting relationships to be more intimate than they are.</li>
+      </ul>
+    </div>
+  </section>
+  <section class="space-y-6">
+    <div class="bg-indigo-50 p-6 rounded-xl shadow-md space-y-4">
+      <h3 class="text-xl font-medium text-indigo-700">4. 👑 Narcissistic Personality Disorder</h3>
+      <p class="text-gray-600">
+        Those with narcissistic personality disorder often have an inflated sense of self-importance. Their behaviors include:
+      </p>
+      <ul class="list-disc pl-6 text-gray-600">
+        <li>🤴 Belief in their superiority and importance.</li>
+        <li>🌟 Exaggeration of achievements and abilities, expecting recognition without merit.</li>
+        <li>💭 Fantasies of unlimited success, power, intelligence, or love.</li>
+        <li>✨ Belief that they are special and should associate with other special people.</li>
+        <li>💥 A strong desire to be admired and praised.</li>
+        <li>💼 Entitlement and expectations of special treatment.</li>
+      </ul>
+    </div>
+  </section>
+
+</div>
+
+<div class="max-w-4xl mx-auto p-8 bg-white rounded-xl shadow-xl space-y-8">
+
+ 
+  <div class="text-center space-y-4">
+    <h2 class="text-3xl font-extrabold text-blue-900">🌿 Cluster-C: Anxious and Fearful Disorders</h2>
+    <p class="text-lg text-gray-700">
+      Cluster C personality disorders are marked by intense anxiety and fear. Here's a breakdown of the key traits of each disorder in this category.
+    </p>
+  </div>
+
+
+  <section class="space-y-6">
+    <div class="bg-green-50 p-6 rounded-xl shadow-md space-y-4">
+      <h3 class="text-xl font-medium text-green-700">1. 🚪 Avoidant Personality Disorder</h3>
+      <p class="text-gray-600">
+        Individuals with avoidant personality disorder tend to avoid social interactions due to fear of rejection or criticism. Common traits include:
+      </p>
+      <ul class="list-disc pl-6 text-gray-600">
+        <li>❌ Avoiding occupations that require social relations due to fear of criticism, exclusion, and rejection.</li>
+        <li>❤️ They avoid intimate relationships unless they are certain of being loved.</li>
+        <li>😞 Difficulty forming close relationships.</li>
+        <li>😬 Fear of being criticized in social situations.</li>
+        <li>💔 Inhibited emotions in new environments or with new people.</li>
+      </ul>
+    </div>
+  </section>
+
+  
+  <section class="space-y-6">
+    <div class="bg-blue-50 p-6 rounded-xl shadow-md space-y-4">
+      <h3 class="text-xl font-medium text-blue-700">2. 🤝 Dependent Personality Disorder</h3>
+      <p class="text-gray-600">
+        People with dependent personality disorder often rely heavily on others for decision-making and emotional support. They exhibit the following:
+      </p>
+      <ul class="list-disc pl-6 text-gray-600">
+        <li>💬 Rely on others to make decisions for them.</li>
+        <li>🔄 Have difficulty sharing opinions for fear of rejection.</li>
+        <li>🤔 Lack of self-confidence and difficulty functioning independently.</li>
+        <li>💔 Engage in unpleasant tasks to receive care and support from others.</li>
+        <li>😞 Feel helpless and uncomfortable when left alone.</li>
+      </ul>
+    </div>
+  </section>
+
+  
+  <section class="space-y-6">
+    <div class="bg-yellow-50 p-6 rounded-xl shadow-md space-y-4">
+      <h3 class="text-xl font-medium text-yellow-700">3. 🧠 Obsessive-Compulsive Personality Disorder</h3>
+      <p class="text-gray-600">
+        Individuals with obsessive-compulsive personality disorder are preoccupied with perfectionism, order, and control. Key features include:
+      </p>
+      <ul class="list-disc pl-6 text-gray-600">
+        <li>📋 Obsession with details, rules, lists, and organizing to the point that the purpose of the activity is forgotten.</li>
+        <li>⚖️ Perfectionism that makes it difficult to complete tasks.</li>
+        <li>🧑‍💻 Strong commitment to work and productivity.</li>
+        <li>🔒 Rigidity and reluctance to be flexible with morality or values.</li>
+        <li>📚 Difficulty discarding old or worthless items due to attachment.</li>
+      </ul>
+    </div>
+  </section>
+
+</div>
+
+<div class="max-w-4xl mx-auto p-8 bg-white rounded-xl shadow-xl space-y-8">
+
+
+  <div class="text-center space-y-4">
+    <h2 class="text-3xl font-extrabold text-blue-900">🧠 Personality Changes Due to General Medical Conditions</h2>
+    <p class="text-lg text-gray-700">
+      Personality changes can arise from various general medical conditions. These alterations are often a result of physical health issues impacting cognitive and emotional behavior.
+    </p>
+  </div>
+
+
+  <section class="space-y-6">
+    <div class="bg-green-50 p-6 rounded-xl shadow-md space-y-4">
+      <h3 class="text-xl font-medium text-green-700">🔬 Common Medical Conditions Causing Personality Changes</h3>
+      <ul class="list-disc pl-6 text-gray-600">
+        <li>🧠 Head trauma</li>
+        <li>💔 Cerebrovascular events</li>
+        <li>🧬 CNS tumors</li>
+        <li>🧠 Epilepsy</li>
+        <li>🔬 Huntington's disease</li>
+        <li>🧪 Multiple sclerosis</li>
+        <li>⚖️ Endocrine diseases</li>
+        <li>🧪 Heavy metal poisoning</li>
+        <li>🦠 Neurosyphilis</li>
+        <li>🦠 AIDS</li>
+      </ul>
+    </div>
+  </section>
+
+
+  <section class="space-y-6">
+    <div class="bg-blue-50 p-6 rounded-xl shadow-md space-y-4">
+      <h3 class="text-xl font-medium text-blue-700">🔍 Diagnostic Criteria</h3>
+      <ul class="list-disc pl-6 text-gray-600">
+        <li>❌ Inability to perform purposeful activities</li>
+        <li>⚡ Altered emotional behavior</li>
+        <li>💔 Dissocial actions</li>
+        <li>🧠 Cognitive changes</li>
+        <li>💋 Altered sexual behavior</li>
+      </ul>
+    </div>
+  </section>
+
+
+  <section class="space-y-6">
+    <div class="bg-yellow-50 p-6 rounded-xl shadow-md space-y-4">
+      <h3 class="text-xl font-medium text-yellow-700">💊 Treatment</h3>
+      <p class="text-gray-600">
+        The treatment for personality changes due to medical conditions focuses on addressing the underlying cause. Key treatment strategies include:
+      </p>
+      <ul class="list-disc pl-6 text-gray-600">
+        <li>🛑 Alcohol use is prohibited</li>
+        <li>💙 Family support is essential</li>
+        <li>💊 Antidepressants can be used for treatment</li>
+      </ul>
+    </div>
+  </section>
+
+
+  <section class="space-y-6">
+    <div class="bg-purple-50 p-6 rounded-xl shadow-md space-y-4">
+      <h3 class="text-xl font-medium text-purple-700">😡 Passive-Aggressive Personality Disorder</h3>
+      <p class="text-gray-600">
+        Passive-aggressive personality disorder is marked by indirect resistance to the demands of others, often coupled with stubbornness, sullenness, and procrastination. Individuals may express hostility through non-confrontational behaviors.
+      </p>
+    </div>
+  </section>
+
+ 
+  <section class="space-y-6">
+    <div class="bg-red-50 p-6 rounded-xl shadow-md space-y-4">
+      <h3 class="text-xl font-medium text-red-700">🥀 Sadomasochistic Personality Disorder</h3>
+      <p class="text-gray-600">
+        Sadomasochistic personality disorder is characterized by a tendency to derive pleasure from inflicting pain (sadism) or receiving pain (masochism) within relationships or activities. It may manifest as behaviors or patterns that combine both extremes of dominance and submission.
+      </p>
+      <ul class="list-disc pl-6 text-gray-600">
+        <li>🔪 Enjoyment of both inflicting and receiving emotional or physical pain.</li>
+        <li>💔 Often linked to complex relationship dynamics, where individuals may experience gratification from control or submission.</li>
+        <li>⚖️ Can create significant interpersonal difficulties and distress in relationships.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="space-y-6">
+    <div class="bg-green-50 p-6 rounded-xl shadow-md space-y-4">
+      <h3 class="text-xl font-medium text-green-700">💡 Treatment for Personality Disorders</h3>
+      <p class="text-gray-600">
+        Treatment strategies for various personality disorders include:
+      </p>
+      <ul class="list-disc pl-6 text-gray-600">
+        <li>🧠 Analytical psychotherapies for borderline, narcissistic, obsessive, and histrionic personality disorders.</li>
+        <li>💊 Low-dose neuroleptics for paranoid and schizotypal personality disorders.</li>
+        <li>💊 Antidepressants for obsessive, avoidant, and anxious personality disorders.</li>
+      </ul>
+    </div>
+  </section>
+
+
+  <section class="space-y-6">
+    <div class="bg-indigo-50 p-6 rounded-xl shadow-md space-y-4">
+      <h3 class="text-xl font-medium text-indigo-700">🧑‍⚕️ Nursing Approach in Personality Disorders</h3>
+      <p class="text-gray-600">
+        Nurses play a critical role in providing support for individuals with personality disorders. Key nursing diagnoses include:
+      </p>
+      <ul class="list-disc pl-6 text-gray-600">
+        <li>⚠️ Potential to harm self and others</li>
+        <li>🌀 Showing manipulative behavior</li>
+        <li>❌ Difficulty in meeting daily needs independently</li>
+        <li>💔 Deterioration in interpersonal relationships</li>
+        <li>🔍 Lack of insight</li>
+        <li>⚖️ Inability to cope with life changes or crises</li>
+        <li>💔 Unrealistic physical complaints</li>
+        <li>💋 Showing seductive behavior</li>
+      </ul>
+    </div>
+  </section>
+
+</div>
+
+   </>
     ),
     
   },
