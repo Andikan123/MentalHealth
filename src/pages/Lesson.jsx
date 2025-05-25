@@ -1494,7 +1494,6 @@ const lessonData = [
         </div>
       </>
     ),
-    
   },
   {
     id: 7,
@@ -2112,7 +2111,6 @@ const lessonData = [
         </ul>
       </>
     ),
-    
   },
   {
     id: 8,
@@ -2338,7 +2336,6 @@ const lessonData = [
         </div>
       </>
     ),
-    
   },
   {
     id: 9,
@@ -2510,7 +2507,6 @@ const lessonData = [
         </div>
       </div>
     ),
-    
   },
   {
     id: 10,
@@ -2696,83 +2692,1741 @@ const lessonData = [
         </p>
       </div>
     ),
-   
   },
   {
     id: 11,
     title: "Personality Development, Eight Stages of Human Development",
     content: (
       <div className="max-w-5xl mx-auto p-8 bg-white shadow-lg rounded-lg">
-      <h1 className="text-4xl font-bold text-gray-900 mb-6 underline">PERSONALITY DEVELOPMENT</h1>
-      
-      <p className="text-lg text-gray-700 mb-4">
-        Personality develops by influencing the individualization-socialization processes, which are related to maturation and learning, which are related to evolutionary development in humans. 
-      </p>
-    
-      <h2 className="text-3xl font-semibold text-gray-800 mt-6 mb-4">Maturation and Individualization-Socialization</h2>
-      <p className="text-lg text-gray-700 mb-4">
-        Maturation is the development of innately undeveloped abilities in the organism without learning. For example, human babies start walking when they are 12-14 months old on average, whether they have had walking training or not.
-      </p>
-      <p className="text-lg text-gray-700 mb-4">
-        Individualization-socialization is the formation of individual behaviors and social behavior patterns through learning and life experiences. For instance, a child learns to speak with a gradually increasing vocabulary at 12-15 months.
-      </p>
-      
-      <h2 className="text-3xl font-semibold text-gray-800 mt-6 mb-4">Developmental Aspects</h2>
-      <p className="text-lg text-gray-700 mb-4">
-        It is essential to evaluate the sensori-motor, cognitive, and emotional aspects of personality development, including adaptation and defense mechanisms as a biopsychosocial whole.
-      </p>
-      
-      <h2 className="text-3xl font-semibold text-gray-800 mt-6 mb-4">Developmental Periods According to Erikson</h2>
-      <p className="text-lg text-gray-700 mb-4">
-        Erik Erikson extended Freud's theory and defined eight stages of psychosocial development. Each stage involves a crisis that must be overcome to gain a healthy personality.
-      </p>
-    
-      <h3 className="text-2xl font-semibold text-gray-800 mt-4">Erikson's Stages of Development</h3>
-      <ul className="list-disc list-inside mb-6 text-gray-700">
-        <li><strong>Stage 1:</strong> Trust vs. Mistrust (Infancy: birth to 18 months)</li>
-        <li><strong>Stage 2:</strong> Autonomy vs. Shame and Doubt (Toddler: 18 months to 3 years)</li>
-        <li><strong>Stage 3:</strong> Initiative vs. Guilt (Preschool: 3 to 5 years)</li>
-        <li><strong>Stage 4:</strong> Industry vs. Inferiority (Middle school: 6 to 11 years)</li>
-        <li><strong>Stage 5:</strong> Identity vs. Confusion (Teen: 12 to 18 years)</li>
-        <li><strong>Stage 6:</strong> Intimacy vs. Isolation (Young adult: 18 to 40 years)</li>
-        <li><strong>Stage 7:</strong> Generativity vs. Stagnation (Middle age: 40 to 65 years)</li>
-        <li><strong>Stage 8:</strong> Integrity vs. Despair (Older adulthood: 65 years to death)</li>
-      </ul>
-    
-      <h3 className="text-2xl font-semibold text-gray-800 mt-4">Stage Details</h3>
-      <p className="text-lg text-gray-700 mb-4">
-        <strong>Stage 1:</strong> Trust vs. Mistrust (Infancy): Babies acquire feelings about whether they can trust the world around them.
-      </p>
-      <p className="text-lg text-gray-700 mb-4">
-        <strong>Stage 2:</strong> Autonomy vs. Shame and Doubt (Toddler): Children gain independence and self-control, encouraged by their caregivers.
-      </p>
-      <p className="text-lg text-gray-700 mb-4">
-        <strong>Stage 3:</strong> Initiative vs. Guilt (Preschool): Children explore their environment and assert themselves; excessive criticism can lead to guilt.
-      </p>
-      <p className="text-lg text-gray-700 mb-4">
-        <strong>Stage 4:</strong> Industry vs. Inferiority (Middle School): Children strive for success and recognition, leading to a sense of industry or feelings of inferiority.
-      </p>
-      <p className="text-lg text-gray-700 mb-4">
-        <strong>Stage 5:</strong> Identity vs. Confusion (Teen): Adolescents seek to establish their identities amid rapid changes.
-      </p>
-      <p className="text-lg text-gray-700 mb-4">
-        <strong>Stage 6:</strong> Intimacy vs. Isolation (Young Adult): Young adults form deep relationships; those who struggle may feel isolated.
-      </p>
-      <p className="text-lg text-gray-700 mb-4">
-        <strong>Stage 7:</strong> Generativity vs. Stagnation (Middle Age): Adults seek to contribute to society and guide the next generation.
-      </p>
-      <p className="text-lg text-gray-700 mb-4">
-        <strong>Stage 8:</strong> Integrity vs. Despair (Older Adulthood): Reflection on life leads to a sense of fulfillment or despair based on unresolved conflicts.
-      </p>
-    
-      <h2 className="text-3xl font-semibold text-gray-800 mt-6 mb-4">Conclusion</h2>
-      <p className="text-lg text-gray-700 mb-4">
-        The development of personality is influenced by many factors including family, education, and social experiences. To create a happy society, it's vital to support individuals in meeting their basic needs and resolving conflicts throughout their development.
-      </p>
-    </div>
-    
+        <h1 className="text-4xl font-bold text-gray-900 mb-6 underline">
+          PERSONALITY DEVELOPMENT
+        </h1>
+
+        <p className="text-lg text-gray-700 mb-4">
+          Personality develops by influencing the
+          individualization-socialization processes, which are related to
+          maturation and learning, which are related to evolutionary development
+          in humans.
+        </p>
+
+        <h2 className="text-3xl font-semibold text-gray-800 mt-6 mb-4">
+          Maturation and Individualization-Socialization
+        </h2>
+        <p className="text-lg text-gray-700 mb-4">
+          Maturation is the development of innately undeveloped abilities in the
+          organism without learning. For example, human babies start walking
+          when they are 12-14 months old on average, whether they have had
+          walking training or not.
+        </p>
+        <p className="text-lg text-gray-700 mb-4">
+          Individualization-socialization is the formation of individual
+          behaviors and social behavior patterns through learning and life
+          experiences. For instance, a child learns to speak with a gradually
+          increasing vocabulary at 12-15 months.
+        </p>
+
+        <h2 className="text-3xl font-semibold text-gray-800 mt-6 mb-4">
+          Developmental Aspects
+        </h2>
+        <p className="text-lg text-gray-700 mb-4">
+          It is essential to evaluate the sensori-motor, cognitive, and
+          emotional aspects of personality development, including adaptation and
+          defense mechanisms as a biopsychosocial whole.
+        </p>
+
+        <h2 className="text-3xl font-semibold text-gray-800 mt-6 mb-4">
+          Developmental Periods According to Erikson
+        </h2>
+        <p className="text-lg text-gray-700 mb-4">
+          Erik Erikson extended Freud's theory and defined eight stages of
+          psychosocial development. Each stage involves a crisis that must be
+          overcome to gain a healthy personality.
+        </p>
+
+        <h3 className="text-2xl font-semibold text-gray-800 mt-4">
+          Erikson's Stages of Development
+        </h3>
+        <ul className="list-disc list-inside mb-6 text-gray-700">
+          <li>
+            <strong>Stage 1:</strong> Trust vs. Mistrust (Infancy: birth to 18
+            months)
+          </li>
+          <li>
+            <strong>Stage 2:</strong> Autonomy vs. Shame and Doubt (Toddler: 18
+            months to 3 years)
+          </li>
+          <li>
+            <strong>Stage 3:</strong> Initiative vs. Guilt (Preschool: 3 to 5
+            years)
+          </li>
+          <li>
+            <strong>Stage 4:</strong> Industry vs. Inferiority (Middle school: 6
+            to 11 years)
+          </li>
+          <li>
+            <strong>Stage 5:</strong> Identity vs. Confusion (Teen: 12 to 18
+            years)
+          </li>
+          <li>
+            <strong>Stage 6:</strong> Intimacy vs. Isolation (Young adult: 18 to
+            40 years)
+          </li>
+          <li>
+            <strong>Stage 7:</strong> Generativity vs. Stagnation (Middle age:
+            40 to 65 years)
+          </li>
+          <li>
+            <strong>Stage 8:</strong> Integrity vs. Despair (Older adulthood: 65
+            years to death)
+          </li>
+        </ul>
+
+        <h3 className="text-2xl font-semibold text-gray-800 mt-4">
+          Stage Details
+        </h3>
+        <p className="text-lg text-gray-700 mb-4">
+          <strong>Stage 1:</strong> Trust vs. Mistrust (Infancy): Babies acquire
+          feelings about whether they can trust the world around them.
+        </p>
+        <p className="text-lg text-gray-700 mb-4">
+          <strong>Stage 2:</strong> Autonomy vs. Shame and Doubt (Toddler):
+          Children gain independence and self-control, encouraged by their
+          caregivers.
+        </p>
+        <p className="text-lg text-gray-700 mb-4">
+          <strong>Stage 3:</strong> Initiative vs. Guilt (Preschool): Children
+          explore their environment and assert themselves; excessive criticism
+          can lead to guilt.
+        </p>
+        <p className="text-lg text-gray-700 mb-4">
+          <strong>Stage 4:</strong> Industry vs. Inferiority (Middle School):
+          Children strive for success and recognition, leading to a sense of
+          industry or feelings of inferiority.
+        </p>
+        <p className="text-lg text-gray-700 mb-4">
+          <strong>Stage 5:</strong> Identity vs. Confusion (Teen): Adolescents
+          seek to establish their identities amid rapid changes.
+        </p>
+        <p className="text-lg text-gray-700 mb-4">
+          <strong>Stage 6:</strong> Intimacy vs. Isolation (Young Adult): Young
+          adults form deep relationships; those who struggle may feel isolated.
+        </p>
+        <p className="text-lg text-gray-700 mb-4">
+          <strong>Stage 7:</strong> Generativity vs. Stagnation (Middle Age):
+          Adults seek to contribute to society and guide the next generation.
+        </p>
+        <p className="text-lg text-gray-700 mb-4">
+          <strong>Stage 8:</strong> Integrity vs. Despair (Older Adulthood):
+          Reflection on life leads to a sense of fulfillment or despair based on
+          unresolved conflicts.
+        </p>
+
+        <h2 className="text-3xl font-semibold text-gray-800 mt-6 mb-4">
+          Conclusion
+        </h2>
+        <p className="text-lg text-gray-700 mb-4">
+          The development of personality is influenced by many factors including
+          family, education, and social experiences. To create a happy society,
+          it's vital to support individuals in meeting their basic needs and
+          resolving conflicts throughout their development.
+        </p>
+      </div>
     ),
+  },
+  {
+    id: 12,
+    title: "Individuals With Sexual Disorders And Nursing Approach",
+    content: (
+      <>
+        <div class="bg-gradient-to-r from-indigo-50 via-purple-100 to-pink-200 min-h-screen flex flex-col items-center justify-center py-10 px-5">
+          <div class="max-w-4xl w-full bg-white rounded-lg shadow-lg p-8 space-y-8">
+            <h1 class="text-3xl font-semibold text-gray-900 mb-6 text-center">
+              Sexuality and Sexual Health
+            </h1>
+
+            <p class="text-lg text-gray-600">
+              Sexuality; man as a sexual being is not only bodily; It is a state
+              of health that positively enriches and increases personality
+              development, communication, and sharing of love, which provides
+              emotional, intellectual, and social integrity. World Health
+              Organization sexual health defines it as a state of physical,
+              emotional, mental, and social well-being in relation to sexuality.
+              Sexuality is an integral part of the individual's personality, and
+              each individual's perception of sexuality, the subjective meaning
+              it gives to sexuality, and the way it expresses sexuality are
+              different.
+            </p>
+
+            <h2 class="text-2xl font-semibold text-gray-800 mt-8">
+              Terms Related To Sexual and Sexual Health
+            </h2>
+
+            <ul class="list-disc list-inside space-y-4 mt-4">
+              <li class="text-lg text-gray-600">
+                <strong class="font-medium">Gender (sex):</strong> The type of
+                sexual organs that determine a person as male or female, the
+                type of dominant hormones in the body (estrogen, testosterone),
+                the ability to produce sperm or ovum (egg), give birth and
+                breastfeed includes physiological characteristics.
+              </li>
+              <li class="text-lg text-gray-600">
+                <strong class="font-medium">Gender Identity:</strong> It is the
+                individual's perception of his or her body and self in a certain
+                sexuality (gender), their acceptance, and their orientation in
+                their emotions and behaviors accordingly. For example, the
+                woman's perception of herself as a female, her acceptance of
+                herself, her orientation towards the man in her motivations,
+                emotions, and behaviors show that a sexual self-perception can
+                be called normal and the existence of a female sexual identity.
+              </li>
+            </ul>
+
+            <h2 class="text-2xl font-semibold text-gray-800 mt-8">
+              Difficulties With Sexual Orientation
+            </h2>
+
+            <p class="text-lg text-gray-600 mt-4">
+              Most heterosexuals, homosexuals, and bisexuals accept their sexual
+              orientations, although some have difficulty and seek professional
+              help. For example, it is possible that a person’s sexual behavior
+              may not match his or her sexual desire. Someone in a heterosexual
+              relationship may wish to be in a homosexual one, or vice versa,
+              and feel constrained to act because of personal, sociocultural,
+              legal, economic, or religious reasons.
+            </p>
+
+            <p class="text-lg text-gray-600 mt-4">
+              This can create internal conflict and distress, and the person may
+              seek counseling. Homosexuality is not a psychiatric disorder or
+              mental illness.
+            </p>
+
+            <h2 class="text-2xl font-semibold text-gray-800 mt-8">
+              Homosexuality and Mental Health Risks
+            </h2>
+
+            <p class="text-lg text-gray-600 mt-4">
+              However, gay, lesbian, and bisexual youth are at increased risk
+              for suicidal and self-harm behaviors and certain mental health
+              problems. Although the reasons for this increased risk are
+              complex, it has been suggested that society’s lack of acceptance
+              of homosexuality is a major contributing factor.
+            </p>
+
+            <h2 class="text-2xl font-semibold text-gray-800 mt-8">
+              Negative Attitudes and Health Care
+            </h2>
+
+            <p class="text-lg text-gray-600 mt-4">
+              Negative attitudes expressed or felt by health care providers and
+              society at large can greatly affect the health care received by
+              homosexuals and other sexually diverse patients.
+            </p>
+
+            <h2 class="text-2xl font-semibold text-gray-800 mt-8">
+              Homophobia and Its Impact
+            </h2>
+
+            <p class="text-lg text-gray-600 mt-4">
+              Homophobia, which is an irrational fear of homosexuals accompanied
+              by negative attitudes and hostility toward them, can significantly
+              reduce the quality of care provided to these patients.
+            </p>
+          </div>
+        </div>
+
+        <div class="bg-gradient-to-r from-purple-50 via-indigo-100 to-blue-200 min-h-screen flex flex-col items-center justify-center py-10 px-5">
+          <div class="max-w-4xl w-full bg-white rounded-lg shadow-lg p-8 space-y-10">
+            <h1 class="text-3xl font-semibold text-gray-900 mb-6 text-center">
+              Sexual Disorders
+            </h1>
+
+            <p class="text-lg text-gray-600">
+              Paraphilias are disorders in which a person needs repetitive and
+              intense sexual urges, fantasies, and behaviors involving unusual
+              objects, actions, or situations in order to be sexually aroused.
+              Paraphilias involve sexual arousal to atypical objects,
+              situations, and/or targets (e.g., children, corpses, animals).
+              These can lead to personal, social, and career problems, and a
+              person with a paraphilia may be called "kinky" or "perverted." The
+              associated behaviors may also have serious social and legal
+              consequences.
+            </p>
+
+            <h2 class="text-2xl font-semibold text-gray-800 mt-8">
+              Excissionistic Disorder (Exhibitionism)
+            </h2>
+            <p class="text-lg text-gray-600 mt-4">
+              Demonstration disorder is characterized by repetitive and intense
+              sexual arousal as a result of unexpectedly showing the genitals to
+              a stranger. Masturbation can occur during demonstrative disorder.
+              In about 100% of cases, the perpetrators are men and the victims
+              are women. The urge to display their genitals intensifies when the
+              exhibitionist has too much free time or is in significant
+              distress.
+            </p>
+
+            <h2 class="text-2xl font-semibold text-gray-800 mt-8">
+              Fetishistic Disorder
+            </h2>
+            <p class="text-lg text-gray-600 mt-4">
+              This disorder is characterized by repetitive and intense sexual
+              arousal (urges, fantasies, and behaviors that will occur for at
+              least 6 months) as a result of the person's repetitive and intense
+              use of an inanimate object or a part or parts of the body other
+              than the genitals. The sexual focus is closely related to the
+              human body. The fetish object (such as shoes, socks, gloves) is
+              often used during masturbation or included in the sexual act to
+              produce sexual excitement.
+            </p>
+
+            <h2 class="text-2xl font-semibold text-gray-800 mt-8">
+              Frothyristic (Frictional Disorder)
+            </h2>
+            <p class="text-lg text-gray-600 mt-4">
+              Frictional disorder is the repetitive and intense sexual arousal
+              of the person against non-consensual people as a result of
+              friction and touching. Sexual arousal arises not from the
+              compulsive nature of the act, but from the act of touching and
+              rubbing. This disorder is usually seen in males. The person often
+              chooses crowded places, such as the bus or subway rush hour, to
+              perform the action, so that if someone complains, they can
+              rationalize their behavior and easily avoid arrest.
+            </p>
+
+            <h2 class="text-2xl font-semibold text-gray-800 mt-8">
+              Pedophilia Disorder
+            </h2>
+            <p class="text-lg text-gray-600 mt-4">
+              The essential feature of pedophilia disorder is sexual arousal in
+              pre-adolescent or early-adolescent children, separated from
+              physically mature adults. DSM-5 defines the criteria for
+              pedophilia when this behavior occurs with fantasy or sexual
+              arousal and persists for at least 6 months and causes significant
+              distress in social, occupational, or important functional areas.
+              The abuser is at least 16 years old and at least 5 years older
+              than the child. This category of paraphilic disorder is the most
+              common of sexual assaults.
+            </p>
+
+            <h2 class="text-2xl font-semibold text-gray-800 mt-8">
+              Sexual Masochistic Disorder
+            </h2>
+            <p class="text-lg text-gray-600 mt-4">
+              The characteristic of this disorder is repetitive and intense
+              sexual arousal from acts that involve being beaten, bitten, tied,
+              or exposed to other painful situations. These masochistic acts can
+              take the form of fantasy (e.g., being raped) alone or with a
+              partner (being restrained, bitten, or beaten by a partner). These
+              movements can result in death. The disorder is often chronic.
+            </p>
+
+            <h2 class="text-2xl font-semibold text-gray-800 mt-8">
+              Sexual Sadistic Disorder
+            </h2>
+            <p class="text-lg text-gray-600 mt-4">
+              Key features of DSM-5 sexual sadism define sexual excitement as
+              intense sexual urges, behaviors, or sexually arousing fantasies
+              that repeatedly cause the victim (non-imaginary, real) physical
+              and psychological suffering for at least 6 months. In all
+              situations conceivable or attainable by these sadistic acts, with
+              or without consent, sexual arousal occurs when the victim is in
+              pain.
+            </p>
+
+            <h2 class="text-2xl font-semibold text-gray-800 mt-8">
+              Transvestic Disorder (Opposite Sex)
+            </h2>
+            <p class="text-lg text-gray-600 mt-4">
+              This disorder involves repetitive and intense sexual arousal as a
+              result of wearing clothes of the opposite sex. Individuals are
+              usually heterosexual men who collect women's clothing and
+              occasionally wear these clothes when they are alone. Sexual
+              arousal may occur when the person imagines himself to be a woman
+              with female genitalia, or appears to be dressed as a woman without
+              giving importance to the genitals.
+            </p>
+
+            <h2 class="text-2xl font-semibold text-gray-800 mt-8">
+              Voyeristic Disorder (Voyeurism)
+            </h2>
+            <p class="text-lg text-gray-600 mt-4">
+              This disorder includes repetitive and intense sexual arousal as a
+              result of spying on someone naked, undressing, or in sexual
+              activity who is not aware that they are being watched. Voyeuristic
+              behaviors usually begin before the age of 15 and the disorder is
+              often chronic, but the minimum age for a diagnosis of this
+              disorder is 18.
+            </p>
+          </div>
+        </div>
+
+        <div class="bg-gradient-to-r from-blue-50 via-indigo-100 to-purple-200 min-h-screen flex flex-col items-center justify-center py-10 px-5">
+          <div class="max-w-3xl w-full bg-white rounded-lg shadow-lg p-8 space-y-6">
+            <h1 class="text-3xl font-semibold text-gray-900 text-center">
+              The Role of the Nurse in Paraphilia Disorders
+            </h1>
+
+            <p class="text-lg text-gray-700">
+              Treatment of individuals with paraphilic disorder is often
+              challenging for both the patient and the therapist.
+            </p>
+
+            <p class="text-lg text-gray-700">
+              Most individuals with this disorder deny that they have a problem
+              and seek psychiatric care only if their inappropriate behavior
+              draws attention. In secondary prevention, the goal is early
+              intervention to minimize difficulties.
+            </p>
+
+            <p class="text-lg text-gray-700">
+              These individuals should consult specialists experienced in
+              working with this population. Nurses play a crucial role in the
+              primary prevention process.
+            </p>
+
+            <div class="bg-indigo-100 p-6 rounded-lg">
+              <h2 class="text-xl font-semibold text-indigo-800">
+                Primary Prevention in Sexual Health
+              </h2>
+              <p class="text-lg text-gray-700 mt-2">
+                In sexually transmitted diseases, primary prevention focuses on
+                early childhood interventions to prevent developmental or
+                home-life issues.
+              </p>
+              <p class="text-lg text-gray-700 mt-2">
+                Additionally, nurses help develop effective coping strategies
+                for stressful life events.
+              </p>
+            </div>
+
+            <div class="bg-purple-100 p-6 rounded-lg">
+              <h2 class="text-xl font-semibold text-purple-800">
+                Three Main Components of Sexual Development
+              </h2>
+              <ul class="list-disc list-inside text-lg text-gray-700 space-y-2 mt-2">
+                <li>
+                  <span class="font-semibold">Gender identity:</span> An
+                  individual's perception of masculinity or femininity.
+                </li>
+                <li>
+                  <span class="font-semibold">Sexual response:</span> The
+                  ability to react to appropriate stimulation.
+                </li>
+                <li>
+                  <span class="font-semibold">Ability to relate:</span>{" "}
+                  Establishing healthy relationships with others.
+                </li>
+              </ul>
+            </div>
+
+            <p class="text-lg text-gray-700">
+              Nurses can evaluate these components throughout childhood and
+              adolescence to ensure healthy development and prevent sexual
+              deviant behaviors.
+            </p>
+
+            <p class="text-lg text-gray-700">
+              Those working in pediatrics, psychiatry, public health, outpatient
+              clinics, and schools can significantly contribute to primary
+              protection by being knowledgeable about human sexuality.
+            </p>
+
+            <div class="bg-blue-100 p-6 rounded-lg">
+              <h2 class="text-xl font-semibold text-blue-800">
+                Psychotherapy for Paraphilic Disorders
+              </h2>
+              <p class="text-lg text-gray-700 mt-2">
+                Cognitive-behavioral therapy (CBT) is the standard treatment for
+                paraphilic disorders.
+              </p>
+              <p class="text-lg text-gray-700 mt-2">
+                The goal is to help patients develop new, healthy sexual
+                response patterns that eliminate problematic behaviors.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="bg-gradient-to-r from-blue-50 via-indigo-100 to-purple-200 min-h-screen flex flex-col items-center justify-center py-10 px-5">
+          <div class="max-w-4xl w-full bg-white rounded-lg shadow-lg p-8 space-y-6">
+            <h1 class="text-3xl font-semibold text-gray-900 text-center">
+              Sexual Dysfunction & Gender Identity Dysphoria
+            </h1>
+
+            <section>
+              <h2 class="text-2xl font-semibold text-indigo-800">
+                Sexual Dysfunction
+              </h2>
+              <p class="text-lg text-gray-700 mt-2">
+                Sexual dysfunction refers to issues that prevent individuals or
+                couples from experiencing sexual satisfaction. It can occur at
+                any age but is more common after 40 due to age-related health
+                changes.
+              </p>
+
+              <div class="bg-indigo-100 p-6 rounded-lg mt-4">
+                <h3 class="text-xl font-semibold text-indigo-900">
+                  Types of Sexual Dysfunction
+                </h3>
+                <ul class="list-disc list-inside text-lg text-gray-700 mt-2 space-y-2">
+                  <li>
+                    <span class="font-semibold">Desire disorders:</span> Lack of
+                    interest in sex.
+                  </li>
+                  <li>
+                    <span class="font-semibold">Arousal disorders:</span>{" "}
+                    Difficulty becoming physically excited.
+                  </li>
+                  <li>
+                    <span class="font-semibold">Orgasm disorders:</span> Delayed
+                    or absent orgasm.
+                  </li>
+                  <li>
+                    <span class="font-semibold">Pain disorders:</span>{" "}
+                    Discomfort during intercourse.
+                  </li>
+                </ul>
+              </div>
+            </section>
+
+            <section>
+              <h2 class="text-2xl font-semibold text-purple-800">
+                Symptoms & Causes
+              </h2>
+              <p class="text-lg text-gray-700 mt-2">
+                Symptoms vary between men and women, ranging from erectile
+                dysfunction and premature ejaculation to inadequate vaginal
+                lubrication and inability to orgasm.
+              </p>
+              <p class="text-lg text-gray-700 mt-2">
+                Causes include medical conditions, psychological factors,
+                relationship conflicts, and performance anxiety. Medications,
+                chronic illnesses, and strict cultural beliefs may also
+                contribute.
+              </p>
+            </section>
+
+            <section class="bg-blue-100 p-6 rounded-lg">
+              <h2 class="text-xl font-semibold text-blue-900">
+                Diagnosis & Treatment
+              </h2>
+              <p class="text-lg text-gray-700 mt-2">
+                Diagnosis involves a medical evaluation, hormone tests, and
+                psychological assessments. Treatment includes counseling,
+                medical interventions, lifestyle changes, and medication
+                adjustments.
+              </p>
+            </section>
+
+            <section>
+              <h2 class="text-2xl font-semibold text-indigo-800">
+                Common Sexual Disorders
+              </h2>
+              <ul class="list-disc list-inside text-lg text-gray-700 mt-2 space-y-2">
+                <li>
+                  <span class="font-semibold">Erectile Dysfunction:</span>{" "}
+                  Inability to achieve or maintain an erection.
+                </li>
+                <li>
+                  <span class="font-semibold">Female Arousal Disorder:</span>{" "}
+                  Lack of sexual arousal or pleasure.
+                </li>
+                <li>
+                  <span class="font-semibold">Premature Ejaculation:</span>{" "}
+                  Ejaculation occurring too quickly.
+                </li>
+                <li>
+                  <span class="font-semibold">Orgasmic Disorder:</span> Delayed
+                  or absent orgasm.
+                </li>
+                <li>
+                  <span class="font-semibold">
+                    Genito-Pelvic Pain Disorder:
+                  </span>{" "}
+                  Pain or discomfort during penetration.
+                </li>
+              </ul>
+            </section>
+
+            <section class="bg-purple-100 p-6 rounded-lg">
+              <h2 class="text-xl font-semibold text-purple-900">
+                Gender Identity Dysphoria
+              </h2>
+              <p class="text-lg text-gray-700 mt-2">
+                Gender dysphoria occurs when a person’s gender identity differs
+                from their assigned sex at birth. It can emerge in childhood but
+                may become more apparent in adolescence or adulthood.
+              </p>
+              <p class="text-lg text-gray-700 mt-2">
+                DSM-5 classifies this condition separately for children,
+                adolescents, and adults. While debated in psychiatry, its
+                inclusion in the DSM-5 allows access to medical and surgical
+                interventions.
+              </p>
+            </section>
+
+            <p class="text-lg text-gray-700">
+              Understanding and addressing sexual health and gender identity
+              issues require a compassionate, science-based approach. Nurses and
+              healthcare professionals play a key role in education, early
+              diagnosis, and treatment.
+            </p>
+          </div>
+        </div>
+      </>
+    ),
+  },
+  {
+    id: 13,
+    title: "ASSESSMENT AND RISK MANAGEMENT IN PSYCHIATRY CLINICS",
+    content: (
+      <>
+        <div class="bg-gradient-to-r from-indigo-50 via-purple-100 to-pink-200 min-h-screen flex flex-col items-center justify-center py-10 px-5">
+          <div class="max-w-4xl w-full bg-white rounded-lg shadow-lg p-8 space-y-8">
+            <h1 class="text-3xl font-semibold text-gray-900 mb-6 text-center">
+              Sexuality and Sexual Health
+            </h1>
+
+            <p class="text-lg text-gray-600">
+              Sexuality; man as a sexual being is not only bodily; It is a state
+              of health that positively enriches and increases personality
+              development, communication, and sharing of love, which provides
+              emotional, intellectual, and social integrity. World Health
+              Organization sexual health defines it as a state of physical,
+              emotional, mental, and social well-being in relation to sexuality.
+              Sexuality is an integral part of the individual's personality, and
+              each individual's perception of sexuality, the subjective meaning
+              it gives to sexuality, and the way it expresses sexuality are
+              different.
+            </p>
+
+            <h2 class="text-2xl font-semibold text-gray-800 mt-8">
+              Terms Related To Sexual and Sexual Health
+            </h2>
+
+            <ul class="list-disc list-inside space-y-4 mt-4">
+              <li class="text-lg text-gray-600">
+                <strong class="font-medium">Gender (sex):</strong> The type of
+                sexual organs that determine a person as male or female, the
+                type of dominant hormones in the body (estrogen, testosterone),
+                the ability to produce sperm or ovum (egg), give birth and
+                breastfeed includes physiological characteristics.
+              </li>
+              <li class="text-lg text-gray-600">
+                <strong class="font-medium">Gender Identity:</strong> It is the
+                individual's perception of his or her body and self in a certain
+                sexuality (gender), their acceptance, and their orientation in
+                their emotions and behaviors accordingly. For example, the
+                woman's perception of herself as a female, her acceptance of
+                herself, her orientation towards the man in her motivations,
+                emotions, and behaviors show that a sexual self-perception can
+                be called normal and the existence of a female sexual identity.
+              </li>
+            </ul>
+
+            <h2 class="text-2xl font-semibold text-gray-800 mt-8">
+              Difficulties With Sexual Orientation
+            </h2>
+
+            <p class="text-lg text-gray-600 mt-4">
+              Most heterosexuals, homosexuals, and bisexuals accept their sexual
+              orientations, although some have difficulty and seek professional
+              help. For example, it is possible that a person’s sexual behavior
+              may not match his or her sexual desire. Someone in a heterosexual
+              relationship may wish to be in a homosexual one, or vice versa,
+              and feel constrained to act because of personal, sociocultural,
+              legal, economic, or religious reasons.
+            </p>
+
+            <p class="text-lg text-gray-600 mt-4">
+              This can create internal conflict and distress, and the person may
+              seek counseling. Homosexuality is not a psychiatric disorder or
+              mental illness.
+            </p>
+
+            <h2 class="text-2xl font-semibold text-gray-800 mt-8">
+              Homosexuality and Mental Health Risks
+            </h2>
+
+            <p class="text-lg text-gray-600 mt-4">
+              However, gay, lesbian, and bisexual youth are at increased risk
+              for suicidal and self-harm behaviors and certain mental health
+              problems. Although the reasons for this increased risk are
+              complex, it has been suggested that society’s lack of acceptance
+              of homosexuality is a major contributing factor.
+            </p>
+
+            <h2 class="text-2xl font-semibold text-gray-800 mt-8">
+              Negative Attitudes and Health Care
+            </h2>
+
+            <p class="text-lg text-gray-600 mt-4">
+              Negative attitudes expressed or felt by health care providers and
+              society at large can greatly affect the health care received by
+              homosexuals and other sexually diverse patients.
+            </p>
+
+            <h2 class="text-2xl font-semibold text-gray-800 mt-8">
+              Homophobia and Its Impact
+            </h2>
+
+            <p class="text-lg text-gray-600 mt-4">
+              Homophobia, which is an irrational fear of homosexuals accompanied
+              by negative attitudes and hostility toward them, can significantly
+              reduce the quality of care provided to these patients.
+            </p>
+          </div>
+        </div>
+
+        <div class="bg-gradient-to-r from-purple-50 via-indigo-100 to-blue-200 min-h-screen flex flex-col items-center justify-center py-10 px-5">
+          <div class="max-w-4xl w-full bg-white rounded-lg shadow-lg p-8 space-y-10">
+            <h1 class="text-3xl font-semibold text-gray-900 mb-6 text-center">
+              Sexual Disorders
+            </h1>
+
+            <p class="text-lg text-gray-600">
+              Paraphilias are disorders in which a person needs repetitive and
+              intense sexual urges, fantasies, and behaviors involving unusual
+              objects, actions, or situations in order to be sexually aroused.
+              Paraphilias involve sexual arousal to atypical objects,
+              situations, and/or targets (e.g., children, corpses, animals).
+              These can lead to personal, social, and career problems, and a
+              person with a paraphilia may be called "kinky" or "perverted." The
+              associated behaviors may also have serious social and legal
+              consequences.
+            </p>
+
+            <h2 class="text-2xl font-semibold text-gray-800 mt-8">
+              Excissionistic Disorder (Exhibitionism)
+            </h2>
+            <p class="text-lg text-gray-600 mt-4">
+              Demonstration disorder is characterized by repetitive and intense
+              sexual arousal as a result of unexpectedly showing the genitals to
+              a stranger. Masturbation can occur during demonstrative disorder.
+              In about 100% of cases, the perpetrators are men and the victims
+              are women. The urge to display their genitals intensifies when the
+              exhibitionist has too much free time or is in significant
+              distress.
+            </p>
+
+            <h2 class="text-2xl font-semibold text-gray-800 mt-8">
+              Fetishistic Disorder
+            </h2>
+            <p class="text-lg text-gray-600 mt-4">
+              This disorder is characterized by repetitive and intense sexual
+              arousal (urges, fantasies, and behaviors that will occur for at
+              least 6 months) as a result of the person's repetitive and intense
+              use of an inanimate object or a part or parts of the body other
+              than the genitals. The sexual focus is closely related to the
+              human body. The fetish object (such as shoes, socks, gloves) is
+              often used during masturbation or included in the sexual act to
+              produce sexual excitement.
+            </p>
+
+            <h2 class="text-2xl font-semibold text-gray-800 mt-8">
+              Frothyristic (Frictional Disorder)
+            </h2>
+            <p class="text-lg text-gray-600 mt-4">
+              Frictional disorder is the repetitive and intense sexual arousal
+              of the person against non-consensual people as a result of
+              friction and touching. Sexual arousal arises not from the
+              compulsive nature of the act, but from the act of touching and
+              rubbing. This disorder is usually seen in males. The person often
+              chooses crowded places, such as the bus or subway rush hour, to
+              perform the action, so that if someone complains, they can
+              rationalize their behavior and easily avoid arrest.
+            </p>
+
+            <h2 class="text-2xl font-semibold text-gray-800 mt-8">
+              Pedophilia Disorder
+            </h2>
+            <p class="text-lg text-gray-600 mt-4">
+              The essential feature of pedophilia disorder is sexual arousal in
+              pre-adolescent or early-adolescent children, separated from
+              physically mature adults. DSM-5 defines the criteria for
+              pedophilia when this behavior occurs with fantasy or sexual
+              arousal and persists for at least 6 months and causes significant
+              distress in social, occupational, or important functional areas.
+              The abuser is at least 16 years old and at least 5 years older
+              than the child. This category of paraphilic disorder is the most
+              common of sexual assaults.
+            </p>
+
+            <h2 class="text-2xl font-semibold text-gray-800 mt-8">
+              Sexual Masochistic Disorder
+            </h2>
+            <p class="text-lg text-gray-600 mt-4">
+              The characteristic of this disorder is repetitive and intense
+              sexual arousal from acts that involve being beaten, bitten, tied,
+              or exposed to other painful situations. These masochistic acts can
+              take the form of fantasy (e.g., being raped) alone or with a
+              partner (being restrained, bitten, or beaten by a partner). These
+              movements can result in death. The disorder is often chronic.
+            </p>
+
+            <h2 class="text-2xl font-semibold text-gray-800 mt-8">
+              Sexual Sadistic Disorder
+            </h2>
+            <p class="text-lg text-gray-600 mt-4">
+              Key features of DSM-5 sexual sadism define sexual excitement as
+              intense sexual urges, behaviors, or sexually arousing fantasies
+              that repeatedly cause the victim (non-imaginary, real) physical
+              and psychological suffering for at least 6 months. In all
+              situations conceivable or attainable by these sadistic acts, with
+              or without consent, sexual arousal occurs when the victim is in
+              pain.
+            </p>
+
+            <h2 class="text-2xl font-semibold text-gray-800 mt-8">
+              Transvestic Disorder (Opposite Sex)
+            </h2>
+            <p class="text-lg text-gray-600 mt-4">
+              This disorder involves repetitive and intense sexual arousal as a
+              result of wearing clothes of the opposite sex. Individuals are
+              usually heterosexual men who collect women's clothing and
+              occasionally wear these clothes when they are alone. Sexual
+              arousal may occur when the person imagines himself to be a woman
+              with female genitalia, or appears to be dressed as a woman without
+              giving importance to the genitals.
+            </p>
+
+            <h2 class="text-2xl font-semibold text-gray-800 mt-8">
+              Voyeristic Disorder (Voyeurism)
+            </h2>
+            <p class="text-lg text-gray-600 mt-4">
+              This disorder includes repetitive and intense sexual arousal as a
+              result of spying on someone naked, undressing, or in sexual
+              activity who is not aware that they are being watched. Voyeuristic
+              behaviors usually begin before the age of 15 and the disorder is
+              often chronic, but the minimum age for a diagnosis of this
+              disorder is 18.
+            </p>
+          </div>
+        </div>
+
+        <div class="bg-gradient-to-r from-blue-50 via-indigo-100 to-purple-200 min-h-screen flex flex-col items-center justify-center py-10 px-5">
+          <div class="max-w-3xl w-full bg-white rounded-lg shadow-lg p-8 space-y-6">
+            <h1 class="text-3xl font-semibold text-gray-900 text-center">
+              The Role of the Nurse in Paraphilia Disorders
+            </h1>
+
+            <p class="text-lg text-gray-700">
+              Treatment of individuals with paraphilic disorder is often
+              challenging for both the patient and the therapist.
+            </p>
+
+            <p class="text-lg text-gray-700">
+              Most individuals with this disorder deny that they have a problem
+              and seek psychiatric care only if their inappropriate behavior
+              draws attention. In secondary prevention, the goal is early
+              intervention to minimize difficulties.
+            </p>
+
+            <p class="text-lg text-gray-700">
+              These individuals should consult specialists experienced in
+              working with this population. Nurses play a crucial role in the
+              primary prevention process.
+            </p>
+
+            <div class="bg-indigo-100 p-6 rounded-lg">
+              <h2 class="text-xl font-semibold text-indigo-800">
+                Primary Prevention in Sexual Health
+              </h2>
+              <p class="text-lg text-gray-700 mt-2">
+                In sexually transmitted diseases, primary prevention focuses on
+                early childhood interventions to prevent developmental or
+                home-life issues.
+              </p>
+              <p class="text-lg text-gray-700 mt-2">
+                Additionally, nurses help develop effective coping strategies
+                for stressful life events.
+              </p>
+            </div>
+
+            <div class="bg-purple-100 p-6 rounded-lg">
+              <h2 class="text-xl font-semibold text-purple-800">
+                Three Main Components of Sexual Development
+              </h2>
+              <ul class="list-disc list-inside text-lg text-gray-700 space-y-2 mt-2">
+                <li>
+                  <span class="font-semibold">Gender identity:</span> An
+                  individual's perception of masculinity or femininity.
+                </li>
+                <li>
+                  <span class="font-semibold">Sexual response:</span> The
+                  ability to react to appropriate stimulation.
+                </li>
+                <li>
+                  <span class="font-semibold">Ability to relate:</span>{" "}
+                  Establishing healthy relationships with others.
+                </li>
+              </ul>
+            </div>
+
+            <p class="text-lg text-gray-700">
+              Nurses can evaluate these components throughout childhood and
+              adolescence to ensure healthy development and prevent sexual
+              deviant behaviors.
+            </p>
+
+            <p class="text-lg text-gray-700">
+              Those working in pediatrics, psychiatry, public health, outpatient
+              clinics, and schools can significantly contribute to primary
+              protection by being knowledgeable about human sexuality.
+            </p>
+
+            <div class="bg-blue-100 p-6 rounded-lg">
+              <h2 class="text-xl font-semibold text-blue-800">
+                Psychotherapy for Paraphilic Disorders
+              </h2>
+              <p class="text-lg text-gray-700 mt-2">
+                Cognitive-behavioral therapy (CBT) is the standard treatment for
+                paraphilic disorders.
+              </p>
+              <p class="text-lg text-gray-700 mt-2">
+                The goal is to help patients develop new, healthy sexual
+                response patterns that eliminate problematic behaviors.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="bg-gradient-to-r from-blue-50 via-indigo-100 to-purple-200 min-h-screen flex flex-col items-center justify-center py-10 px-5">
+          <div class="max-w-4xl w-full bg-white rounded-lg shadow-lg p-8 space-y-6">
+            <h1 class="text-3xl font-semibold text-gray-900 text-center">
+              Sexual Dysfunction & Gender Identity Dysphoria
+            </h1>
+
+            <section>
+              <h2 class="text-2xl font-semibold text-indigo-800">
+                Sexual Dysfunction
+              </h2>
+              <p class="text-lg text-gray-700 mt-2">
+                Sexual dysfunction refers to issues that prevent individuals or
+                couples from experiencing sexual satisfaction. It can occur at
+                any age but is more common after 40 due to age-related health
+                changes.
+              </p>
+
+              <div class="bg-indigo-100 p-6 rounded-lg mt-4">
+                <h3 class="text-xl font-semibold text-indigo-900">
+                  Types of Sexual Dysfunction
+                </h3>
+                <ul class="list-disc list-inside text-lg text-gray-700 mt-2 space-y-2">
+                  <li>
+                    <span class="font-semibold">Desire disorders:</span> Lack of
+                    interest in sex.
+                  </li>
+                  <li>
+                    <span class="font-semibold">Arousal disorders:</span>{" "}
+                    Difficulty becoming physically excited.
+                  </li>
+                  <li>
+                    <span class="font-semibold">Orgasm disorders:</span> Delayed
+                    or absent orgasm.
+                  </li>
+                  <li>
+                    <span class="font-semibold">Pain disorders:</span>{" "}
+                    Discomfort during intercourse.
+                  </li>
+                </ul>
+              </div>
+            </section>
+
+            <section>
+              <h2 class="text-2xl font-semibold text-purple-800">
+                Symptoms & Causes
+              </h2>
+              <p class="text-lg text-gray-700 mt-2">
+                Symptoms vary between men and women, ranging from erectile
+                dysfunction and premature ejaculation to inadequate vaginal
+                lubrication and inability to orgasm.
+              </p>
+              <p class="text-lg text-gray-700 mt-2">
+                Causes include medical conditions, psychological factors,
+                relationship conflicts, and performance anxiety. Medications,
+                chronic illnesses, and strict cultural beliefs may also
+                contribute.
+              </p>
+            </section>
+
+            <section class="bg-blue-100 p-6 rounded-lg">
+              <h2 class="text-xl font-semibold text-blue-900">
+                Diagnosis & Treatment
+              </h2>
+              <p class="text-lg text-gray-700 mt-2">
+                Diagnosis involves a medical evaluation, hormone tests, and
+                psychological assessments. Treatment includes counseling,
+                medical interventions, lifestyle changes, and medication
+                adjustments.
+              </p>
+            </section>
+
+            <section>
+              <h2 class="text-2xl font-semibold text-indigo-800">
+                Common Sexual Disorders
+              </h2>
+              <ul class="list-disc list-inside text-lg text-gray-700 mt-2 space-y-2">
+                <li>
+                  <span class="font-semibold">Erectile Dysfunction:</span>{" "}
+                  Inability to achieve or maintain an erection.
+                </li>
+                <li>
+                  <span class="font-semibold">Female Arousal Disorder:</span>{" "}
+                  Lack of sexual arousal or pleasure.
+                </li>
+                <li>
+                  <span class="font-semibold">Premature Ejaculation:</span>{" "}
+                  Ejaculation occurring too quickly.
+                </li>
+                <li>
+                  <span class="font-semibold">Orgasmic Disorder:</span> Delayed
+                  or absent orgasm.
+                </li>
+                <li>
+                  <span class="font-semibold">
+                    Genito-Pelvic Pain Disorder:
+                  </span>{" "}
+                  Pain or discomfort during penetration.
+                </li>
+              </ul>
+            </section>
+
+            <section class="bg-purple-100 p-6 rounded-lg">
+              <h2 class="text-xl font-semibold text-purple-900">
+                Gender Identity Dysphoria
+              </h2>
+              <p class="text-lg text-gray-700 mt-2">
+                Gender dysphoria occurs when a person’s gender identity differs
+                from their assigned sex at birth. It can emerge in childhood but
+                may become more apparent in adolescence or adulthood.
+              </p>
+              <p class="text-lg text-gray-700 mt-2">
+                DSM-5 classifies this condition separately for children,
+                adolescents, and adults. While debated in psychiatry, its
+                inclusion in the DSM-5 allows access to medical and surgical
+                interventions.
+              </p>
+            </section>
+
+            <p class="text-lg text-gray-700">
+              Understanding and addressing sexual health and gender identity
+              issues require a compassionate, science-based approach. Nurses and
+              healthcare professionals play a key role in education, early
+              diagnosis, and treatment.
+            </p>
+          </div>
+        </div>
+      </>
+    ),
+  },
+  {
+    id: 14,
+    title: "PSYCHOPATHOLOGICAL SYMPTOMS IN THE ELDERLY, PSYCHIATRIC DISEASES AND NURSING APPROACH",
+    content: (
+    <div class="max-w-4xl mx-auto px-6 py-10 bg-white rounded-2xl shadow-2xl border border-gray-200 space-y-8">
+  <section class="space-y-4">
+    <h1 class="text-3xl font-bold text-gray-800">Imagine This Bank...</h1>
+    <p class="text-gray-700 leading-relaxed">
+      Imagine a bank that deposits <span class="font-semibold text-blue-600">86,400 TL</span> into your account every morning. You are free to spend or not spend as much money as you want throughout the day. But there's one condition: 
+      what you don't spend disappears at the end of the day. The next morning, you're given another <span class="font-semibold text-blue-600">86,400 TL</span> — no carryovers, no savings.
+    </p>
+    <p class="text-gray-700 leading-relaxed">
+      Whether you realize it or not, we all have such a bank — it's called <span class="font-semibold text-red-600">TIME</span>. Each day you receive <span class="font-semibold">86,400 seconds</span>. What you don’t use is gone forever. Time waits for no one.
+    </p>
+    <p class="text-gray-700 italic">Yesterday is the past... Tomorrow is a mystery... Today is a gift — that’s why it’s called the present.</p>
+    <p class="text-right font-semibold text-gray-600">— CEM KEÇE</p>
+  </section>
+
+ 
+
+  <section class="space-y-4">
+    <h2 class="text-2xl font-semibold text-gray-800">Age Groups (WHO)</h2>
+    <ul class="grid grid-cols-2 gap-4 text-gray-700">
+      <li><span class="font-semibold">Puberty:</span> 0-17</li>
+      <li><span class="font-semibold">Youth:</span> 18-65</li>
+      <li><span class="font-semibold">Middle Age:</span> 66-79</li>
+      <li><span class="font-semibold">Elderly:</span> 80-99</li>
+    </ul>
+  </section>
+
+ 
+
+  <section class="space-y-4">
+    <h2 class="text-2xl font-semibold text-gray-800">Types of Aging</h2>
+    <ul class="list-disc list-inside text-gray-700 space-y-1">
+      <li>Normal aging - no disease</li>
+      <li>Biological aging - fertilization to death</li>
+      <li>Social aging – changes with society</li>
+      <li>Chronological aging - based on age</li>
+      <li>Pathological aging - due to disease</li>
+    </ul>
+  </section>
+
+ 
+
+  <section class="space-y-4">
+    <h2 class="text-2xl font-semibold text-gray-800">Depression</h2>
+    <p class="text-gray-700">Signs and symptoms include:</p>
+    <ul class="list-disc list-inside text-gray-700 space-y-1">
+      <li>Depressed mood</li>
+      <li>Psychomotor slowing</li>
+      <li>Difficulty concentrating</li>
+      <li>Changes in appetite and weight</li>
+      <li>Sleep disturbances</li>
+      <li>Increased physical complaints</li>
+      <li>Loss of joy</li>
+      <li>Sadness, tension</li>
+      <li>Feelings of worthlessness</li>
+      <li>Inability to cope with loss</li>
+    </ul>
+  </section>
+
+  <section class="space-y-4">
+    <h2 class="text-2xl font-semibold text-gray-800">Suicide</h2>
+    <ul class="list-disc list-inside text-gray-700 space-y-1">
+      <li>Suicide rates increase with age, especially after 65</li>
+      <li>Highest rates occur after age 75</li>
+      <li>Older men: 3–4x higher than general population</li>
+      <li>Suicidal thoughts are more common than actions</li>
+    </ul>
+  </section>
+
+  <section class="space-y-4">
+    <h2 class="text-2xl font-semibold text-gray-800">Alcohol and Substance Abuse</h2>
+    <ul class="list-disc list-inside text-gray-700 space-y-1">
+      <li>Divorce</li>
+      <li>Homelessness</li>
+      <li>Financial loss</li>
+      <li>Violent behavior</li>
+    </ul>
+  </section>
+
+  <section class="space-y-4">
+    <h2 class="text-2xl font-semibold text-gray-800">Hypochondriasis</h2>
+    <p class="text-gray-700">Persistent fear or belief in having a disease despite medical reassurance.</p>
+  </section>
+
+  <section class="space-y-4">
+    <h2 class="text-2xl font-semibold text-gray-800">Somatization Disorder</h2>
+    <ul class="list-disc list-inside text-gray-700 space-y-1">
+      <li>Multiple, long-term physical complaints</li>
+      <li>No identifiable organic cause</li>
+      <li>Begins before age 30 and lasts years</li>
+      <li>Can result from role loss, sensory changes, or body image issues</li>
+    </ul>
+  </section>
+
+  <section class="space-y-4">
+    <h2 class="text-2xl font-semibold text-gray-800">Anxiety Disorders</h2>
+    <ul class="list-disc list-inside text-gray-700 space-y-1">
+      <li>Loss of friends/loved ones</li>
+      <li>Deteriorating physical health</li>
+      <li>Impaired bodily functions</li>
+      <li>Fear and uncertainty about the future</li>
+    </ul>
+  </section>
+
+<section className="max-w-4xl mx-auto px-6 py-8 bg-white rounded-2xl shadow-md border border-gray-200 space-y-4 mt-10">
+  <h2 className="text-2xl font-bold text-gray-800">General Features That a Gerontology Nurse Should Have</h2>
+  <ul className="list-disc list-inside text-gray-700 space-y-2">
+    <li>Apply rehabilitative nursing practices</li>
+    <li>Integrate the past and future while caring for the patient</li>
+    <li>Include family members in care even when the patient has severe cognitive and orientation impairments</li>
+    <li>Create an environment that supports the patient’s independent functioning</li>
+    <li>Support families and communities in overcoming age-related bias and hostility</li>
+    <li>Promote elderly health, therapeutic services, and professional involvement in elder care</li>
+    <li>Educate elderly individuals about self-care</li>
+  </ul>
+</section>
+
+<section className="max-w-5xl mx-auto px-6 py-10 bg-white rounded-2xl shadow-md border border-gray-200 space-y-6 mt-10">
+  <h2 className="text-3xl font-bold text-gray-800">Organic Mental Disorders and Nursing Approach</h2>
+
+  <div>
+    <h3 className="text-xl font-semibold text-gray-700">Main Categories</h3>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>Delirium</li>
+      <li>Major and Non-Severe Neurocognitive Disorder</li>
+      <li>Mild Neurocognitive Impairment</li>
+      <li>Severe (Major) Neurocognitive Disorder</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3 className="text-xl font-semibold text-gray-700">Diagnostic Classifications</h3>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>DSM-IV: Delirium, dementia, amnestic and other cognitive disorders</li>
+      <li>DSM-V: Neurocognitive disorders</li>
+      <li>ICD-10: Organic and symptomatic mental disorders</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3 className="text-2xl font-bold text-blue-800 mt-6">Delirium</h3>
+    <p className="text-gray-700 mt-2">
+      Derived from Greek “leros” (talking nonsense) and Latin “delirare” (to go beyond bounds), delirium is an acute syndrome involving disturbances in consciousness, cognition, and behavior due to widespread brain dysfunction.
+    </p>
+    <p className="text-gray-700 mt-2">
+      It typically lasts hours to a week and often fluctuates throughout the day. Delirium is not a disease itself but a manifestation of acute brain failure due to various causes (e.g. infections, trauma, surgery, substance use).
+    </p>
+  </div>
+
+  <div>
+    <h3 className="text-xl font-semibold text-gray-700">Types of Delirium (Stages)</h3>
+    <ul className="list-decimal list-inside text-gray-700 space-y-1">
+      <li>Impairment of memory, attention, and concentration</li>
+      <li>Disorientation in time and space</li>
+      <li>Stupor, seizures, and fixed staring</li>
+      <li>Coma</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3 className="text-xl font-semibold text-gray-700">Risk Factors</h3>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>Advanced age</li>
+      <li>Hearing/vision loss</li>
+      <li>Inactivity and sleep disturbances</li>
+      <li>Chronic pain, infections, dehydration</li>
+      <li>Metabolic imbalances, change in caregivers</li>
+      <li>Multiple medications, surgical complications</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3 className="text-xl font-semibold text-gray-700">Trigger Factors</h3>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>Acute illnesses or surgeries</li>
+      <li>Diagnostic procedures, catheters</li>
+      <li>Sedatives, sensory deprivation</li>
+      <li>Psychosocial stress, anticholinergic drugs</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3 className="text-xl font-semibold text-gray-700">Treatment</h3>
+    <p className="text-gray-700 mt-1">First, identify and address the underlying cause. There’s no one-size-fits-all medication, but Haloperidol may be used carefully.</p>
+    <p className="text-sm text-red-600 italic mt-1">Note: Haloperidol has anticholinergic effects, may worsen confusion, lower seizure threshold, and affect blood pressure.</p>
+  </div>
+
+  <div>
+    <h3 className="text-xl font-semibold text-gray-700">Nursing Diagnoses</h3>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>Acute confusion</li>
+      <li>Disturbed thought processes</li>
+      <li>Impaired social interaction</li>
+      <li>Disturbed sleep pattern</li>
+      <li>Self-care deficit</li>
+      <li>Risk for trauma</li>
+      <li>Situational low self-esteem</li>
+    </ul>
+  </div>
+
+  <div className="pt-6 border-t border-gray-300">
+    <h3 className="text-2xl font-bold text-blue-800">Difference Between Delirium and Dementia</h3>
+    <table className="w-full text-left mt-4 border-collapse">
+      <thead>
+        <tr className="bg-gray-100">
+          <th className="py-2 px-4 font-medium text-gray-700">Feature</th>
+          <th className="py-2 px-4 font-medium text-gray-700">Delirium</th>
+          <th className="py-2 px-4 font-medium text-gray-700">Dementia</th>
+        </tr>
+      </thead>
+      <tbody className="text-gray-700">
+        <tr className="border-t">
+          <td className="py-2 px-4">Onset</td>
+          <td className="py-2 px-4">Sudden (hours to days)</td>
+          <td className="py-2 px-4">Gradual (months to years)</td>
+        </tr>
+        <tr className="border-t">
+          <td className="py-2 px-4">Duration</td>
+          <td className="py-2 px-4">Short, reversible</td>
+          <td className="py-2 px-4">Long-term, often irreversible</td>
+        </tr>
+        <tr className="border-t">
+          <td className="py-2 px-4">Consciousness</td>
+          <td className="py-2 px-4">Fluctuates</td>
+          <td className="py-2 px-4">Usually clear</td>
+        </tr>
+        <tr className="border-t">
+          <td className="py-2 px-4">Attention</td>
+          <td className="py-2 px-4">Impaired</td>
+          <td className="py-2 px-4">Relatively preserved</td>
+        </tr>
+        <tr className="border-t">
+          <td className="py-2 px-4">Cause</td>
+          <td className="py-2 px-4">Medical condition, drugs, infections</td>
+          <td className="py-2 px-4">Alzheimer’s, vascular issues, aging</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section className="p-6 bg-gray-100 rounded-xl shadow-md space-y-6">
+  <h2 className="text-2xl font-bold text-gray-800">Major and Mild Neurocognitive Disorders</h2>
+
+  <div className="space-y-2">
+    <h3 className="text-xl font-semibold text-blue-700">Types:</h3>
+    <ul className="list-disc list-inside text-gray-700">
+      <li><strong>Mild Neurocognitive Impairment:</strong> Early stage memory and thinking issues, but person is mostly independent.</li>
+      <li><strong>Major (Severe) Neurocognitive Disorder:</strong> Significant memory loss, confusion, and daily functioning difficulties. Also known as dementia.</li>
+    </ul>
+  </div>
+
+  <div className="space-y-2">
+    <h3 className="text-xl font-semibold text-blue-700">Common Symptoms:</h3>
+    <ul className="list-disc list-inside text-gray-700">
+      <li>Forgetfulness (especially long-term memories)</li>
+      <li>Trouble with planning and abstract thinking</li>
+      <li>Language problems:
+        <ul className="list-disc ml-6">
+          <li><strong>Aphasia:</strong> Difficulty speaking or understanding language</li>
+          <li><strong>Agraphia:</strong> Inability to write</li>
+          <li><strong>Alexia:</strong> Inability to read or understand text</li>
+        </ul>
+      </li>
+      <li>Movement/coordination issues:
+        <ul className="list-disc ml-6">
+          <li><strong>Apraxia:</strong> Difficulty performing tasks despite working muscles</li>
+        </ul>
+      </li>
+      <li>Sensory recognition problems:
+        <ul className="list-disc ml-6">
+          <li><strong>Agnosia:</strong> Inability to recognize objects or people</li>
+        </ul>
+      </li>
+      <li>Sleep disturbances, personality changes, poor thought processes</li>
+    </ul>
+  </div>
+
+  <div className="space-y-2">
+    <h3 className="text-xl font-semibold text-blue-700">Treatment:</h3>
+    <p className="text-gray-700">There is no permanent cure, but symptoms can be managed using:</p>
+    <ul className="list-disc list-inside text-gray-700">
+      <li>Start medications at low doses and adjust as needed</li>
+      <li>Medications include:
+        <ul className="list-disc ml-6">
+          <li>Serotonin reuptake inhibitors (for mood)</li>
+          <li>Cholinesterase inhibitors: Donepezil, Rivastigmine, Galantamine (help with memory and cognition)</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+
+  <div className="space-y-2">
+    <h3 className="text-xl font-semibold text-blue-700">Nursing Care Goals:</h3>
+    <ul className="list-disc list-inside text-gray-700">
+      <li>Maintain daily functioning and safety</li>
+      <li>Support cognitive functions</li>
+      <li>Promote independence</li>
+      <li>Ensure proper nutrition and balanced sleep/activity</li>
+      <li>Maintain effective communication with the patient</li>
+    </ul>
+  </div>
+</section>
+
+</div>
+
+    ),
+  },
+  {
+    id: 15,
+    title: "EMERGENCIES IN PSYCHIATRY, DRUGS USED, EMERGENCY PSYCHIATRY NURSING",
+    content: (
+   <div>
+   <section className="p-6 bg-white rounded-2xl shadow-lg space-y-8">
+  <div>
+    <h2 className="text-2xl font-bold text-gray-800 mb-4">🧠 The Concept of Emergency Psychiatry</h2>
+    <p className="text-gray-700 leading-relaxed">
+      A psychiatric emergency is defined by the American Psychiatric Association as an <span className="font-semibold text-blue-700">acute deterioration</span> in mood, thought, behavior, or social relationships that requires immediate attention.
+    </p>
+    <ul className="list-disc list-inside mt-3 text-gray-700 space-y-1">
+      <li>Chronic mental illness</li>
+      <li>Psychosocial stressors</li>
+      <li>Medical illnesses with psychiatric symptoms</li>
+      <li>Poisonings</li>
+      <li>Substance use</li>
+      <li>Drug side effects or interactions</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3 className="text-xl font-semibold text-gray-800 mb-2">📜 History of Emergency Psychiatric Approach</h3>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>Russo-Japanese War (early 1900s)</li>
+      <li>Crisis intervention therapies in the US Army (since 1944)</li>
+      <li>Abandonment of the warehouse-style psychiatric hospitals in the 1950s</li>
+      <li>Mental Health Act of 1963 requiring 24-hour emergency psychiatric services</li>
+      <li>Creation of specialized psychiatric emergency units after 1980</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3 className="text-xl font-semibold text-gray-800 mb-2">🏥 Models Used in Emergency Psychiatry</h3>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>Presence of a consultation-liaison psychiatry (CLP) nurse in the emergency department</li>
+      <li>Mental health triage approach</li>
+      <li>A designated area in the general ER for psychiatric patients with a trained team</li>
+      <li>A standalone psychiatric emergency service separate from the general ER</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3 className="text-xl font-semibold text-gray-800 mb-2">🛑 Psychiatric Emergency Environment</h3>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>Well-lit area with natural daylight and windows</li>
+      <li>Closed-circuit camera system and panic buttons</li>
+      <li>Heavy furniture that cannot be easily lifted</li>
+      <li>Soundproof rooms for privacy</li>
+      <li>Discussion rooms decorated with calming colors</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3 className="text-xl font-semibold text-gray-800 mb-2">✅ Safety & Support Principles</h3>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>Clear rules and principles to prevent violence</li>
+      <li>Presence of a psychiatric nurse and a security guard</li>
+      <li>Facilities for transfer to other services when needed</li>
+      <li>Availability of psychiatric services for hospitalization and referrals</li>
+    </ul>
+  </div>
+</section>
+
+<section className="p-6 bg-white shadow-md rounded-2xl space-y-8">
+  <div>
+    <h2 className="text-2xl font-bold text-gray-800 mb-4">🚨 Psychiatric Emergencies and Nursing Care</h2>
     
+    <h3 className="text-xl font-semibold text-red-600 mb-2">🧠 Suicide</h3>
+    <p className="text-gray-700">
+      Suicide is one of the most serious psychiatric emergencies. Treatment and nursing care depend on the underlying mental disorder, its severity, and the patient’s ability to cooperate.
+    </p>
+
+    <div className="mt-4">
+      <h4 className="text-lg font-semibold text-gray-800 mb-1">🩺 Treatment & Planning</h4>
+      <ul className="list-disc list-inside text-gray-700 space-y-1">
+        <li>Assess whether the patient should be monitored in bed or while mobile.</li>
+        <li>Develop a treatment plan based on diagnosis, severity, and patient cooperation.</li>
+        <li>Use low doses of antipsychotics for agitation, if needed.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div>
+    <h3 className="text-xl font-semibold text-gray-800 mb-3">👩‍⚕️ Nursing Care Process</h3>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>Perform a general medical condition assessment.</li>
+      <li>Ensure the safety and security of the patient.</li>
+      <li>Conduct psychiatric evaluation and collect history.</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3 className="text-xl font-semibold text-gray-800 mb-2">🛠️ Nursing Interventions</h3>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>Environmental regulation (removing harmful items, quiet room, etc.)</li>
+      <li>Appeasement (calm and supportive communication)</li>
+      <li>Bodily restraint or isolation when necessary</li>
+      <li>Use of medications (as prescribed by a psychiatrist)</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3 className="text-xl font-semibold text-gray-800 mb-2">🔒 Use of Physical Restraint: Nursing Role</h3>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>Isolate the patient from other patients when needed.</li>
+      <li>Monitor and document mental state, side effects, fluid/nutrition intake, elimination, vitals, and hygiene every 15–30 minutes.</li>
+      <li>Release restraint every 2 hours (by two staff) and allow 10 minutes of free movement.</li>
+      <li>Reduce external stimuli (no visitors, phones, radio, or magazines temporarily).</li>
+      <li>Change patient’s position regularly and provide skin care.</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3 className="text-xl font-semibold text-gray-800 mb-2">📝 Considerations</h3>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>Apply nursing diagnoses from NANDA (e.g., risk for self-harm, impaired social interaction).</li>
+      <li>Be mindful of your own verbal and non-verbal cues when caring for psychiatric patients.</li>
+    </ul>
+  </div>
+</section>
+
+<section className="p-6 bg-white rounded-2xl shadow-md space-y-6">
+  <div>
+    <h2 className="text-2xl font-bold text-gray-800 mb-4">🧠 Psychosis</h2>
+    <p className="text-gray-700">
+      Psychosis is a serious mental health condition characterized by:
+    </p>
+    <ul className="list-disc list-inside text-gray-700 space-y-1 mt-2">
+      <li>Hallucinations (seeing or hearing things that aren't there)</li>
+      <li>Disorganized thinking and behavior</li>
+      <li>Agitation and loss of connection with reality</li>
+    </ul>
+    <p className="text-gray-700 mt-3">
+      Psychosis can be caused by:
+    </p>
+    <ul className="list-disc list-inside text-gray-700 space-y-1 mt-1">
+      <li>Primary psychiatric disorders (e.g., schizophrenia)</li>
+      <li>Medical conditions (e.g., brain tumor, infections)</li>
+      <li>Substance use or side effects of certain medications</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3 className="text-xl font-semibold text-gray-800 mb-2">🩺 Treatment and Nursing Care</h3>
+    <ul className="list-disc list-inside text-gray-700 space-y-2">
+      <li>If the patient poses a serious risk of self-harm or harm to others, immediate hospitalization is necessary.</li>
+      <li>Create a safe and calm environment for the patient.</li>
+      <li>Identify and treat the underlying cause of the psychosis.</li>
+      <li>For severe agitation, rapid sedation may be required using medications such as <strong>Haloperidol</strong> and <strong>Biperiden</strong>.</li>
+    </ul>
+  </div>
+</section>
+
+<section className="p-6 bg-white rounded-2xl shadow-md space-y-8">
+  {/* Panic Attack */}
+  <div>
+    <h2 className="text-2xl font-bold text-red-600 mb-3">😨 Panic Attack</h2>
+    <p className="text-gray-700">
+      A panic attack is a sudden episode of intense fear or anxiety, often accompanied by physical symptoms such as palpitations, sweating, trembling, or shortness of breath.
+    </p>
+    <h3 className="text-lg font-semibold text-gray-800 mt-4">🩺 Treatment and Nursing Care</h3>
+    <ul className="list-disc list-inside text-gray-700 space-y-1 mt-2">
+      <li>Move the person to a safe and quiet place.</li>
+      <li>Speak calmly and gently.</li>
+      <li>Offer empathy and reassurance, especially about physical symptoms.</li>
+      <li>Help reduce autonomic arousal using:
+        <ul className="list-disc list-inside ml-5 mt-1">
+          <li>Relaxation techniques</li>
+          <li>Deep breathing exercises</li>
+          <li>Breathing into a paper bag (if hyperventilating)</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+
+  {/* PTSD */}
+  <div>
+    <h2 className="text-2xl font-bold text-yellow-600 mb-3">💥 Posttraumatic Stress Disorder (PTSD)</h2>
+    <p className="text-gray-700">
+      PTSD is a mental health condition that develops after experiencing or witnessing a traumatic event. It is marked by:
+    </p>
+    <ul className="list-disc list-inside text-gray-700 space-y-1 mt-2">
+      <li>Flashbacks and intrusive memories</li>
+      <li>Avoidance of reminders of the trauma</li>
+      <li>Hyperarousal and emotional numbness</li>
+      <li>Feelings of detachment (depersonalization, derealization)</li>
+    </ul>
+    <h3 className="text-lg font-semibold text-gray-800 mt-4">🩺 Treatment and Nursing Care</h3>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>Early recognition of symptoms after trauma</li>
+      <li>Providing psychological support and treatment options</li>
+      <li>Referral to mental health professionals for ongoing care</li>
+    </ul>
+  </div>
+
+  {/* Conversion Disorder */}
+  <div>
+    <h2 className="text-2xl font-bold text-purple-600 mb-3">🌀 Conversion Disorder</h2>
+    <p className="text-gray-700">
+      Conversion disorder involves neurological symptoms (e.g., paralysis, blindness, or seizures) that appear suddenly and involuntarily due to psychological stress or conflict, without an identifiable medical cause.
+    </p>
+    <h3 className="text-lg font-semibold text-gray-800 mt-4">🩺 Nursing Care</h3>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>Maintain a supportive, non-judgmental attitude</li>
+      <li>Provide reassurance that the symptoms are real and will be managed</li>
+      <li>Encourage expression of emotional distress</li>
+      <li>Work closely with the healthcare team for diagnosis and treatment</li>
+    </ul>
+  </div>
+</section>
+
+<section className="p-6 bg-white rounded-2xl shadow-md space-y-8">
+  {/* Section Header */}
+  <h2 className="text-3xl font-bold text-indigo-700">🍷 Emergencies Related to Alcohol Use</h2>
+
+  {/* Alcohol Intoxication */}
+  <div>
+    <h3 className="text-2xl font-semibold text-red-600 mb-2">⚠️ Alcohol Intoxication</h3>
+    <p className="text-gray-700 mb-2">
+      Occurs due to elevated alcohol levels in the blood and brain following excessive consumption. Symptoms include:
+    </p>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>Coordination problems and staggering gait</li>
+      <li>Nystagmus, agitation, and memory/attention issues</li>
+      <li>Risky behaviors (e.g., reckless driving, unsafe sex)</li>
+    </ul>
+
+    <h4 className="text-lg font-semibold mt-4 text-gray-800">🩺 Treatment and Nursing Care</h4>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>Assess for other medical conditions or trauma</li>
+      <li>Central nervous system depressants are contraindicated</li>
+      <li>Administer <span className="font-medium text-gray-900">Haloperidol</span> if needed for agitation</li>
+      <li>Consider <span className="font-medium text-gray-900">hemodialysis</span> in severe toxicity</li>
+    </ul>
+  </div>
+
+  {/* Alcohol Withdrawal Syndrome */}
+  <div>
+    <h3 className="text-2xl font-semibold text-orange-500 mb-2">🚨 Alcohol Withdrawal Syndrome</h3>
+    <p className="text-gray-700">
+      Withdrawal symptoms appear after cessation or reduction of long-term heavy drinking.
+    </p>
+    <h4 className="text-lg font-semibold mt-4 text-gray-800">🩺 Treatment and Nursing Care</h4>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>Reduce environmental stimuli</li>
+      <li>Provide reassurance and help orient the patient to reality</li>
+      <li>Supportive care:
+        <ul className="list-disc ml-5 mt-1">
+          <li>Correct hypoglycemia & electrolyte imbalance</li>
+          <li>Ensure hydration and high-calorie diet</li>
+          <li>Supplement with B-complex vitamins</li>
+        </ul>
+      </li>
+      <li>Administer <span className="font-medium text-gray-900">benzodiazepines</span></li>
+    </ul>
+  </div>
+
+  {/* Delirium Tremens */}
+  <div>
+    <h3 className="text-2xl font-semibold text-yellow-600 mb-2">🧠 Delirium Tremens</h3>
+    <p className="text-gray-700">
+      A severe form of alcohol withdrawal occurring 24–72 hours after stopping alcohol, characterized by:
+    </p>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>Autonomic hyperactivity (e.g., sweating, high BP)</li>
+      <li>Visual and tactile hallucinations</li>
+      <li>Psychomotor agitation or reduction</li>
+    </ul>
+
+    <h4 className="text-lg font-semibold mt-4 text-gray-800">🩺 Treatment and Nursing Care</h4>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>Hospitalization is essential</li>
+      <li>Minimize sensory stimulation (quiet room, reduce lights/noise)</li>
+      <li>Administer <span className="font-medium text-gray-900">benzodiazepines</span> for sedation</li>
+      <li>Provide overall supportive care</li>
+    </ul>
+  </div>
+</section>
+
+<section className="p-6 bg-white rounded-2xl shadow-md space-y-8">
+  <h2 className="text-3xl font-bold text-purple-700">💊 Emergencies Related to Opiates and Derivatives</h2>
+
+  {/* Opiate Intoxication */}
+  <div>
+    <h3 className="text-2xl font-semibold text-red-600 mb-2">⚠️ Opiate Intoxication</h3>
+    <p className="text-gray-700 mb-2">
+      Opiate intoxication results from activation of opioid receptors, leading to suppression of synaptic transmission in both the central and peripheral nervous systems.
+    </p>
+
+    <h4 className="text-lg font-semibold mt-2 text-gray-800">🔍 Clinical Features</h4>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>Central nervous system depression</li>
+      <li>Respiratory depression</li>
+      <li>Pupillary miosis (pinpoint pupils)</li>
+    </ul>
+
+    <h4 className="text-lg font-semibold mt-4 text-gray-800">🩺 Treatment and Nursing Care</h4>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>Initiate basic emergency precautions (airway, breathing, circulation)</li>
+      <li>Administer <span className="font-medium text-gray-900">Naloxone</span> – a pure opioid antagonist</li>
+      <li>Treat associated medical complications (e.g., hypoxia, aspiration, hypotension)</li>
+    </ul>
+  </div>
+
+  {/* Opioid Withdrawal */}
+  <div>
+    <h3 className="text-2xl font-semibold text-orange-500 mb-2">🔄 Opioid Withdrawal</h3>
+    <p className="text-gray-700 mb-2">
+      Withdrawal symptoms appear after sudden cessation or reduction of prolonged opiate use, or after receiving an opioid antagonist.
+    </p>
+
+    <h4 className="text-lg font-semibold text-gray-800">🔍 Symptoms</h4>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>Dysphoric mood (feeling of emotional discomfort or sadness)</li>
+      <li>Nausea or vomiting</li>
+      <li>Muscle aches, tearing (lacrimation), and runny nose (rhinorrhea)</li>
+      <li>Dilated pupils</li>
+      <li>Sweating</li>
+    </ul>
+
+    <h4 className="text-lg font-semibold mt-4 text-gray-800">🩺 Treatment and Nursing Care</h4>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>Administer <span className="font-medium text-gray-900">Methadone</span> to ease withdrawal</li>
+      <li>Symptomatic management (antiemetics, hydration)</li>
+      <li>Use analgesics for pain relief</li>
+    </ul>
+  </div>
+</section>
+
+
+<section className="p-6 bg-white rounded-2xl shadow-md space-y-10">
+  <h2 className="text-3xl font-bold text-purple-700">🧠 Psychiatric Drug Emergencies</h2>
+
+  {/* Serotonin Syndrome */}
+  <div>
+    <h3 className="text-2xl font-semibold text-pink-600 mb-2">⚠️ Serotonin Syndrome</h3>
+    <p className="text-gray-700 mb-3">
+      A potentially fatal condition caused by overstimulation of serotonin receptors in the central and peripheral nervous systems.
+    </p>
+
+    <h4 className="text-lg font-semibold text-gray-800">🔍 Key Symptoms</h4>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>Altered mental state</li>
+      <li>Autonomic hyperactivity</li>
+      <li>Neuromuscular hyperactivity</li>
+      <li><strong>Clonus</strong> – the most specific symptom</li>
+    </ul>
+
+    <h4 className="text-lg font-semibold mt-4 text-gray-800">🩺 Treatment and Nursing Care</h4>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>Immediate discontinuation of all serotonergic medications</li>
+      <li>Stabilize vital signs and oxygen saturation (maintain 93%)</li>
+      <li>Continuous cardiac monitoring</li>
+      <li>Supportive care including IV fluids, sedation, and temperature control</li>
+    </ul>
+  </div>
+
+  {/* Neuroleptic Malignant Syndrome */}
+  <div>
+    <h3 className="text-2xl font-semibold text-red-600 mb-2">🔥 Neuroleptic Malignant Syndrome</h3>
+    <p className="text-gray-700 mb-3">
+      A rare but life-threatening reaction to antipsychotic medications.
+    </p>
+
+    <h4 className="text-lg font-semibold text-gray-800">🔍 Key Symptoms</h4>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>Altered consciousness</li>
+      <li>Hyperthermia (elevated body temperature)</li>
+      <li>Severe muscle rigidity and cramps</li>
+      <li>Unstable or fluctuating blood pressure</li>
+    </ul>
+
+    <h4 className="text-lg font-semibold mt-4 text-gray-800">🩺 Treatment and Nursing Care</h4>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>Immediate discontinuation of antipsychotics or suspected drugs</li>
+      <li>Transfer to a well-equipped intensive care unit</li>
+      <li>Supportive care: manage fluids, electrolytes, temperature, and nutrition</li>
+    </ul>
+  </div>
+
+  {/* Conclusion */}
+  <div className="pt-4 border-t border-gray-300">
+    <h4 className="text-xl font-semibold text-gray-900 mb-2">🧩 In Conclusion</h4>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>Prompt implementation of emergency protocols with a humane approach</li>
+      <li>Strong collaboration among healthcare professionals</li>
+      <li>Establishing a therapeutic relationship with both patient and family</li>
+      <li>Fostering team solidarity and healthy communication within the healthcare team</li>
+    </ul>
+  </div>
+</section>
+
+   </div>
+    ),
   },
   // Add more lessons here
 ];
@@ -2796,37 +4450,37 @@ const Lesson = () => {
 
         {/* Video Embedding Section */}
         {lesson?.videoUrl ? (
-  <div className="mb-8">
-    <h2 className="text-3xl font-semibold text-gray-800 mb-4">
-      Watch the Video
-    </h2>
-    <iframe
-      width="100%"
-      height="400"
-      src={lesson.videoUrl}
-      title={lesson.title}
-      frameBorder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-      allowFullScreen
-      className="rounded-lg shadow-xl"
-    ></iframe>
-  </div>
-) : lesson?.localVideo ? (
-  <div className="mb-8">
-    <h2 className="text-3xl font-semibold text-gray-800 mb-4">
-      Watch the Video
-    </h2>
-    <video
-      width="100%"
-      height="400"
-      controls
-      className="rounded-lg shadow-xl"
-    >
-      <source src={lesson.localVideo} type="video/mp4" />
-      Your browser does not support the video tag.
-    </video>
-  </div>
-) : null}
+          <div className="mb-8">
+            <h2 className="text-3xl font-semibold text-gray-800 mb-4">
+              Watch the Video
+            </h2>
+            <iframe
+              width="100%"
+              height="400"
+              src={lesson.videoUrl}
+              title={lesson.title}
+              frameBorder="0"
+              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+              className="rounded-lg shadow-xl"
+            ></iframe>
+          </div>
+        ) : lesson?.localVideo ? (
+          <div className="mb-8">
+            <h2 className="text-3xl font-semibold text-gray-800 mb-4">
+              Watch the Video
+            </h2>
+            <video
+              width="100%"
+              height="400"
+              controls
+              className="rounded-lg shadow-xl"
+            >
+              <source src={lesson.localVideo} type="video/mp4" />
+              Your browser does not support the video tag.
+            </video>
+          </div>
+        ) : null}
 
         {/* Quiz Button */}
         <div className="mt-10 text-center">

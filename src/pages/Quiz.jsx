@@ -2765,6 +2765,133 @@ const quizData = {
         "correctAnswer": "Industry vs. Inferiority"
     }
 ],
+  12:[
+    {
+      question: "How does the World Health Organization define sexual health?",
+      options: [
+        "The absence of disease",
+        "A state of physical, emotional, mental, and social well-being in relation to sexuality",
+        "The ability to reproduce",
+        "Conforming to societal norms"
+      ],
+      correctAnswer: "A state of physical, emotional, mental, and social well-being in relation to sexuality"
+    },
+    {
+      question: "Which of the following is NOT a component of sexuality?",
+      options: ["Emotional well-being", "Intellectual development", "Digestive health", "Social integrity"],
+      correctAnswer: "Digestive health"
+    },
+    {
+      question: "What term describes an individual’s perception and acceptance of their own gender?",
+      options: ["Sexual orientation", "Gender identity", "Biological sex", "Sexual dysfunction"],
+      correctAnswer: "Gender identity"
+    },
+    {
+      question: "What does homophobia refer to?",
+      options: [
+        "The acceptance of diverse sexual orientations",
+        "The irrational fear and hostility towards homosexuals",
+        "The study of human sexual behavior",
+        "A psychological treatment for sexual disorders"
+      ],
+      correctAnswer: "The irrational fear and hostility towards homosexuals"
+    },
+    {
+      question: "Which paraphilic disorder involves obtaining sexual arousal by exposing one's genitals to unsuspecting individuals?",
+      options: ["Voyeuristic disorder", "Exhibitionistic disorder", "Fetishistic disorder", "Pedophilic disorder"],
+      correctAnswer: "Exhibitionistic disorder"
+    },
+    {
+      question: "What is a common characteristic of fetishistic disorder?",
+      options: [
+        "Preference for multiple sexual partners",
+        "Arousal from inanimate objects or non-genital body parts",
+        "Fear of engaging in sexual activity",
+        "Avoidance of any intimate relationships"
+      ],
+      correctAnswer: "Arousal from inanimate objects or non-genital body parts"
+    },
+    {
+      question: "Which disorder involves intense sexual arousal from watching unsuspecting individuals engage in private activities?",
+      options: ["Exhibitionistic disorder", "Voyeuristic disorder", "Masochistic disorder", "Sadistic disorder"],
+      correctAnswer: "Voyeuristic disorder"
+    },
+    {
+      question: "In which paraphilic disorder does a person obtain sexual arousal by rubbing against non-consenting individuals?",
+      options: ["Fetishistic disorder", "Voyeuristic disorder", "Frotturistic disorder", "Masochistic disorder"],
+      correctAnswer: "Frotturistic disorder"
+    },
+    {
+      question: "What is gender identity dysphoria?",
+      options: [
+        "A desire to change gender for social benefits",
+        "A condition where a person’s gender identity does not align with their assigned sex at birth",
+        "A disorder requiring mandatory treatment",
+        "A lack of sexual interest"
+      ],
+      correctAnswer: "A condition where a person’s gender identity does not align with their assigned sex at birth"
+    },
+    {
+      question: "At what age can gender identity dysphoria become apparent?",
+      options: ["Only in adulthood", "Only in adolescence", "In childhood, adolescence, or adulthood", "Only after the age of 40"],
+      correctAnswer: "In childhood, adolescence, or adulthood"
+    },
+    {
+      question: "Why is gender dysphoria classified in the DSM-5?",
+      options: [
+        "To label it as a mental illness",
+        "To provide access to medical and surgical interventions",
+        "To discourage gender transitions",
+        "To prevent individuals from changing their gender identity"
+      ],
+      correctAnswer: "To provide access to medical and surgical interventions"
+    },
+    {
+      question: "What is sexual dysfunction?",
+      options: [
+        "The inability to engage in any sexual activity",
+        "Any disorder preventing sexual satisfaction",
+        "The presence of multiple sexual partners",
+        "The ability to reproduce successfully"
+      ],
+      correctAnswer: "Any disorder preventing sexual satisfaction"
+    },
+    {
+      question: "Which of the following is NOT a type of sexual dysfunction?",
+      options: ["Desire disorders", "Arousal disorders", "Personality disorders", "Pain disorders"],
+      correctAnswer: "Personality disorders"
+    },
+    {
+      question: "Erectile dysfunction is an example of:",
+      options: ["Desire disorder", "Arousal disorder", "Pain disorder", "Voyeuristic disorder"],
+      correctAnswer: "Arousal disorder"
+    },
+    {
+      question: "Which disorder involves discomfort or pain during intercourse?",
+      options: ["Genito-pelvic pain disorder", "Erectile dysfunction", "Orgasmic disorder", "Fetishistic disorder"],
+      correctAnswer: "Genito-pelvic pain disorder"
+    },
+    {
+      question: "Nurses play a critical role in:",
+      options: [
+        "Judging patients with sexual disorders",
+        "Providing education and early diagnosis",
+        "Encouraging avoidance of all sexual activities",
+        "Limiting medical treatments for sexual disorders"
+      ],
+      correctAnswer: "Providing education and early diagnosis"
+    },
+    {
+      question: "What is one of the key roles of a nurse in managing sexual disorders?",
+      options: [
+        "Diagnosing and prescribing medications",
+        "Assisting in behavior modification and providing patient education",
+        "Avoiding discussions about sexuality",
+        "Referring all cases to psychiatrists without involvement"
+      ],
+      correctAnswer: "Assisting in behavior modification and providing patient education"
+    }
+  ],
 
 
   

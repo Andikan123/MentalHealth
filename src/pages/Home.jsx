@@ -14,6 +14,10 @@ const lessons = [
   { id: 9, title: "Therapeutic Environment,  Therapeutic  Communication" },
   { id: 10, title: "Thetapeuric Communication Proncıples and Technıques ın Mental Health and Psychiatric Nursing" },
   { id: 11, title: "Personality Development, Eight Stages of Human Development" },
+  { id: 12, title: "Individuals With Sexual Disorders And Nursing Approach" },
+  { id: 13, title: "ASSESSMENT AND RISK MANAGEMENT IN PSYCHIATRY CLINICS" },
+  { id: 14, title: "Psychopathological Sumptoms In The Elderly, Psychiatric Disease And Nursing Approach" },
+  { id: 15, title: "Emergencies In Psychiatry, Drugs Used, Emergency Psychiatry Nursing" },
   // Add more lessons here
 ];
 
