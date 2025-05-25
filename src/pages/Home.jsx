@@ -14,10 +14,17 @@ const lessons = [
   { id: 9, title: "Therapeutic Environment,  Therapeutic  Communication" },
   { id: 10, title: "Thetapeuric Communication Proncıples and Technıques ın Mental Health and Psychiatric Nursing" },
   { id: 11, title: "Personality Development, Eight Stages of Human Development" },
+<<<<<<< HEAD
   { id: 12, title: "Individuals With Sexual Disorders And Nursing Approach" },
   { id: 13, title: "ASSESSMENT AND RISK MANAGEMENT IN PSYCHIATRY CLINICS" },
   { id: 14, title: "Psychopathological Sumptoms In The Elderly, Psychiatric Disease And Nursing Approach" },
   { id: 15, title: "Emergencies In Psychiatry, Drugs Used, Emergency Psychiatry Nursing" },
+=======
+  { id: 12, title: "Schizophrenia" },
+  { id: 13, title: "Writing Observation Report" },
+  { id: 14, title: "Assessment and Risk Management in Psychiatry Clinics" },
+  { id: 15, title: "Individuals With Personality Disorder and the Nursing Approach" },
+>>>>>>> 4ffa0c197c54a5d8f31402b7e12eabf2e85a31f5
   // Add more lessons here
 ];
 

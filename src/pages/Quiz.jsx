@@ -2767,6 +2767,7 @@ const quizData = {
 ],
   12:[
     {
+<<<<<<< HEAD
       question: "How does the World Health Organization define sexual health?",
       options: [
         "The absence of disease",
@@ -2897,7 +2898,630 @@ const quizData = {
   
   
   
+=======
+      question: "Which of the following is considered a positive symptom of schizophrenia?",
+      options: ["Apathy", "Hallucinations", "Anhedonia"],
+      correctAnswer: "Hallucinations"
+    },
+    {
+      question: "Which factor is associated with a better prognosis in schizophrenia?",
+      options: ["Younger age of onset", "Longer duration of illness", "Previous psychotic episodes"],
+      correctAnswer: "Younger age of onset"
+    },
+    {
+      question: "Which type of medication is primarily used to manage the symptoms of schizophrenia?",
+      options: ["Antidepressants", "Antipsychotics", "Benzodiazepines"],
+      correctAnswer: "Antipsychotics"
+    },
+    {
+      question: "Which of the following is a characteristic of negative symptoms in schizophrenia?",
+      options: ["Delusions", "Flat affect", "Paranoia"],
+      correctAnswer: "Flat affect"
+    },
+    {
+      question: "Which symptom is associated with impaired volition in schizophrenia?",
+      options: ["Lack of motivation to perform goal-directed activities", "Excessive energy and hyperactivity", "Emotional instability"],
+      correctAnswer: "Lack of motivation to perform goal-directed activities"
+    },
+    {
+      question: "What is the term for the inability to experience pleasure, commonly seen in schizophrenia?",
+      options: ["Alogia", "Avolition", "Anhedonia"],
+      correctAnswer: "Anhedonia"
+    },
+    {
+      question: "What is 'waxy flexibility' in schizophrenia?",
+      options: ["Inability to initiate movement", "Body parts held in uncomfortable positions for extended periods", "Rapid, involuntary movements"],
+      correctAnswer: "Body parts held in uncomfortable positions for extended periods"
+    },
+    {
+      question: "Which of the following is NOT a side effect of conventional antipsychotics?",
+      options: ["Tardive dyskinesia", "Neuroleptic malignant syndrome", "Insomnia"],
+      correctAnswer: "Insomnia"
+    },
+    {
+      question: "What is the most common type of hallucination in schizophrenia?",
+      options: ["Auditory hallucinations", "Visual hallucinations", "Olfactory hallucinations"],
+      correctAnswer: "Auditory hallucinations"
+    },
+    {
+      question: "Which type of symptom refers to the absence of normal behaviors or traits in schizophrenia?",
+      options: ["Positive symptoms", "Negative symptoms", "Psychotic symptoms"],
+      correctAnswer: "Negative symptoms"
+    },
+    {
+      question: "What is 'neuroleptic malignant syndrome'?",
+      options: ["A mild side effect of antipsychotic medication", "A potentially life-threatening reaction to antipsychotics", "A symptom of schizophrenia itself"],
+      correctAnswer: "A potentially life-threatening reaction to antipsychotics"
+    },
+    {
+      question: "Which of the following is a risk of using conventional antipsychotics?",
+      options: ["Diabetes", "Extrapyramidal symptoms", "Heart attack"],
+      correctAnswer: "Extrapyramidal symptoms"
+    },
+    {
+      question: "What does the term 'pacing and rocking' refer to in schizophrenia?",
+      options: ["Excessive speech", "Rhythmic, repetitive movement", "Lack of facial expression"],
+      correctAnswer: "Rhythmic, repetitive movement"
+    },
+    {
+      question: "What is the first line of treatment for schizophrenia?",
+      options: ["Electroconvulsive therapy", "Psychotherapy", "Antipsychotic medications"],
+      correctAnswer: "Antipsychotic medications"
+    },
+    {
+      question: "Which of the following would be considered a sign of impaired social functioning in schizophrenia?",
+      options: ["Emotional detachment", "High motivation", "Increased social interactions"],
+      correctAnswer: "Emotional detachment"
+    },
+    {
+      question: "What symptom is associated with 'flat affect' in schizophrenia?",
+      options: ["Overactive emotional expression", "Limited or absent emotional expression", "Extreme emotional reactions"],
+      correctAnswer: "Limited or absent emotional expression"
+    },
+    {
+      question: "Which of the following is associated with the use of atypical antipsychotics?",
+      options: ["Severe extrapyramidal side effects", "Increased risk of diabetes and metabolic syndrome", "Immediate resolution of all symptoms"],
+      correctAnswer: "Increased risk of diabetes and metabolic syndrome"
+    },
+    {
+      question: "Which of the following is NOT considered a negative symptom of schizophrenia?",
+      options: ["Avolition", "Flat affect", "Delusions"],
+      correctAnswer: "Delusions"
+    },
+    {
+      question: "Which of the following best describes 'social isolation' in schizophrenia?",
+      options: ["Increased social interaction and communication", "Withdrawal from social interactions and focus on self", "Lack of motivation to work or engage in any activities"],
+      correctAnswer: "Withdrawal from social interactions and focus on self"
+    },
+    {
+      question: "Which type of schizophrenia symptoms do atypical antipsychotics target?",
+      options: ["Only positive symptoms", "Only negative symptoms", "Both positive and negative symptoms"],
+      correctAnswer: "Both positive and negative symptoms"
+    },
+    {
+      question: "Which of the following is NOT a potential side effect of atypical antipsychotics?",
+      options: ["Weight gain", "Hypertriglyceridemia", "Tremors"],
+      correctAnswer: "Tremors"
+    },
+    {
+      question: "What is 'alogia' in the context of schizophrenia?",
+      options: ["Lack of motivation", "Poverty of speech", "Flat affect"],
+      correctAnswer: "Poverty of speech"
+    },
+    {
+      question: "Which of the following is a potential side effect of antipsychotic medications?",
+      options: ["Insomnia", "Weight gain", "Increased appetite"],
+      correctAnswer: "Weight gain"
+    },
+    {
+      question: "What is 'impaired volition' in schizophrenia?",
+      options: ["Inability to perform goal-directed activities", "Emotional instability", "Frequent social withdrawal"],
+      correctAnswer: "Inability to perform goal-directed activities"
+    },
+    {
+      question: "Which of the following would be considered a positive symptom of schizophrenia?",
+      options: ["Lack of facial expression", "Hallucinations", "Apathy"],
+      correctAnswer: "Hallucinations"
+    },
+    {
+      question: "What does 'neuroleptic-induced parkinsonism' refer to?",
+      options: ["Mask-like facies, drooling, and muscle rigidity", "Restlessness and agitation", "Loss of speech ability"],
+      correctAnswer: "Mask-like facies, drooling, and muscle rigidity"
+    },
+    {
+      question: "Which of the following is NOT an intervention for delusional thoughts in schizophrenia?",
+      options: ["Engaging in positive self-talk", "Ignoring the delusional thoughts", "Convincing the client that the delusions are false"],
+      correctAnswer: "Convincing the client that the delusions are false"
+    },
+    {
+      question: "Which of the following is a common cause for noncompliance with antipsychotic medication in schizophrenia patients?",
+      options: ["Excessive appetite", "Severe side effects", "Insomnia"],
+      correctAnswer: "Severe side effects"
+    },
+    {
+      question: "What is the term for the retreat to an earlier level of development, often seen in schizophrenia?",
+      options: ["Regression", "Social withdrawal", "Posturing"],
+      correctAnswer: "Regression"
+    },
+    {
+      question: "What does 'posturing' refer to in schizophrenia?",
+      options: ["Imitating others' behaviors", "Assumption of inappropriate or bizarre postures", "Restlessness and hyperactivity"],
+      correctAnswer: "Assumption of inappropriate or bizarre postures"
+    }
+  ], 
+  13:[
+    {
+      question: "What is the primary focus of the Physical Findings section in a Patient Evaluation Form?",
+      options: ["Observing facial expressions", "Assessing clothing and self-care features", "Checking speech and communication abilities"],
+      correctAnswer: "Assessing clothing and self-care features"
+    },
+    {
+      question: "Which of the following is included in the 'Eating Characteristics' in physical findings?",
+      options: ["Appetite, eating habits, and swallowing ability", "Emotional expressions during meals", "Quality of food consumed"],
+      correctAnswer: "Appetite, eating habits, and swallowing ability"
+    },
+    {
+      question: "What aspect does the 'Motor Behavior' in physical findings refer to?",
+      options: ["The patient's movement patterns and coordination", "The patient's emotional stability", "The patient's speech and language ability"],
+      correctAnswer: "The patient's movement patterns and coordination"
+    },
+    {
+      question: "Which of the following is a key feature of 'Facial Expression and Emotion' in physical findings?",
+      options: ["Ability to recognize family members", "Observable facial movements that reflect emotional states", "The color of clothing worn"],
+      correctAnswer: "Observable facial movements that reflect emotional states"
+    },
+    {
+      question: "In the 'Thought and Perception Features' section, which is primarily evaluated?",
+      options: ["The patient's ability to make decisions", "The patient's speech and communication features", "The patient's ability to think clearly and perceive reality"],
+      correctAnswer: "The patient's ability to think clearly and perceive reality"
+    },
+    {
+      question: "Which of the following is an example of 'Speech and Communication Features'?",
+      options: ["Volume, clarity, and speed of speech", "The patient's ability to perform daily tasks", "Ability to recognize surroundings"],
+      correctAnswer: "Volume, clarity, and speed of speech"
+    },
+    {
+      question: "What is considered in the 'Social Behavioral Characteristics' part of the evaluation?",
+      options: ["The patient’s ability to perform self-care", "The patient’s way of relating to people and surroundings", "The patient’s level of education"],
+      correctAnswer: "The patient’s way of relating to people and surroundings"
+    },
+    {
+      question: "Which of the following is NOT assessed in 'Relations with Service Staff' within the Patient Evaluation Form?",
+      options: ["The patient's level of compliance with medical procedures", "The patient's emotional reactions to staff members", "The patient's history with family relationships"],
+      correctAnswer: "The patient's history with family relationships"
+    },
+    {
+      question: "What does 'Response to Medication and Treatment' primarily assess?",
+      options: ["The patient's satisfaction with the healthcare provider", "The patient’s improvement or reactions to treatments", "The patient’s ability to remember their medical history"],
+      correctAnswer: "The patient’s improvement or reactions to treatments"
+    },
+    {
+      question: "What does 'Orientation-consciousness and memory-related features' focus on in the evaluation?",
+      options: ["How well the patient can remember details and recognize surroundings", "The patient's motor skills", "The patient's social interactions with visitors"],
+      correctAnswer: "How well the patient can remember details and recognize surroundings"
+    },
+    {
+      question: "Which of the following is assessed under 'Decision Making / Judging / Learning Features'?",
+      options: ["The patient’s ability to make sound judgments and decisions", "The patient's compliance with medications", "The patient's ability to communicate with others"],
+      correctAnswer: "The patient’s ability to make sound judgments and decisions"
+    },
+    {
+      question: "Which of the following is part of 'Family Processes and Role Performances'?",
+      options: ["The patient’s interactions with family members and caregivers", "The patient’s ability to eat and sleep", "The patient’s physical mobility"],
+      correctAnswer: "The patient’s interactions with family members and caregivers"
+    },
+    {
+      question: "What does 'Values and Beliefs' in the patient evaluation form typically refer to?",
+      options: ["The patient’s preference for certain medical treatments", "The patient’s cultural or religious values", "The patient’s personal goals in life"],
+      correctAnswer: "The patient’s cultural or religious values"
+    },
+    {
+      question: "What is meant by 'Features Related to Leave Off' in a patient evaluation?",
+      options: ["The patient’s legal rights regarding discharge or leave", "The patient's physical symptoms at the time of discharge", "The patient’s social behavior with visitors"],
+      correctAnswer: "The patient’s legal rights regarding discharge or leave"
+    },
+    {
+      question: "Which is a focus of 'Relations with Visitors' in the evaluation?",
+      options: ["The patient’s ability to communicate with family", "The patient’s social interaction and comfort with visitors", "The patient's speech clarity"],
+      correctAnswer: "The patient’s social interaction and comfort with visitors"
+    },
+    {
+      question: "What is a key guideline for writing reports in the Patient Evaluation Form?",
+      options: ["Use legible handwriting with no deletions or scraping", "Write in a subjective tone to express personal opinions", "Include all patient details, regardless of confidentiality"],
+      correctAnswer: "Use legible handwriting with no deletions or scraping"
+    },
+    {
+      question: "What is the purpose of specifying the date and time in a report?",
+      options: ["To document the exact timing of interventions and observations", "To show when the patient last ate or slept", "To note the patient’s family visit schedule"],
+      correctAnswer: "To document the exact timing of interventions and observations"
+    },
+    {
+      question: "When writing a report, which is important to ensure?",
+      options: ["The use of complex medical terms to sound professional", "The use of clear, smooth, and legible handwriting", "The inclusion of opinions and assumptions about the patient’s condition"],
+      correctAnswer: "The use of clear, smooth, and legible handwriting"
+    },
+    {
+      question: "Why should you avoid deleting or scraping out information in official reports?",
+      options: ["It makes the report harder to understand", "It may lead to misinterpretation or inaccuracies", "It is only allowed in certain situations"],
+      correctAnswer: "It may lead to misinterpretation or inaccuracies"
+    },
+    {
+      question: "What should always be included when writing observations in order of time?",
+      options: ["The family’s emotional response", "The exact details of medical treatment and care provided", "General observations without specific details"],
+      correctAnswer: "The exact details of medical treatment and care provided"
+    },
+    {
+      question: "What is the best approach for recording observations in the report?",
+      options: ["Use simple, clear, and objective language", "Add subjective opinions to describe the patient's feelings", "Use medical jargon to explain symptoms and conditions"],
+      correctAnswer: "Use simple, clear, and objective language"
+    },
+    {
+      question: "Which of the following is NOT recommended when writing an observation report?",
+      options: ["Avoid general statements and medical terms", "Use objective and clear language", "Add comments or personal judgments"],
+      correctAnswer: "Add comments or personal judgments"
+    },
+    {
+      question: "When documenting unusual events, which of the following should be recorded?",
+      options: ["The patient’s family history", "Place, time, person, and details of the intervention or treatment", "The weather conditions at the time"],
+      correctAnswer: "Place, time, person, and details of the intervention or treatment"
+    },
+    {
+      question: "Why is ensuring the continuity of records important in patient evaluation?",
+      options: ["To keep track of all financial details of the patient", "To ensure accurate and ongoing care decisions", "To satisfy legal documentation requirements"],
+      correctAnswer: "To ensure accurate and ongoing care decisions"
+    },
+    {
+      question: "Which of the following is part of the recording observations in a patient report?",
+      options: ["The patient’s personal goals and ambitions", "The patient's daily schedule and eating habits", "The patient's health status at the time of the intervention"],
+      correctAnswer: "The patient's health status at the time of the intervention"
+    },
+    {
+      question: "Which of these is the best way to write an observation report?",
+      options: ["Include every detail, regardless of relevance", "Be concise, clear, and focused on the patient's health", "Write in a way that reflects personal feelings about the patient"],
+      correctAnswer: "Be concise, clear, and focused on the patient's health"
+    },
+    {
+      question: "Which statement is true regarding documentation in official patient evaluation forms?",
+      options: ["Deletion of errors is allowed if done discreetly", "The report must include only factual, objective observations", "Observations should be vague to protect patient privacy"],
+      correctAnswer: "The report must include only factual, objective observations"
+    },
+    {
+      question: "Which of the following is a key component of the 'Writing Reports' section in the evaluation?",
+      options: ["Include general comments about the patient’s mood", "Write with clear, smooth, legible ink and without deletions", "Write in a casual tone to make it easier to understand"],
+      correctAnswer: "Write with clear, smooth, legible ink and without deletions"
+    },
+    {
+      question: "Why should you record the time of an intervention or event in a report?",
+      options: ["To provide context for future medical treatments", "To track when the event occurred and its relevance", "To create a timeline of the patient’s entire life"],
+      correctAnswer: "To track when the event occurred and its relevance"
+    },
+    {
+      question: "Which of the following is important for writing objective observations?",
+      options: ["Writing based on personal experiences with the patient", "Keeping the report focused on facts, avoiding assumptions", "Using emotional language to describe the patient's condition"],
+      correctAnswer: "Keeping the report focused on facts, avoiding assumptions"
+    }
+  ], 
+  14:[
+    {
+      question: "What is the main priority in psychiatric clinics?",
+      options: ["Patient comfort", "Safety and protection from harm", "Financial efficiency"],
+      correctAnswer: "Safety and protection from harm"
+    },
+    {
+      question: "Which of the following is considered a different environment in psychiatric care?",
+      options: ["Intensive care unit (ICU)", "Acute care setting", "General hospital ward"],
+      correctAnswer: "Acute care setting"
+    },
+    {
+      question: "Which scenario is a common situation in psychiatric clinics?",
+      options: ["Group sessions", "Fitness sessions", "Family meals"],
+      correctAnswer: "Group sessions"
+    },
+    {
+      question: "What does risk in psychiatry clinics refer to?",
+      options: ["The probability that an adverse event will occur", "The likelihood of a service user being cured", "The amount of medication needed for a patient"],
+      correctAnswer: "The probability that an adverse event will occur"
+    },
+    {
+      question: "Which of the following is a potential risk in psychiatric clinics?",
+      options: ["Risk of self-harm", "Risk of improving compliance", "Risk of improved patient outcomes"],
+      correctAnswer: "Risk of self-harm"
+    },
+    {
+      question: "What is one of the risks related to psychiatric care environments?",
+      options: ["Risk of self-harm", "Risk of financial loss", "Risk of better sleep for patients"],
+      correctAnswer: "Risk of self-harm"
+    },
+    {
+      question: "What does vulnerability in a psychiatric setting refer to?",
+      options: ["The service user's ability to navigate the mental health system", "The service user being at risk due to personal or external factors", "The service user’s physical ability to participate in care"],
+      correctAnswer: "The service user being at risk due to personal or external factors"
+    },
+    {
+      question: "Which factor increases the risk of self-harm in a psychiatric patient?",
+      options: ["A supportive family environment", "Low insight into their mental health", "High medication adherence"],
+      correctAnswer: "Low insight into their mental health"
+    },
+    {
+      question: "Which risk is related to a service user's mental instability?",
+      options: ["Risk of harm to others", "Risk of chronic illness", "Risk of social isolation"],
+      correctAnswer: "Risk of harm to others"
+    },
+    {
+      question: "What is a key consideration when managing risks to others in psychiatric settings?",
+      options: ["Ensuring the service user remains sedated", "Risk of harm due to violence or aggression", "Ensuring the service user is isolated"],
+      correctAnswer: "Risk of harm due to violence or aggression"
+    },
+    {
+      question: "What is the first step in the risk management process?",
+      options: ["Identifying risk factors", "Evaluating the level of risk", "Treating the risks"],
+      correctAnswer: "Identifying risk factors"
+    },
+    {
+      question: "Which of the following is NOT one of the four key parameters of risk?",
+      options: ["History", "Clinical", "Financial status"],
+      correctAnswer: "Financial status"
+    },
+    {
+      question: "What should a clinical risk management plan include?",
+      options: ["Action plans for crisis situations", "Only treatment protocols", "A list of all possible risks"],
+      correctAnswer: "Action plans for crisis situations"
+    },
+    {
+      question: "What is the main focus of the evaluation of risk?",
+      options: ["The likelihood of risk and severity of outcomes", "Financial implications", "Length of time in treatment"],
+      correctAnswer: "The likelihood of risk and severity of outcomes"
+    },
+    {
+      question: "Which of the following is an example of a risk to others in a psychiatric clinic?",
+      options: ["Physical harm from aggression", "Risk of medication errors", "Risk of social media exposure"],
+      correctAnswer: "Physical harm from aggression"
+    },
+    {
+      question: "What type of risk involves a service user's behavior causing harm to themselves?",
+      options: ["Self-harm risk", "Violence risk", "Environmental risk"],
+      correctAnswer: "Self-harm risk"
+    },
+    {
+      question: "What is the primary goal of clinical risk management?",
+      options: ["To prevent all adverse events from occurring", "To reduce risk and protect service users and staff", "To eliminate all forms of risk"],
+      correctAnswer: "To reduce risk and protect service users and staff"
+    },
+    {
+      question: "What is the primary tool for understanding and managing risks in psychiatry clinics?",
+      options: ["Medication management", "Risk assessment tools", "Financial audits"],
+      correctAnswer: "Risk assessment tools"
+    },
+    {
+      question: "What should the ideal clinical environment consider for patient safety?",
+      options: ["Room temperature and noise levels", "Drug storage policies only", "Only the patient’s comfort"],
+      correctAnswer: "Room temperature and noise levels"
+    },
+    {
+      question: "What is the main purpose of ongoing staff training in mental health risk management?",
+      options: ["To ensure staff remain up-to-date with best practices", "To increase staff salaries", "To reduce operational costs"],
+      correctAnswer: "To ensure staff remain up-to-date with best practices"
+    },
+    {
+      question: "What is a key competency in risk management for mental health practitioners?",
+      options: ["Focusing solely on the patient's diagnosis", "Collaborating with the service user and carers", "Ignoring external factors like family influence"],
+      correctAnswer: "Collaborating with the service user and carers"
+    },
+    {
+      question: "What should risk management plans focus on?",
+      options: ["Service user’s strengths and recovery", "Reducing the clinic’s costs", "Reducing service user involvement in care"],
+      correctAnswer: "Service user’s strengths and recovery"
+    },
+    {
+      question: "How often should staff receive training on risk management?",
+      options: ["Every 6 months", "Every 3 years", "Only once during their career"],
+      correctAnswer: "Every 3 years"
+    },
+    {
+      question: "What does Structured Professional Judgment (SPJ) instruments help with in risk assessment?",
+      options: ["Ensuring a comprehensive risk assessment", "Determining the service user's treatment cost", "Evaluating the service user’s medication dosage"],
+      correctAnswer: "Ensuring a comprehensive risk assessment"
+    },
+    {
+      question: "How should risk management strategies be reviewed?",
+      options: ["On a ‘need-to-know’ basis only", "Continuously, with regular updates and collaboration", "Only when a risk has occurred"],
+      correctAnswer: "Continuously, with regular updates and collaboration"
+    },
+    {
+      question: "What should be considered during risk evaluation in psychiatry?",
+      options: ["The patient's historical and current risk factors", "Only the patient’s immediate diagnosis", "The cost of managing risks"],
+      correctAnswer: "The patient's historical and current risk factors"
+    },
+    {
+      question: "What is an essential part of managing risk during one-on-one sessions in psychiatric clinics?",
+      options: ["Encouraging competition between patients", "Ensuring proper documentation and communication", "Avoiding communication with family members"],
+      correctAnswer: "Ensuring proper documentation and communication"
+    },
+    {
+      question: "Which of the following is a key aspect of communication in risk management?",
+      options: ["Listening to all concerned parties", "Sharing information publicly", "Ignoring concerns raised by patients"],
+      correctAnswer: "Listening to all concerned parties"
+    },
+    {
+      question: "Which of the following best defines the risk management approach in mental health settings?",
+      options: ["Focusing only on the physical health of service users", "Balancing risk, need, and recovery for a personalized approach", "Minimizing risks without considering service user input"],
+      correctAnswer: "Balancing risk, need, and recovery for a personalized approach"
+    },
+    {
+      question: "What does minimizing risk through documentation help ensure?",
+      options: ["All risks are minimized and ignored", "Essential information is accurately recorded and reviewed", "Confidentiality is compromised for better transparency"],
+      correctAnswer: "Essential information is accurately recorded and reviewed"
+    }
+  ],
+>>>>>>> 4ffa0c197c54a5d8f31402b7e12eabf2e85a31f5
   
+  15:[
+    {
+      question: "What is Personality?",
+      options: ["A set of behaviors and traits that define an individual", "A mental disorder", "A temporary mood change"],
+      correctAnswer: "A set of behaviors and traits that define an individual"
+    },
+    {
+      question: "Which of the following is true about Personality?",
+      options: ["It is shaped by emotional, social, and cognitive factors", "It is a fixed and unchangeable pattern", "It is only influenced by environmental factors"],
+      correctAnswer: "It is shaped by emotional, social, and cognitive factors"
+    },
+    {
+      question: "Key Features of Personality Disorders include:",
+      options: ["Self-involved behavior without flexibility", "The ability to adapt to changing environments", "Frequent mood swings without underlying reasons"],
+      correctAnswer: "Self-involved behavior without flexibility"
+    },
+    {
+      question: "Personality disorders typically cause:",
+      options: ["Interpersonal conflicts and social instability", "Emotional numbness and withdrawal", "A complete change in cognitive abilities"],
+      correctAnswer: "Interpersonal conflicts and social instability"
+    },
+    {
+      question: "What is the Prevalence of Personality Disorders in developed societies?",
+      options: ["10-20% of the population", "Less than 5%", "50% of the adult population"],
+      correctAnswer: "10-20% of the population"
+    },
+    {
+      question: "Which of the following is linked with Antisocial Personality Disorder?",
+      options: ["Alcohol use", "Strong empathy", "A stable family background"],
+      correctAnswer: "Alcohol use"
+    },
+    {
+      question: "Which personality disorder is linked to low platelet levels and MAO activity?",
+      options: ["Schizotypal Personality Disorder", "Obsessive-Compulsive Personality Disorder", "Narcissistic Personality Disorder"],
+      correctAnswer: "Schizotypal Personality Disorder"
+    },
+    {
+      question: "Who developed psychoanalytic theories related to personality disorders?",
+      options: ["Freud and Reich", "Jung and Adler", "Maslow and Rogers"],
+      correctAnswer: "Freud and Reich"
+    },
+    {
+      question: "What does 'Schizotypal' refer to?",
+      options: ["Magical thinking and odd beliefs", "A strong desire for control", "Obsession with perfectionism"],
+      correctAnswer: "Magical thinking and odd beliefs"
+    },
+    {
+      question: "Which disorder is characterized by fear of rejection and social avoidance?",
+      options: ["Avoidant Personality Disorder", "Narcissistic Personality Disorder", "Borderline Personality Disorder"],
+      correctAnswer: "Avoidant Personality Disorder"
+    },
+    {
+      question: "What is a common trait of Dependent Personality Disorder?",
+      options: ["Excessive reliance on others for decision-making", "Fear of intimacy", "Perfectionism"],
+      correctAnswer: "Excessive reliance on others for decision-making"
+    },
+    {
+      question: "Which of the following is a characteristic of Obsessive-Compulsive Personality Disorder?",
+      options: ["Perfectionism and rigidity", "Excessive dependence on others", "A fear of abandonment"],
+      correctAnswer: "Perfectionism and rigidity"
+    },
+    {
+      question: "Which of the following medical conditions is associated with personality changes?",
+      options: ["Huntington's disease", "Depression", "Anxiety"],
+      correctAnswer: "Huntington's disease"
+    },
+    {
+      question: "What medication is often prescribed for personality changes due to medical conditions?",
+      options: ["Antidepressants", "Benzodiazepines", "Opioids"],
+      correctAnswer: "Antidepressants"
+    },
+    {
+      question: "What is the role of family support in treating personality changes due to medical conditions?",
+      options: ["Essential for treatment", "Not necessary", "Only helpful for emotional stability"],
+      correctAnswer: "Essential for treatment"
+    },
+    {
+      question: "Which disorder involves indirect resistance, procrastination, and sulkiness?",
+      options: ["Passive-Aggressive Personality Disorder", "Narcissistic Personality Disorder", "Antisocial Personality Disorder"],
+      correctAnswer: "Passive-Aggressive Personality Disorder"
+    },
+    {
+      question: "Sadomasochistic Personality Disorder involves:",
+      options: ["Deriving pleasure from inflicting or receiving pain", "Emotional coldness and detachment", "Desire for control without intimacy"],
+      correctAnswer: "Deriving pleasure from inflicting or receiving pain"
+    },
+    {
+      question: "What impact does Sadomasochistic Personality Disorder have on relationships?",
+      options: ["Can cause significant interpersonal difficulties", "Strengthens the bond between partners", "Leads to mutual understanding and growth"],
+      correctAnswer: "Can cause significant interpersonal difficulties"
+    },
+    {
+      question: "What treatment is commonly used for individuals with Borderline Personality Disorder?",
+      options: ["Analytical psychotherapy", "Electroconvulsive therapy", "Medication alone"],
+      correctAnswer: "Analytical psychotherapy"
+    },
+    {
+      question: "What medication is often prescribed for paranoid or schizotypal personality disorders?",
+      options: ["Low-dose neuroleptics", "Antidepressants", "Benzodiazepines"],
+      correctAnswer: "Low-dose neuroleptics"
+    },
+    {
+      question: "What is a common nursing diagnosis for individuals with personality disorders?",
+      options: ["Difficulty in meeting daily needs independently", "Inability to form emotional connections", "Excessive fear of abandonment"],
+      correctAnswer: "Difficulty in meeting daily needs independently"
+    },
+    {
+      question: "Which diagnosis is commonly associated with personality disorders in nursing?",
+      options: ["Potential harm to self and others", "Desire for social approval", "Strong desire for power and control"],
+      correctAnswer: "Potential harm to self and others"
+    },
+    {
+      question: "Which personality disorder involves a lack of self-confidence and reliance on others for decisions?",
+      options: ["Dependent Personality Disorder", "Avoidant Personality Disorder", "Narcissistic Personality Disorder"],
+      correctAnswer: "Dependent Personality Disorder"
+    },
+    {
+      question: "What is true about Obsessive-Compulsive Personality Disorder?",
+      options: ["High perfectionism makes task completion difficult", "Individuals are highly flexible and adaptable", "They avoid responsibility at all costs"],
+      correctAnswer: "High perfectionism makes task completion difficult"
+    },
+    {
+      question: "What is a primary characteristic of Borderline Personality Disorder?",
+      options: ["Unstable interpersonal relationships", "Strong desire for control", "Emotional numbness"],
+      correctAnswer: "Unstable interpersonal relationships"
+    },
+    {
+      question: "What behavior is associated with Histrionic Personality Disorder?",
+      options: ["Fast-changing, exaggerated emotions", "Excessive withdrawal from social situations", "Rigid, perfectionistic tendencies"],
+      correctAnswer: "Fast-changing, exaggerated emotions"
+    },
+    {
+      question: "What diagnostic feature is key in Antisocial Personality Disorder?",
+      options: ["Disregard for others' rights and impulsivity", "Need for constant admiration", "Fear of rejection"],
+      correctAnswer: "Disregard for others' rights and impulsivity"
+    },
+    {
+      question: "What is the diagnostic criterion for Avoidant Personality Disorder?",
+      options: ["Fear of criticism and avoidance of social situations", "Need for constant validation and attention", "Obsession with cleanliness and order"],
+      correctAnswer: "Fear of criticism and avoidance of social situations"
+    },
+    {
+      question: "Which personality disorder is linked with emotional detachment and preference for solitary activities?",
+      options: ["Schizoid Personality Disorder", "Histrionic Personality Disorder", "Borderline Personality Disorder"],
+      correctAnswer: "Schizoid Personality Disorder"
+    },
+    {
+      question: "What is the role of antidepressants in treating personality disorders?",
+      options: ["They help manage symptoms of anxiety and depression", "They are used to treat compulsive behaviors", "They eliminate all symptoms of personality disorders"],
+      correctAnswer: "They help manage symptoms of anxiety and depression"
+    },
+    {
+      question: "What treatment strategy is often used for individuals with Narcissistic Personality Disorder?",
+      options: ["Psychotherapy to address emotional regulation", "Medication to improve mood", "Self-help strategies only"],
+      correctAnswer: "Psychotherapy to address emotional regulation"
+    },
+    {
+      question: "What is a common characteristic of individuals with Schizotypal Personality Disorder?",
+      options: ["Odd beliefs and behaviors", "Obsessive need for control", "Extreme social withdrawal and detachment"],
+      correctAnswer: "Odd beliefs and behaviors"
+    },
+    {
+      question: "What characteristic is typical of individuals with Dependent Personality Disorder?",
+      options: ["Excessive reliance on others for decision-making", "Strong desire for independence", "Tendency to avoid relationships at all costs"],
+      correctAnswer: "Excessive reliance on others for decision-making"
+    }
+  ]
   
 };
 
