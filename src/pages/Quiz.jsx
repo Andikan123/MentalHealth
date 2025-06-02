@@ -2767,138 +2767,6 @@ const quizData = {
 ],
   12:[
     {
-<<<<<<< HEAD
-      question: "How does the World Health Organization define sexual health?",
-      options: [
-        "The absence of disease",
-        "A state of physical, emotional, mental, and social well-being in relation to sexuality",
-        "The ability to reproduce",
-        "Conforming to societal norms"
-      ],
-      correctAnswer: "A state of physical, emotional, mental, and social well-being in relation to sexuality"
-    },
-    {
-      question: "Which of the following is NOT a component of sexuality?",
-      options: ["Emotional well-being", "Intellectual development", "Digestive health", "Social integrity"],
-      correctAnswer: "Digestive health"
-    },
-    {
-      question: "What term describes an individual’s perception and acceptance of their own gender?",
-      options: ["Sexual orientation", "Gender identity", "Biological sex", "Sexual dysfunction"],
-      correctAnswer: "Gender identity"
-    },
-    {
-      question: "What does homophobia refer to?",
-      options: [
-        "The acceptance of diverse sexual orientations",
-        "The irrational fear and hostility towards homosexuals",
-        "The study of human sexual behavior",
-        "A psychological treatment for sexual disorders"
-      ],
-      correctAnswer: "The irrational fear and hostility towards homosexuals"
-    },
-    {
-      question: "Which paraphilic disorder involves obtaining sexual arousal by exposing one's genitals to unsuspecting individuals?",
-      options: ["Voyeuristic disorder", "Exhibitionistic disorder", "Fetishistic disorder", "Pedophilic disorder"],
-      correctAnswer: "Exhibitionistic disorder"
-    },
-    {
-      question: "What is a common characteristic of fetishistic disorder?",
-      options: [
-        "Preference for multiple sexual partners",
-        "Arousal from inanimate objects or non-genital body parts",
-        "Fear of engaging in sexual activity",
-        "Avoidance of any intimate relationships"
-      ],
-      correctAnswer: "Arousal from inanimate objects or non-genital body parts"
-    },
-    {
-      question: "Which disorder involves intense sexual arousal from watching unsuspecting individuals engage in private activities?",
-      options: ["Exhibitionistic disorder", "Voyeuristic disorder", "Masochistic disorder", "Sadistic disorder"],
-      correctAnswer: "Voyeuristic disorder"
-    },
-    {
-      question: "In which paraphilic disorder does a person obtain sexual arousal by rubbing against non-consenting individuals?",
-      options: ["Fetishistic disorder", "Voyeuristic disorder", "Frotturistic disorder", "Masochistic disorder"],
-      correctAnswer: "Frotturistic disorder"
-    },
-    {
-      question: "What is gender identity dysphoria?",
-      options: [
-        "A desire to change gender for social benefits",
-        "A condition where a person’s gender identity does not align with their assigned sex at birth",
-        "A disorder requiring mandatory treatment",
-        "A lack of sexual interest"
-      ],
-      correctAnswer: "A condition where a person’s gender identity does not align with their assigned sex at birth"
-    },
-    {
-      question: "At what age can gender identity dysphoria become apparent?",
-      options: ["Only in adulthood", "Only in adolescence", "In childhood, adolescence, or adulthood", "Only after the age of 40"],
-      correctAnswer: "In childhood, adolescence, or adulthood"
-    },
-    {
-      question: "Why is gender dysphoria classified in the DSM-5?",
-      options: [
-        "To label it as a mental illness",
-        "To provide access to medical and surgical interventions",
-        "To discourage gender transitions",
-        "To prevent individuals from changing their gender identity"
-      ],
-      correctAnswer: "To provide access to medical and surgical interventions"
-    },
-    {
-      question: "What is sexual dysfunction?",
-      options: [
-        "The inability to engage in any sexual activity",
-        "Any disorder preventing sexual satisfaction",
-        "The presence of multiple sexual partners",
-        "The ability to reproduce successfully"
-      ],
-      correctAnswer: "Any disorder preventing sexual satisfaction"
-    },
-    {
-      question: "Which of the following is NOT a type of sexual dysfunction?",
-      options: ["Desire disorders", "Arousal disorders", "Personality disorders", "Pain disorders"],
-      correctAnswer: "Personality disorders"
-    },
-    {
-      question: "Erectile dysfunction is an example of:",
-      options: ["Desire disorder", "Arousal disorder", "Pain disorder", "Voyeuristic disorder"],
-      correctAnswer: "Arousal disorder"
-    },
-    {
-      question: "Which disorder involves discomfort or pain during intercourse?",
-      options: ["Genito-pelvic pain disorder", "Erectile dysfunction", "Orgasmic disorder", "Fetishistic disorder"],
-      correctAnswer: "Genito-pelvic pain disorder"
-    },
-    {
-      question: "Nurses play a critical role in:",
-      options: [
-        "Judging patients with sexual disorders",
-        "Providing education and early diagnosis",
-        "Encouraging avoidance of all sexual activities",
-        "Limiting medical treatments for sexual disorders"
-      ],
-      correctAnswer: "Providing education and early diagnosis"
-    },
-    {
-      question: "What is one of the key roles of a nurse in managing sexual disorders?",
-      options: [
-        "Diagnosing and prescribing medications",
-        "Assisting in behavior modification and providing patient education",
-        "Avoiding discussions about sexuality",
-        "Referring all cases to psychiatrists without involvement"
-      ],
-      correctAnswer: "Assisting in behavior modification and providing patient education"
-    }
-  ],
-
-
-  
-  
-  
-=======
       question: "Which of the following is considered a positive symptom of schizophrenia?",
       options: ["Apathy", "Hallucinations", "Anhedonia"],
       correctAnswer: "Hallucinations"
@@ -3353,7 +3221,6 @@ const quizData = {
       correctAnswer: "Essential information is accurately recorded and reviewed"
     }
   ],
->>>>>>> 4ffa0c197c54a5d8f31402b7e12eabf2e85a31f5
   
   15:[
     {
@@ -3521,7 +3388,312 @@ const quizData = {
       options: ["Excessive reliance on others for decision-making", "Strong desire for independence", "Tendency to avoid relationships at all costs"],
       correctAnswer: "Excessive reliance on others for decision-making"
     }
-  ]
+  ], 
+  16:[
+  {
+    question: "Which principle states that all people have the ability to improve themselves?",
+    options: ["People with illness cannot improve", "All people need to develop their existing capacities", "Only young people can develop skills"],
+    correctAnswer: "All people need to develop their existing capacities"
+  },
+  {
+    question: "What is essential for psychiatric rehabilitation?",
+    options: ["Strict medication", "Isolation", "Hope"],
+    correctAnswer: "Hope"
+  },
+  {
+    question: "Where should services ideally be provided?",
+    options: ["In a prison", "In a natural setting", "In a laboratory"],
+    correctAnswer: "In a natural setting"
+  },
+  {
+    question: "Each care plan should be...",
+    options: ["Individualized", "The same for everyone", "Based on general guidelines"],
+    correctAnswer: "Individualized"
+  },
+  {
+    question: "What is the basis of the rehabilitation process?",
+    options: ["Hospitalization", "Work and leisure", "Family only"],
+    correctAnswer: "Work and leisure"
+  },
+  {
+    question: "What kind of participation should be ensured in rehabilitation?",
+    options: ["Passive observation", "Active participation", "Compulsory training"],
+    correctAnswer: "Active participation"
+  },
+  {
+    question: "Community support systems aim to help individuals without...",
+    options: ["Giving medication", "Taking their consent", "Isolating them from society"],
+    correctAnswer: "Isolating them from society"
+  },
+  {
+    question: "Which country developed five community support models?",
+    options: ["Canada", "USA", "Germany"],
+    correctAnswer: "USA"
+  },
+  {
+    question: "The psychosocial rehabilitation model is based on...",
+    options: ["Solitary confinement", "Clinical check-ups only", "A clubhouse structure"],
+    correctAnswer: "A clubhouse structure"
+  },
+  {
+    question: "Which model is also known as the Fairweather Lodge?",
+    options: ["Training in living model", "Holiday village model", "Consumer-run model"],
+    correctAnswer: "Holiday village model"
+  },
+  {
+    question: "The community living model teaches...",
+    options: ["Isolation skills", "Financial literacy", "Basic coping skills"],
+    correctAnswer: "Basic coping skills"
+  },
+  {
+    question: "In the consumer-run model, patients...",
+    options: ["Help themselves and each other", "Are hospitalized", "Are removed from the community"],
+    correctAnswer: "Help themselves and each other"
+  },
+  {
+    question: "The community worker model focuses on...",
+    options: ["Surgery and operations", "Emotional support and coexistence", "Lockdown procedures"],
+    correctAnswer: "Emotional support and coexistence"
+  },
+  {
+    question: "In general, patients in the community worker model are...",
+    options: ["Unemployed", "Ignored", "Voluntarily or part-time employed"],
+    correctAnswer: "Voluntarily or part-time employed"
+  },
+  {
+    question: "What is lacking in our country regarding psychiatric rehabilitation?",
+    options: ["Mental hospitals", "Community support programs", "Nurses"],
+    correctAnswer: "Community support programs"
+  },
+  {
+    question: "Which institution in our country offers some mental health support?",
+    options: ["Ministry of Labour", "The police department", "Fire service"],
+    correctAnswer: "Ministry of Labour"
+  },
+  {
+    question: "Psychiatric rehabilitation nurses provide care in...",
+    options: ["Hospitals only", "The patient’s home", "Hotels"],
+    correctAnswer: "The patient’s home"
+  },
+  {
+    question: "Psychiatric nurses serve as a bridge between...",
+    options: ["Police and the public", "Society and health workers", "Schools and students"],
+    correctAnswer: "Society and health workers"
+  },
+  {
+    question: "A rehabilitation nurse should assess the patient’s...",
+    options: ["Insurance plan only", "Resources, background, and spirituality", "Fashion preferences"],
+    correctAnswer: "Resources, background, and spirituality"
+  },
+  {
+    question: "Chronic mental illness care involves...",
+    options: ["The individual, family, and community", "Only the family", "Government alone"],
+    correctAnswer: "The individual, family, and community"
+  },
+  {
+    question: "Nurses should have the ability to...",
+    options: ["Prescribe medication only", "Evaluate patients", "Conduct surgeries"],
+    correctAnswer: "Evaluate patients"
+  },
+  {
+    question: "Educating whom is part of a nurse’s role?",
+    options: ["Strangers", "Patient and family", "Media personnel"],
+    correctAnswer: "Patient and family"
+  },
+  {
+    question: "Motivating the patient helps in...",
+    options: ["Confusing them", "Encouraging recovery", "Prolonging illness"],
+    correctAnswer: "Encouraging recovery"
+  },
+  {
+    question: "Teamwork involves...",
+    options: ["Individual work only", "Avoiding others", "Collaboration"],
+    correctAnswer: "Collaboration"
+  },
+  {
+    question: "Which of these is NOT a principle of psychiatric rehabilitation?",
+    options: ["Individualized care", "Isolation from society", "Active participation"],
+    correctAnswer: "Isolation from society"
+  },
+  {
+    question: "Which skill is NOT listed as essential for psychiatric nurses?",
+    options: ["Teamwork", "Evaluation", "Drawing skills"],
+    correctAnswer: "Drawing skills"
+  },
+  {
+    question: "Which model promotes peer support among patients?",
+    options: ["Community worker model", "Consumer-run alternative model", "Fairweather model"],
+    correctAnswer: "Consumer-run alternative model"
+  },
+  {
+    question: "Why is hope important in psychiatric rehabilitation?",
+    options: ["It leads to disappointment", "It makes people dependent", "It drives recovery motivation"],
+    correctAnswer: "It drives recovery motivation"
+  },
+  {
+    question: "Which factor is considered when assessing a patient?",
+    options: ["Favorite color", "Economic status", "Height"],
+    correctAnswer: "Economic status"
+  },
+  {
+    question: "What is a major need in psychiatric rehabilitation across the world?",
+    options: ["More psychiatric nurses", "More prisons", "More medication ads"],
+    correctAnswer: "More psychiatric nurses"
+  }
+],
+17:[
+  {
+    question: "Which of the following is a symptom of opioid intoxication?",
+    options: ["Dilated pupils", "Constricted pupils", "Dry skin"],
+    correctAnswer: "Constricted pupils"
+  },
+  {
+    question: "Which drug is most commonly associated with needle-related HIV transmission?",
+    options: ["Codeine", "Heroin", "Morphine"],
+    correctAnswer: "Heroin"
+  },
+  {
+    question: "What is the first-line treatment for opioid overdose?",
+    options: ["Methadone", "Naloxone", "Naltrexone"],
+    correctAnswer: "Naloxone"
+  },
+  {
+    question: "Which of the following is NOT a symptom of opioid withdrawal?",
+    options: ["Vomiting", "Drowsiness", "Rhinorrhea"],
+    correctAnswer: "Drowsiness"
+  },
+  {
+    question: "Opioid withdrawal is characterized by:",
+    options: ["Lethargy", "Diarrhea and sweating", "Constricted pupils"],
+    correctAnswer: "Diarrhea and sweating"
+  },
+  {
+    question: "Which drug class includes benzodiazepines?",
+    options: ["Stimulants", "Sedatives, hypnotics, and anxiolytics", "Hallucinogens"],
+    correctAnswer: "Sedatives, hypnotics, and anxiolytics"
+  },
+  {
+    question: "A dangerous withdrawal symptom of barbiturates is:",
+    options: ["Headache", "Coma", "Dry mouth"],
+    correctAnswer: "Coma"
+  },
+  {
+    question: "Withdrawal from sedatives may include:",
+    options: ["Hypotension", "Insomnia and hand tremors", "Hunger and increased energy"],
+    correctAnswer: "Insomnia and hand tremors"
+  },
+  {
+    question: "Which method is used to detoxify from barbiturates?",
+    options: ["Cold turkey", "Rapid flushing", "Tapering doses"],
+    correctAnswer: "Tapering doses"
+  },
+  {
+    question: "Which symptom is commonly seen in sedative intoxication?",
+    options: ["Hyperactivity", "Unsteady gait", "Dilated pupils"],
+    correctAnswer: "Unsteady gait"
+  },
+  {
+    question: "Which inhalant source is commonly abused?",
+    options: ["Cough syrup", "Paint thinner", "Tobacco"],
+    correctAnswer: "Paint thinner"
+  },
+  {
+    question: "Which of these is a common effect of inhalant intoxication?",
+    options: ["Muscle gain", "Blurred vision", "Weight loss"],
+    correctAnswer: "Blurred vision"
+  },
+  {
+    question: "Which is a serious risk of chronic inhalant use?",
+    options: ["Kidney stones", "Brain damage", "Ulcers"],
+    correctAnswer: "Brain damage"
+  },
+  {
+    question: "Do inhalants have a withdrawal syndrome?",
+    options: ["Yes, similar to alcohol", "No, but psychological cravings exist", "Yes, with seizures"],
+    correctAnswer: "No, but psychological cravings exist"
+  },
+  {
+    question: "What is a possible cause of death from inhalant abuse?",
+    options: ["Increased blood pressure", "Bronchospasm", "Heartburn"],
+    correctAnswer: "Bronchospasm"
+  },
+  {
+    question: "Which organization developed the 12-step program for recovery?",
+    options: ["Red Cross", "Narcotics Anonymous", "Alcoholics Anonymous"],
+    correctAnswer: "Alcoholics Anonymous"
+  },
+  {
+    question: "A key philosophy of AA is:",
+    options: ["Occasional drinking is okay", "Total abstinence is essential", "Gradual reduction is preferred"],
+    correctAnswer: "Total abstinence is essential"
+  },
+  {
+    question: "Which is one principle of addiction treatment?",
+    options: ["Treatment should begin only when the client is fully ready", "Focus only on substance use", "Treatment must be readily available"],
+    correctAnswer: "Treatment must be readily available"
+  },
+  {
+    question: "What is a common reason people avoid treatment for substance use?",
+    options: ["They enjoy hospitals", "They feel too healthy", "Fear of job consequences"],
+    correctAnswer: "Fear of job consequences"
+  },
+  {
+    question: "Which of the following is NOT a myth about substance abuse?",
+    options: ["Addiction is about will power", "You can learn to use socially", "Addiction affects brain function"],
+    correctAnswer: "Addiction affects brain function"
+  },
+  {
+    question: "Which of the following is a helpful nurse response to a recovering client?",
+    options: ["Focus on the past to understand behaviors", "Set realistic daily goals", "Discourage support groups"],
+    correctAnswer: "Set realistic daily goals"
+  },
+  {
+    question: "During alcohol withdrawal, what life-threatening symptom might appear?",
+    options: ["Sweating", "Tremors", "Seizures"],
+    correctAnswer: "Seizures"
+  },
+  {
+    question: "Which is a common symptom of alcohol intoxication?",
+    options: ["Constricted pupils", "Slurred speech", "Hallucinations"],
+    correctAnswer: "Slurred speech"
+  },
+  {
+    question: "In managing substance abuse clients, nurses should be:",
+    options: ["Judgmental", "Understanding and accepting", "Avoidant"],
+    correctAnswer: "Understanding and accepting"
+  },
+  {
+    question: "Which behavior should be encouraged in recovery?",
+    options: ["Isolation", "Group participation", "Avoiding responsibilities"],
+    correctAnswer: "Group participation"
+  },
+  {
+    question: "Which emotion often appears during the recovery period?",
+    options: ["Joy", "Hostility", "Confidence"],
+    correctAnswer: "Hostility"
+  },
+  {
+    question: "Which of the following is part of nursing protection for substance abuse?",
+    options: ["Punish after relapse", "Encourage drinking alternatives", "Ignore emotional states"],
+    correctAnswer: "Encourage drinking alternatives"
+  },
+  {
+    question: "Which is a psychologic symptom of opioid withdrawal?",
+    options: ["Euphoria", "Anhedonia", "Energy bursts"],
+    correctAnswer: "Anhedonia"
+  },
+  {
+    question: "The primary nursing goal with alcohol addiction is:",
+    options: ["Avoid the topic", "Have the patient acknowledge the problem", "Suggest they try beer instead"],
+    correctAnswer: "Have the patient acknowledge the problem"
+  },
+  {
+    question: "Which of these is a beneficial coping strategy for recovering clients?",
+    options: ["Overthinking regrets", "Daily drinking", "Listening to music"],
+    correctAnswer: "Listening to music"
+  }
+],
+
   
 };
 
