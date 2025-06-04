@@ -8205,6 +8205,381 @@ const lessonData = [
       </div>
     ),
   },
+  {
+    id: 18,
+    title: "EMERGENCIES IN PSYCHIATRY, DRUGS USED, EMERGENCY PSYCHIATRY NURSING",
+    content: (
+      <div>
+         <section className="p-6 md:p-10 bg-gray-100 text-gray-800 space-y-10">
+      {/* Header */}
+      <section className="text-center">
+        <h1 className="text-4xl font-bold text-gray-900 mb-2">🧠 Emergency Psychiatry</h1>
+        <p className="text-lg text-gray-600">Understanding emergencies in mental health care</p>
+      </section>
+
+      {/* Concept */}
+      <section className="bg-white p-6 rounded-2xl shadow-md">
+        <h2 className="text-2xl font-semibold text-blue-800 mb-3">📌 The Concept of Emergency Psychiatry</h2>
+        <p className="mb-4">
+          A psychiatric emergency is an acute deterioration in mood, thought, behavior, or social relationship that requires
+          immediate attention, often triggered by:
+        </p>
+        <ul className="list-disc list-inside text-gray-700 space-y-1">
+          <li>🧩 Chronic mental illness</li>
+          <li>💢 Psychosocial stressors</li>
+          <li>🩺 Medical illnesses with psychiatric symptoms</li>
+          <li>☠️ Poisonings</li>
+          <li>💊 Substance use</li>
+          <li>⚠️ Drug side effects or interactions</li>
+        </ul>
+      </section>
+
+      {/* History */}
+      <section className="bg-white p-6 rounded-2xl shadow-md">
+        <h2 className="text-2xl font-semibold text-blue-800 mb-3">📜 History of Emergency Psychiatric Approach</h2>
+        <ul className="list-disc list-inside text-gray-700 space-y-1">
+          <li>🪖 Russo-Japanese War (early 1900s)</li>
+          <li>🧠 US Army crisis intervention (since 1944)</li>
+          <li>🏥 Abandonment of warehouse psychiatric hospitals (1950s)</li>
+          <li>📘 Mental Health Act (1963) mandating 24/7 emergency care</li>
+          <li>🏢 Specialized emergency psychiatry units (1980s onward)</li>
+        </ul>
+      </section>
+
+      {/* Models */}
+      <section className="bg-white p-6 rounded-2xl shadow-md">
+        <h2 className="text-2xl font-semibold text-blue-800 mb-3">🧭 Models Used in Emergency Psychiatry</h2>
+        <ul className="list-disc list-inside text-gray-700 space-y-1">
+          <li>🩻 Consultant psychiatrist evaluates in general ER</li>
+          <li>👩‍⚕️ Consultation Liaison Psychiatry (CLP) nurse in ER</li>
+          <li>🚦 Mental health triage model</li>
+          <li>🏥 Reserved space in ER for psych patients with trained staff</li>
+          <li>🏢 Separate psychiatric emergency service units</li>
+        </ul>
+      </section>
+
+      {/* Emergency Room Conditions */}
+      <section className="bg-white p-6 rounded-2xl shadow-md">
+        <h2 className="text-2xl font-semibold text-blue-800 mb-3">🏠 Psychiatric Emergency Room Conditions</h2>
+        <ul className="list-disc list-inside text-gray-700 space-y-1">
+          <li>🌞 Enough daylight & windows</li>
+          <li>📹 CCTV and 🔴 panic buttons</li>
+          <li>🪑 Heavy, non-liftable furniture</li>
+          <li>🔇 Soundproof room</li>
+          <li>🎨 Calming colors and well-lit areas</li>
+          <li>⛔ Clear rules against violence</li>
+          <li>👮 Security and 👩‍⚕️ psychiatric nurse presence</li>
+          <li>🚑 Referral and transfer capabilities</li>
+        </ul>
+      </section>
+
+      {/* Nurse Duties */}
+      <section className="bg-white p-6 rounded-2xl shadow-md">
+        <h2 className="text-2xl font-semibold text-blue-800 mb-3">🧑‍⚕️ Duties of the Emergency Psychiatry Nurse</h2>
+        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-4 text-gray-700">
+          <div className="bg-blue-100 p-3 rounded-xl shadow text-center font-medium">🩺 Triage</div>
+          <div className="bg-blue-100 p-3 rounded-xl shadow text-center font-medium">🧾 Evaluation</div>
+          <div className="bg-blue-100 p-3 rounded-xl shadow text-center font-medium">🛏️ Stabilization</div>
+          <div className="bg-blue-100 p-3 rounded-xl shadow text-center font-medium">🚪 Disposition</div>
+          <div className="bg-blue-100 p-3 rounded-xl shadow text-center font-medium">📌 Setting Priorities</div>
+        </div>
+      </section>
+    </section>
+    <section className="p-6 md:p-10 bg-gray-50 text-gray-800 space-y-10">
+  {/* Header */}
+  <section className="text-center">
+    <h1 className="text-4xl font-bold text-gray-900 mb-2">🚨 Psychiatric Emergencies & Nursing Care</h1>
+    <p className="text-lg text-gray-600">Recognizing and responding to urgent mental health conditions</p>
+  </section>
+
+  {/* Suicide and Related Concepts */}
+  <section className="bg-white p-6 rounded-2xl shadow-md">
+    <h2 className="text-2xl font-semibold text-red-700 mb-4">🧨 Suicide & Self-Harm</h2>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>🆘 Suicide attempt</li>
+      <li>⚰️ Suicide</li>
+      <li>🛑 “Do not hurt yourself” reminders</li>
+      <li>💭 Suicidal ideation</li>
+      <li>⚠️ Suicidal behavior</li>
+    </ul>
+
+    <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-2">🩺 Treatment & Nursing Care</h3>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>🧍‍♀️ Assess need for lying down or standing follow-up</li>
+      <li>📋 Diagnosis-based treatment plan (severity + cooperation)</li>
+      <li>💊 Small doses of antipsychotics in agitated states</li>
+    </ul>
+  </section>
+
+  {/* Agitation */}
+  <section className="bg-white p-6 rounded-2xl shadow-md">
+    <h2 className="text-2xl font-semibold text-yellow-700 mb-3">😠 Agitation & Behavioral Changes</h2>
+    <p className="text-gray-700 mb-4">
+      Agitation includes verbal and motor behaviors that may endanger the individual, others, or the healthcare team, and affect daily functioning.
+    </p>
+
+    <h3 className="text-xl font-semibold text-gray-800 mb-2">🧑‍⚕️ Nursing Interventions</h3>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>🏠 Environmental regulation</li>
+      <li>🕊️ Appeasement and verbal de-escalation</li>
+      <li>🚪 Bodily restraint or isolation if necessary</li>
+      <li>💊 Pharmacological approach</li>
+    </ul>
+  </section>
+
+  {/* Restraint Nursing Approach */}
+  <section className="bg-white p-6 rounded-2xl shadow-md">
+    <h2 className="text-2xl font-semibold text-purple-700 mb-3">🪢 Psychiatric Nursing & Restraint</h2>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>🚫 Keep other patients away from the restrained individual</li>
+      <li>📋 Observe & record every 15–30 minutes (mental state, drug effects, vitals, personal care)</li>
+      <li>⏰ Every 2 hours, release restraints and give 10 mins activity time</li>
+      <li>🔕 Reduce stimulants (no visitors, phone, music, magazines)</li>
+      <li>🔄 Position change and skin care are essential</li>
+      <li>📘 Consider NANDA nursing diagnoses in care planning</li>
+      <li>🗣️ Nurse must be mindful of verbal and nonverbal communication</li>
+    </ul>
+  </section>
+</section>
+
+<section className="p-6 md:p-10 bg-gray-100 text-gray-900 space-y-10">
+  {/* Psychosis */}
+  <section className="bg-white p-6 rounded-2xl shadow-md">
+    <h2 className="text-2xl font-bold text-purple-700 mb-3">🌀 Psychosis</h2>
+    <p className="text-gray-700 mb-3">
+      Psychosis is characterized by hallucinations, disorganized behavior, disordered thought, and agitation. It may arise from psychiatric conditions, medical illness, or drugs.
+    </p>
+    <h3 className="text-xl font-semibold mb-2">🩺 Treatment & Nursing Care</h3>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>🏥 Hospitalization if the patient is suicidal or dangerous to others</li>
+      <li>🛡️ Prepare a safe environment</li>
+      <li>🔍 Identify the underlying cause and direct treatment accordingly</li>
+      <li>💉 Use rapid sedation for agitation (e.g., haloperidol + biperiden)</li>
+    </ul>
+  </section>
+
+  {/* Panic Attack */}
+  <section className="bg-white p-6 rounded-2xl shadow-md">
+    <h2 className="text-2xl font-bold text-red-600 mb-3">😰 Panic Attack</h2>
+    <p className="text-gray-700 mb-3">
+      Panic attacks involve sudden, intense fear or anxiety, often accompanied by physical symptoms.
+    </p>
+    <h3 className="text-xl font-semibold mb-2">🩺 Treatment & Nursing Care</h3>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>🏡 Move to a safe and quiet environment</li>
+      <li>🗣️ Speak calmly and reassuringly</li>
+      <li>🤝 Use empathy and validate physical symptoms</li>
+      <li>🧘‍♀️ Encourage relaxation or breathing exercises (paper bag if needed)</li>
+    </ul>
+  </section>
+
+  {/* PTSD */}
+  <section className="bg-white p-6 rounded-2xl shadow-md">
+    <h2 className="text-2xl font-bold text-blue-700 mb-3">💥 Post-Traumatic Stress Disorder (PTSD)</h2>
+    <p className="text-gray-700 mb-4">
+      PTSD manifests as trauma re-experiencing, avoidance of triggers, hyperarousal, confusion, emotional numbness, dissociation, and derealization.
+    </p>
+
+    <h3 className="text-xl font-semibold text-gray-800 mb-2">🧾 Case Study</h3>
+    <p className="text-gray-700 mb-3">
+      👩 A., a 35-year-old married woman and airport staff, experienced a live bomb attack where she lost 9 friends and suffered physical and emotional trauma. Since the event, she shows signs of hyperarousal, dissociation, insomnia, and intense fear.
+    </p>
+
+    <h3 className="text-xl font-semibold text-gray-800 mb-2">🩺 Treatment & Nursing Care</h3>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>🔍 Early identification of PTSD symptoms</li>
+      <li>🤝 Provide psychiatric support and treatment</li>
+      <li>🔐 Ensure safety and stability</li>
+      <li>🧑‍⚕️ Nurse should maintain a calm and empathetic approach</li>
+      <li>🛠️ Help the patient regain a sense of control</li>
+      <li>💊 Medications: propranolol, high-dose glucocorticoids, morphine (as indicated)</li>
+    </ul>
+  </section>
+</section>
+<section className="p-6 md:p-10 bg-gray-100 text-gray-900 space-y-10">
+  {/* Conversion Disorder */}
+  <section className="bg-white p-6 rounded-2xl shadow-md">
+    <h2 className="text-2xl font-bold text-purple-600 mb-3">🌀 Conversion Disorder</h2>
+    <p className="text-gray-700 mb-3">
+      Involuntary motor or sensory symptoms resembling neurological dysfunction, typically triggered by psychological conflict or stress.
+    </p>
+    <p className="text-gray-700 mb-3">🧠 Symptoms are not intentional or faked.</p>
+    <h3 className="text-xl font-semibold mb-2">🩺 Treatment & Nursing Care</h3>
+    <p className="text-gray-700">
+      Help the individual recognize that they are expressing unspoken feelings and thoughts through physical symptoms.
+    </p>
+  </section>
+
+  {/* Alcohol Withdrawal Syndrome */}
+  <section className="bg-white p-6 rounded-2xl shadow-md">
+    <h2 className="text-2xl font-bold text-yellow-700 mb-3">🍺 Alcohol Withdrawal Syndrome</h2>
+    <p className="text-gray-700 mb-3">
+      Begins 6–24 hours after stopping or reducing heavy alcohol use. Usually resolves after 48 hours.
+    </p>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>🌬️ Respiratory irregularities</li>
+      <li>❤️ Blood pressure and heart rate changes</li>
+      <li>😴 Sleep disturbances</li>
+      <li>🤲 Hand tremors</li>
+      <li>🧠 Transient psychosis, irritability</li>
+    </ul>
+    <h3 className="text-xl font-semibold mt-3 mb-2">🩺 Treatment & Nursing Care</h3>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>🔕 Reduce stimuli</li>
+      <li>🗣️ Reassure the patient and orient to reality</li>
+      <li>💧 Supportive care: fluids, nutrition, B vitamins</li>
+      <li>💊 Benzodiazepines</li>
+    </ul>
+  </section>
+
+  {/* Delirium Tremens */}
+  <section className="bg-white p-6 rounded-2xl shadow-md">
+    <h2 className="text-2xl font-bold text-red-600 mb-3">⚠️ Delirium Tremens</h2>
+    <p className="text-gray-700 mb-3">
+      Occurs 24 hours to 7 days (usually 48–72 hours) after heavy, long-term alcohol use is stopped or reduced.
+    </p>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>🔥 Autonomic hyperactivity</li>
+      <li>👀 Hallucinations (visual/tactile)</li>
+      <li>🏃‍♂️ Psychomotor changes</li>
+    </ul>
+    <h3 className="text-xl font-semibold mt-3 mb-2">🩺 Treatment & Nursing Care</h3>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>🏥 Hospitalization</li>
+      <li>🔕 Stimulus reduction</li>
+      <li>💊 Benzodiazepines + supportive therapy</li>
+    </ul>
+  </section>
+
+  {/* Alcohol Intoxication */}
+  <section className="bg-white p-6 rounded-2xl shadow-md">
+    <h2 className="text-2xl font-bold text-indigo-700 mb-3">🍷 Alcohol Intoxication</h2>
+    <p className="text-gray-700 mb-3">
+      Results from elevated blood alcohol levels, leading to central nervous system effects.
+    </p>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>🚶‍♂️ Unsteady gait, coordination issues</li>
+      <li>👁️ Nystagmus, agitation, poor attention</li>
+      <li>⚠️ Risky behaviors (driving, unsafe sex)</li>
+      <li>❗ Avoid CNS depressants</li>
+      <li>💉 Haloperidol may be used</li>
+      <li>🩸 Consider hemodialysis if needed</li>
+    </ul>
+    <h3 className="text-xl font-semibold mt-3 mb-2">🩺 Nursing Focus</h3>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>🔍 Assess for co-existing medical issues</li>
+    </ul>
+  </section>
+</section>
+<section className="p-6 md:p-10 bg-gray-100 text-gray-900 space-y-10">
+  {/* Opiates and Derivatives */}
+  <section className="bg-white p-6 rounded-2xl shadow-md">
+    <h2 className="text-2xl font-bold text-rose-700 mb-3">💊 Emergencies Related to Opiates & Derivatives</h2>
+
+    {/* Opiate Intoxication */}
+    <div className="mb-6">
+      <h3 className="text-xl font-semibold text-red-600 mb-2">🛑 Opiate Intoxication</h3>
+      <p className="text-gray-700 mb-3">
+        Caused by opioid receptor activation, leading to suppressed neurotransmission in the CNS and PNS.
+      </p>
+      <ul className="list-disc list-inside text-gray-700 space-y-1">
+        <li>🧠 Central nervous system depression</li>
+        <li>🌬️ Respiratory depression</li>
+        <li>👁️ Pupillary miosis</li>
+      </ul>
+      <h4 className="text-lg font-medium mt-3 mb-1">🩺 Treatment & Nursing Care</h4>
+      <ul className="list-disc list-inside text-gray-700 space-y-1">
+        <li>⚠️ Basic precautions and monitoring</li>
+        <li>💉 Administer pure opioid antagonist (Naloxone)</li>
+        <li>🏥 Manage associated medical complications</li>
+      </ul>
+    </div>
+
+    {/* Opioid Withdrawal */}
+    <div>
+      <h3 className="text-xl font-semibold text-orange-600 mb-2">↩️ Opioid Withdrawal</h3>
+      <p className="text-gray-700 mb-3">
+        Occurs after stopping or reducing long-term opioid use or after giving an opioid antagonist.
+      </p>
+      <ul className="list-disc list-inside text-gray-700 space-y-1">
+        <li>😩 Dysphoric mood</li>
+        <li>🤢 Nausea or vomiting</li>
+        <li>💪 Muscle aches, tearing, runny nose</li>
+        <li>👀 Pupil dilation</li>
+        <li>💦 Sweating</li>
+      </ul>
+      <h4 className="text-lg font-medium mt-3 mb-1">🩺 Treatment & Nursing Care</h4>
+      <ul className="list-disc list-inside text-gray-700 space-y-1">
+        <li>💊 Methadone</li>
+        <li>📋 Symptom-based management</li>
+        <li>🥤 Hydration & antiemetics</li>
+        <li>🩹 Use of analgesics</li>
+      </ul>
+    </div>
+  </section>
+</section>
+<section className="p-6 md:p-10 bg-gray-100 text-gray-900 space-y-10">
+
+  {/* Serotonin Syndrome */}
+  <section className="bg-white p-6 rounded-2xl shadow-md">
+    <h2 className="text-2xl font-bold text-pink-700 mb-3">⚠️ Serotonin Syndrome</h2>
+    <p className="text-gray-700 mb-3">
+      A potentially fatal condition caused by overstimulation of serotonin receptors in the CNS and PNS.
+    </p>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>🧠 Altered mental state</li>
+      <li>🔥 Autonomic hyperactivity</li>
+      <li>💥 Neuromuscular hyperactivity</li>
+      <li>🦵 <strong>Clonus</strong> – most specific symptom</li>
+    </ul>
+    <h4 className="text-lg font-medium mt-3 mb-1">🩺 Treatment & Nursing Care</h4>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>⛔ Discontinue serotonergic drugs</li>
+      <li>📉 Stabilize vital signs</li>
+      <li>🫁 Maintain O<sub>2</sub> saturation above 93%</li>
+      <li>❤️ Cardiac monitoring</li>
+      <li>💧 Supportive treatment</li>
+    </ul>
+  </section>
+
+  {/* Neuroleptic Malignant Syndrome */}
+  <section className="bg-white p-6 rounded-2xl shadow-md">
+    <h2 className="text-2xl font-bold text-red-700 mb-3">💊 Neuroleptic Malignant Syndrome (NMS)</h2>
+    <p className="text-gray-700 mb-3">
+      A rare, life-threatening reaction to antipsychotic drugs.
+    </p>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>🧠 Consciousness changes</li>
+      <li>🌡️ Hyperthermia</li>
+      <li>💪 Muscle rigidity and cramps</li>
+      <li>📉 Unstable blood pressure</li>
+    </ul>
+    <h4 className="text-lg font-medium mt-3 mb-1">🩺 Treatment & Nursing Care</h4>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>⛔ Stop antipsychotic and related drugs</li>
+      <li>🏥 Admit to well-equipped ICU</li>
+      <li>💧 Monitor fluids, electrolytes; ensure proper hydration and nutrition</li>
+      <li>⚙️ Dopamine receptor agonists (e.g., bromocriptine)</li>
+      <li>🧬 Treat renal failure, acidosis, hypoxia immediately</li>
+      <li>⚡ Consider ECT if needed</li>
+      <li>💉 Dantrolene, Heparin</li>
+    </ul>
+  </section>
+
+  {/* Conclusion */}
+  <section className="bg-white p-6 rounded-2xl shadow-md">
+    <h2 className="text-xl font-bold text-green-700 mb-3">🧩 In Conclusion</h2>
+    <ul className="list-disc list-inside text-gray-700 space-y-1">
+      <li>📋 Implement emergency protocols with precision and empathy</li>
+      <li>🤝 Build strong, collaborative relationships among healthcare professionals</li>
+      <li>🧠 Foster team unity and therapeutic connection with patients and families</li>
+    </ul>
+  </section>
+</section>
+
+      </div>
+    ),
+  },
   // Add more lessons here
 ];
 

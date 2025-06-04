@@ -20,6 +20,7 @@ const lessons = [
   { id: 15, title: "Individuals With Personality Disorder and the Nursing Approach" },
   { id: 16, title: "Psychiatric Rehabilitation And Nursing" },
   { id: 17, title: "Substance Use Disorders and Nursıng Approach" },
+  { id: 18, title: "Emergencies In Psychiatry, Drugs used, Emergency Psychiatry Nursing" },
   // Add more lessons here
 ];
 

@@ -3693,7 +3693,158 @@ const quizData = {
     correctAnswer: "Listening to music"
   }
 ],
-
+18: [
+  {
+    question: "Which of the following medications is used for rapid sedation in a patient with psychosis and agitation?",
+    options: ["Diazepam", "Haloperidol", "Fluoxetine"],
+    correctAnswer: "Haloperidol"
+  },
+  {
+    question: "Which nursing action is a priority when a psychotic patient presents a risk of suicide?",
+    options: ["Offer spiritual counseling", "Hospitalization in a safe environment", "Administer multivitamins"],
+    correctAnswer: "Hospitalization in a safe environment"
+  },
+  {
+    question: "A hallmark sign of a panic attack includes:",
+    options: ["Sudden onset of fear with physical symptoms", "Memory loss", "Long-term hallucinations"],
+    correctAnswer: "Sudden onset of fear with physical symptoms"
+  },
+  {
+    question: "Which intervention is effective during a panic attack episode?",
+    options: ["Administer stimulants", "Provide restraints", "Breathing into a paper bag"],
+    correctAnswer: "Breathing into a paper bag"
+  },
+  {
+    question: "Which symptom is most specific to Post-Traumatic Stress Disorder (PTSD)?",
+    options: ["Forgetfulness", "Re-experiencing the traumatic event", "Daydreaming"],
+    correctAnswer: "Re-experiencing the traumatic event"
+  },
+  {
+    question: "Which medication may be used to reduce PTSD symptoms soon after trauma exposure?",
+    options: ["Haloperidol", "Propranolol", "Diazepam"],
+    correctAnswer: "Propranolol"
+  },
+  {
+    question: "Which description best matches conversion disorder?",
+    options: ["Patient consciously fakes illness", "Symptoms are fabricated for attention", "Involuntary motor or sensory symptoms due to psychological conflict"],
+    correctAnswer: "Involuntary motor or sensory symptoms due to psychological conflict"
+  },
+  {
+    question: "What is the priority nursing intervention for conversion disorder?",
+    options: ["Help the patient express feelings in words", "Administer painkillers", "Use cognitive therapy immediately"],
+    correctAnswer: "Help the patient express feelings in words"
+  },
+  {
+    question: "Which of the following is not a common sign of alcohol withdrawal syndrome?",
+    options: ["Irritability", "Bradycardia", "Tremors"],
+    correctAnswer: "Bradycardia"
+  },
+  {
+    question: "What is the most appropriate class of drug for managing alcohol withdrawal symptoms?",
+    options: ["Antipsychotics", "Antidepressants", "Benzodiazepines"],
+    correctAnswer: "Benzodiazepines"
+  },
+  {
+    question: "Delirium tremens typically occurs:",
+    options: ["Within 1 hour of alcohol cessation", "After 14 days of alcohol cessation", "48-72 hours after alcohol cessation"],
+    correctAnswer: "48-72 hours after alcohol cessation"
+  },
+  {
+    question: "In treating alcohol intoxication, which drug should be avoided due to CNS depression risk?",
+    options: ["Haloperidol", "Benzodiazepines", "B-complex vitamins"],
+    correctAnswer: "Benzodiazepines"
+  },
+  {
+    question: "Which of the following is used in severe alcohol intoxication cases to eliminate toxins quickly?",
+    options: ["Hemodialysis", "Lorazepam", "Antiemetics"],
+    correctAnswer: "Hemodialysis"
+  },
+  {
+    question: "Which medication reverses opioid intoxication?",
+    options: ["Methadone", "Naloxone", "Diazepam"],
+    correctAnswer: "Naloxone"
+  },
+  {
+    question: "Which symptom is least associated with opioid withdrawal?",
+    options: ["Dilated pupils", "Sweating", "Decreased heart rate"],
+    correctAnswer: "Decreased heart rate"
+  },
+  {
+    question: "Which of the following drugs helps manage opioid withdrawal symptoms?",
+    options: ["Methadone", "Fluoxetine", "Haloperidol"],
+    correctAnswer: "Methadone"
+  },
+  {
+    question: "Which triad of symptoms suggests opioid intoxication?",
+    options: ["Tachycardia, seizures, tremors", "Respiratory depression, CNS depression, pinpoint pupils", "Euphoria, hyperthermia, hypertension"],
+    correctAnswer: "Respiratory depression, CNS depression, pinpoint pupils"
+  },
+  {
+    question: "A patient with serotonin syndrome may exhibit which specific symptom?",
+    options: ["Dilated pupils", "Clonus", "Sedation"],
+    correctAnswer: "Clonus"
+  },
+  {
+    question: "Which action should the nurse take first in a patient with serotonin syndrome?",
+    options: ["Administer benzodiazepines", "Discontinue serotonergic medications", "Encourage exercise"],
+    correctAnswer: "Discontinue serotonergic medications"
+  },
+  {
+    question: "Which vital goal should be maintained in serotonin syndrome treatment?",
+    options: ["Blood pressure above 160/100", "Oxygen saturation above 93%", "Heart rate above 120 bpm"],
+    correctAnswer: "Oxygen saturation above 93%"
+  },
+  {
+    question: "Neuroleptic Malignant Syndrome (NMS) is most often caused by:",
+    options: ["Antipsychotic medications", "SSRIs", "Benzodiazepines"],
+    correctAnswer: "Antipsychotic medications"
+  },
+  {
+    question: "Which of the following is a characteristic feature of NMS?",
+    options: ["Hyperactivity", "Muscle rigidity and hyperthermia", "Sedation and yawning"],
+    correctAnswer: "Muscle rigidity and hyperthermia"
+  },
+  {
+    question: "What is the role of Dantrolene in NMS treatment?",
+    options: ["Reduces muscle rigidity and prevents hyperthermia", "Improves sleep", "Boosts dopamine reuptake"],
+    correctAnswer: "Reduces muscle rigidity and prevents hyperthermia"
+  },
+  {
+    question: "What is a key nursing priority when caring for someone with NMS?",
+    options: ["Initiate restraints", "Transfer to intensive care for monitoring and hydration", "Give sedatives immediately"],
+    correctAnswer: "Transfer to intensive care for monitoring and hydration"
+  },
+  {
+    question: "What drug is used to support dopaminergic function in NMS?",
+    options: ["SSRIs", "Haloperidol", "Dopamine agonists"],
+    correctAnswer: "Dopamine agonists"
+  },
+  {
+    question: "Which of the following conditions is most likely to benefit from benzodiazepine treatment?",
+    options: ["PTSD", "Alcohol withdrawal syndrome", "Serotonin syndrome"],
+    correctAnswer: "Alcohol withdrawal syndrome"
+  },
+  {
+    question: "Which best describes the nurse’s attitude in managing a PTSD patient?",
+    options: ["Directive and controlling", "Warm, empathetic, and reassuring", "Neutral and detached"],
+    correctAnswer: "Warm, empathetic, and reassuring"
+  },
+  {
+    question: "In a panic attack, the nurse should:",
+    options: ["Guide the patient to a quiet place and use calming communication", "Ask the patient to suppress symptoms", "Immediately sedate the patient"],
+    correctAnswer: "Guide the patient to a quiet place and use calming communication"
+  },
+  {
+    question: "What best helps differentiate serotonin syndrome from other conditions?",
+    options: ["Sweating and nausea", "Clonus and neuromuscular hyperactivity", "Fatigue and drowsiness"],
+    correctAnswer: "Clonus and neuromuscular hyperactivity"
+  },
+  {
+    question: "What is the primary goal in emergency psychiatric care?",
+    options: ["Rapid medication administration", "Controlling the patient at all costs", "Prompt diagnosis, treatment, and therapeutic relationships"],
+    correctAnswer: "Prompt diagnosis, treatment, and therapeutic relationships"
+  }
+],
   
 };
 
