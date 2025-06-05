@@ -8580,6 +8580,451 @@ const lessonData = [
       </div>
     ),
   },
+   {
+    id: 19,
+    title: "sleep process, individuals with sleep disorders and nursing approach",
+    content: (
+      <div>
+<section className="p-6 md:p-10 max-w-4xl mx-auto bg-white shadow-lg rounded-2xl space-y-6 text-gray-800">
+  <h2 className="text-2xl font-bold text-gray-900">😴 Normal Sleep</h2>
+  <p>
+    Normal sleep is defined as <span className="font-semibold text-blue-700">6 to 9 hours</span> of restorative sleep with characteristic sleep architecture and physiology and no complaints about quality of sleep, daytime sleepiness, or difficulties with mood, motivation, or performance during waking hours.
+  </p>
+
+  <h3 className="text-xl font-semibold text-gray-900">💤 Benefits of Sleep</h3>
+  <p>
+    Although experience suggests that sleep is a restorative process that results in the person feeling rested, researchers have not been able to establish the physiologic reasons for this, despite many years of investigation.
+  </p>
+  <ul className="list-disc list-inside pl-4 space-y-1 text-gray-700">
+    <li>🧠 Improved memory</li>
+    <li>😊 Reduced anxiety and depression</li>
+    <li>🛡️ Boosted immune system</li>
+    <li>❤️ Lowered risk of heart disease</li>
+  </ul>
+
+  <h3 className="text-xl font-semibold text-gray-900">😵‍💫 Sleep Disorders</h3>
+  <p>Sleep disorders are a group of conditions that affect the ability to sleep well on a regular basis.</p>
+  <p>❗ Inadequate or non-restorative sleep can markedly impair a patient’s quality of life.</p>
+  <p>
+    🚗 <span className="text-red-700 font-medium">Drowsy driving</span> due to sleep issues causes <strong>1,550 deaths</strong> and <strong>40,000 injuries</strong> annually in the U.S.
+  </p>
+  <p>Sleep disorders may be primary or secondary to other psychiatric or medical conditions.</p>
+
+  <h3 className="text-xl font-semibold text-gray-900">⚠️ Consequences of Sleep Deprivation</h3>
+  <ul className="list-disc list-inside pl-4 space-y-1">
+    <li>🧩 Memory and learning issues</li>
+    <li>📉 Poor performance and workplace injuries</li>
+    <li>🍩 Increased risk of diabetes and heart disease</li>
+  </ul>
+
+  <h3 className="text-xl font-semibold text-gray-900">🩺 Health Risks Linked to Poor Sleep</h3>
+  <ul className="list-disc list-inside pl-4 space-y-1">
+    <li>😴 Daytime fatigue from sleep apnea</li>
+    <li>💓 High blood pressure or heart issues</li>
+    <li>🩸 Type 2 diabetes</li>
+    <li>⚖️ Metabolic syndrome</li>
+    <li>💊 Medication and surgery complications</li>
+    <li>🫀 Liver problems</li>
+    <li>🙉 Sleep-deprived partners (snoring!)</li>
+  </ul>
+
+  <h3 className="text-xl font-semibold text-gray-900">🏥 Hospital Sleep Environment</h3>
+  <p>
+    Patients in hospitals often face sleep disruption due to:
+  </p>
+  <ul className="list-disc list-inside pl-4 space-y-1">
+    <li>🗣️ Staff conversations</li>
+    <li>🚪 Doors, alarms, and monitor beeping</li>
+    <li>🧼 Cleaning activities</li>
+  </ul>
+  <p className="italic text-gray-700">🔇 Creating a quiet environment supports patient recovery.</p>
+
+  <h3 className="text-xl font-semibold text-gray-900">🧠 Mental Health and Sleep</h3>
+  <p>Sleep disturbances can affect the onset and treatment of both physical and mental illnesses, including substance use disorders.</p>
+  <p>😟 Worry-related sleep problems increase the risk of alcohol misuse, especially in those with anxiety or mood issues.</p>
+
+  <h3 className="text-xl font-semibold text-gray-900">👩‍⚕️ Women and Insomnia</h3>
+  <p>
+    Women have a higher risk of insomnia due to hormone fluctuations during:
+  </p>
+  <ul className="list-disc list-inside pl-4 space-y-1">
+    <li>🧒 Puberty</li>
+    <li>🤰 Pregnancy</li>
+    <li>👶 Postpartum period</li>
+    <li>🌙 Menopausal transition & post-menopause</li>
+  </ul>
+</section>
+<section className="p-6 md:p-10 max-w-4xl mx-auto bg-white shadow-lg rounded-2xl space-y-6 text-gray-800">
+  <h2 className="text-2xl font-bold text-gray-900">🧠 Classification of Sleep Disorders</h2>
+  <p className="text-gray-700">The International Classification of Sleep Disorders identifies three major groupings (American Academy of Sleep Medicine, 2001):</p>
+
+  <div className="space-y-4">
+    <div>
+      <h3 className="text-xl font-semibold text-blue-700">1. Dyssomnias</h3>
+      <p className="text-gray-700">
+        These disorders cause difficulty initiating or maintaining sleep, or excessive sleepiness. They are grouped into:
+        intrinsic sleep disorders, extrinsic sleep disorders, and circadian rhythm sleep disorders.
+      </p>
+      <p className="text-gray-700"><span className="font-medium">Examples:</span> insomnia, narcolepsy, obstructive sleep apnea, restless legs syndrome, inadequate sleep hygiene, alcohol/stimulant-dependent sleep disorder.</p>
+    </div>
+
+    <div>
+      <h3 className="text-xl font-semibold text-blue-700">2. Parasomnias</h3>
+      <p className="text-gray-700">
+        Disorders involving arousal, partial arousal, and sleep-stage transitions. They intrude into the sleep process and are signs of central nervous system activation.
+      </p>
+      <p className="text-gray-700"><span className="font-medium">Examples:</span> sleepwalking, sleep terrors, nightmares, sleep paralysis, enuresis, primary snoring, SIDS.</p>
+    </div>
+
+    <div>
+      <h3 className="text-xl font-semibold text-blue-700">3. Sleep Disorders Associated with Medical/Psychiatric Disorders</h3>
+      <p className="text-gray-700">
+        These are not primarily sleep disorders, but result from conditions like mental, neurological, or medical issues where sleep disturbances or excessive sleepiness is a key feature.
+      </p>
+    </div>
+  </div>
+
+  <div className="bg-yellow-100 border-l-4 border-yellow-500 p-4 rounded-lg">
+    <h3 className="text-xl font-semibold text-yellow-800">🧬 Pathophysiology of Sleep</h3>
+    <p className="text-gray-800">
+      The <span className="font-semibold text-blue-700">suprachiasmatic nucleus</span> in the hypothalamus regulates melatonin release. When exposed to light, melatonin secretion drops—making levels lowest during the day.
+    </p>
+    <p className="text-gray-800 mt-2">
+      <span className="font-semibold text-blue-700">Neurotransmitters involved:</span>
+    </p>
+    <ul className="list-disc list-inside text-gray-700 pl-4 space-y-1">
+      <li>🧘‍♂️ <strong>Serotonin</strong> from the dorsal raphe nucleus</li>
+      <li>⚡ <strong>Norepinephrine</strong> from the locus ceruleus</li>
+      <li>🌀 <strong>Acetylcholine</strong></li>
+      <li>🧠 <strong>Dopamine</strong> (associated with wakefulness)</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3 className="text-xl font-semibold text-gray-900">🚨 Contributing Factors to Sleep Problems</h3>
+    <ul className="list-disc list-inside pl-4 text-gray-700 space-y-1">
+      <li>😰 Stress and anxiety</li>
+      <li>😔 Depression</li>
+      <li>💊 Medications (e.g., antidepressants, heart meds, allergy meds)</li>
+      <li>☕ Stimulants: coffee, tea, soft drinks, energy drinks</li>
+      <li>🏥 Medical conditions like chronic pain or breathing issues</li>
+      <li>⚖️ Obesity</li>
+      <li>🌞 Environmental changes affecting your circadian rhythm</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3 className="text-xl font-semibold text-gray-900">😵‍💫 Insomnia and Sleep Deprivation</h3>
+    <p className="text-gray-700">
+      <strong>Insomnia</strong> is the most prevalent sleep disorder and results in constant tiredness and worry about sleep. It disrupts daily functioning and quality of life.
+    </p>
+    <p className="mt-2"><span className="font-medium">Causes:</span> diet (caffeine/alcohol), emotional distress, stress, underlying health issues.</p>
+    <p className="mt-2 text-gray-700">
+      🩹 <strong>Short-term insomnia:</strong> sleeping pills can help.
+    </p>
+    <p className="text-gray-700">
+      ⚠️ <strong>Long-term insomnia:</strong> sleeping pills may worsen the condition.
+    </p>
+  </div>
+</section>
+<section>
+  <h2>😴 Sleep Deprivation</h2>
+  <p><strong>Sleep deprivation</strong> is not a disorder itself but a state resulting from insufficient sleep. It impairs:</p>
+  <ul>
+    <li>🧠 Judgment</li>
+    <li>⚡ Reaction time</li>
+    <li>🎯 Hand-eye coordination</li>
+    <li>📝 Memory</li>
+    <li>💤 General well-being</li>
+  </ul>
+  <p><strong>🔬 Pathophysiology:</strong> Chronic lack of sleep disrupts immune function 🛡️ and increases stress hormones, leading to vulnerability to diseases.</p>
+  <p>⚠️ Signs include daytime drowsiness, microsleeps (brief involuntary sleep), and quick sleep onset when lying down.</p>
+
+  <h2>😟 Disturbed Sleep</h2>
+
+  <h3>😪 Sleep Apnea</h3>
+  <p><strong>Sleep apnea</strong> involves periodic breathing pauses during sleep:</p>
+  <ul>
+    <li>🫁 <strong>Obstructive</strong>: airway blockage from throat muscle relaxation</li>
+    <li>🧠 <strong>Central</strong>: brain fails to send proper breathing signals</li>
+  </ul>
+  <p><strong>🔬 Pathophysiology:</strong> Repeated oxygen drops and sleep interruptions lead to cardiovascular strain ❤️ and inflammation.</p>
+  <p>Common signs include loud snoring 💤, morning headaches 🤕, and risk of heart disease or stroke.</p>
+
+  <h3>🌙 REM Sleep Behavior Disorder</h3>
+  <p>In REM sleep, the <strong>pons</strong> of the brainstem disables muscle activity 💪❌ to prevent acting out dreams.</p>
+  <p><strong>🔬 Pathophysiology:</strong> In RBD, that paralysis fails. Dreams may be acted out physically—like punching or running 🏃 during sleep.</p>
+  <p>⚠️ It can result in injury and is sometimes linked to neurodegenerative diseases like Parkinson’s 🧠.</p>
+
+  <h3>🦵 Restless Legs Syndrome (RLS)</h3>
+  <p><strong>RLS</strong> causes tingling or prickly sensations in the legs, especially at night 🌃, creating an urge to move them constantly.</p>
+  <p><strong>🔬 Pathophysiology:</strong> Related to impaired dopamine signaling and brain iron deficiency 🧲.</p>
+  <p>Symptoms include leg jerking 🕺 that disrupts sleep, leading to insomnia 😩.</p>
+
+  <h2>🛌 Excessive Sleep</h2>
+
+  <h3>😵‍💫 Narcolepsy</h3>
+  <p><strong>Narcolepsy</strong> causes sudden, uncontrollable sleep episodes during the day, lasting seconds to 30+ minutes 🕒.</p>
+  <p><strong>🔬 Pathophysiology:</strong> Loss of hypocretin-producing neurons in the hypothalamus 🧠 causes sleep-wake regulation failure. Often genetic 🧬.</p>
+  <p>Other symptoms include sleep paralysis 🧍‍♂️❌, hallucinations 👁️, and cataplexy (sudden muscle weakness).</p>
+
+  <h2>🧪 Diagnosis</h2>
+  <ul>
+    <li><strong>📊 Polysomnography</strong>: Monitors oxygen, brain waves, and movement during sleep</li>
+    <li><strong>🔌 EEG</strong>: Measures brain's electrical activity for abnormalities</li>
+    <li><strong>🧬 Genetic Testing</strong>: Helps detect narcolepsy and related conditions</li>
+  </ul>
+
+  <h2>💊 Treatment</h2>
+
+  <h3>🩺 Medical Treatments</h3>
+  <ul>
+    <li>💤 Sleeping pills</li>
+    <li>🌙 Melatonin supplements</li>
+    <li>💊 Treatment of underlying conditions</li>
+    <li>😷 CPAP machine or surgery (for sleep apnea)</li>
+    <li>🧠 Benzodiazepine receptor agonists (for insomnia)</li>
+    <li>🦵 Dopamine agonists (for RLS)</li>
+  </ul>
+
+  <h3>🌱 Lifestyle Changes</h3>
+  <ul>
+    <li>🥗 Eat more veggies & fish; reduce sugar</li>
+    <li>🏋️‍♂️ Exercise to manage stress & anxiety</li>
+    <li>🕰️ Keep a regular sleep schedule</li>
+    <li>🚱 Drink less water before bed</li>
+    <li>☕ Avoid caffeine late in the day</li>
+    <li>🚭 Cut down tobacco & alcohol</li>
+    <li>🍽️ Eat small, low-carb meals before sleeping</li>
+  </ul>
+</section>
+
+<section>
+  <h2>🧠 Cognitive Behavioral Therapy (CBT)</h2>
+  <p><strong>Cognitive Behavioral Therapy (CBT)</strong> is a common treatment used to help individuals manage various sleep disorders.</p>
+  <p>💤 It is especially effective in treating:</p>
+  <ul>
+    <li>😴 Insomnia</li>
+    <li>🌀 Narcolepsy</li>
+  </ul>
+  <p>CBT may also assist with other sleep disorders by helping individuals develop coping strategies and manage emotional and social consequences.</p>
+
+  <h2>🩺 Nursing Care for Individuals With Sleep Disorders</h2>
+  <p>Nurses play a vital role in identifying and addressing sleep-related issues. Common nursing diagnoses include:</p>
+  <ul>
+    <li>😟 Anxiety</li>
+    <li>🫁 Ineffective Breathing Pattern</li>
+    <li>🤯 Ineffective Coping</li>
+    <li>😨 Fear</li>
+    <li>💨 Impaired Gas Exchange</li>
+    <li>😞 Hopelessness</li>
+    <li>😴 Sleep Deprivation</li>
+    <li>📉 Stress Overload</li>
+    <li>🌙 Disturbed Sleep Pattern</li>
+    <li>📚 Deficient Knowledge</li>
+    <li>🥱 Fatigue</li>
+  </ul>
+
+  <h2>🔍 Assessment</h2>
+  <p>🗣️ Many patients do not report sleep difficulties directly. Instead, they may describe:</p>
+  <ul>
+    <li>😓 Fatigue</li>
+    <li>📉 Decreased concentration</li>
+    <li>😠 Mood disturbances</li>
+    <li>🤒 Physical complaints</li>
+  </ul>
+
+  <p>⚠️ Physical assessment is important for identifying those at risk of sleep-disordered breathing. At-risk groups include:</p>
+  <ul>
+    <li>🧑 Adults who are overweight or obese with large necks</li>
+    <li>👅 Individuals with excessive pharyngeal tissue, large tongue or uvula</li>
+    <li>👃 People with deviated nasal septum or small chin</li>
+    <li>🧒 Children with large tonsils or obesity</li>
+  </ul>
+
+  <h3>📝 Key Assessment Steps</h3>
+  <ul>
+    <li>🩺 Identify underlying health conditions</li>
+    <li>⏰ Assess sleep patterns</li>
+    <li>🧼 Identify poor sleep hygiene behaviors</li>
+    <li>💊 Check use of stimulants or drug abuse</li>
+    <li>📋 Review medications</li>
+    <li>📆 Assess for changes in schedule or major life events</li>
+    <li>💔 Assess emotional trauma</li>
+  </ul>
+
+  <h3>📖 Using Sleep Diaries</h3>
+  <p>Sleep disturbance affects the whole 24-hour cycle—not just nighttime. Sleep diaries help identify contributing patterns and behaviors.</p>
+  <p>📝 Assign a 2-week sleep diary to guide care planning and evaluation.</p>
+
+  <h3>❓ Sample Assessment Questions</h3>
+  <ul>
+    <li>🛌 When did your sleep trouble start? Have you had issues before?</li>
+    <li>🧼 What’s your usual pre-bed routine?</li>
+    <li>🏠 Describe your sleeping environment (noise, light, comfort, etc.)</li>
+    <li>📺 Do you use your bedroom for non-sleep activities?</li>
+    <li>⏱️ What time do you go to bed and how long does it take to fall asleep?</li>
+    <li>🌃 Do you wake up in the middle of the night? Can you fall back asleep?</li>
+    <li>😵 If you can’t sleep, what do you do?</li>
+    <li>🌅 What time do you wake up and get out of bed?</li>
+    <li>🧮 How many hours do you think you actually sleep?</li>
+    <li>📆 Do you sleep more on weekends or days off?</li>
+    <li>😴 Do you nap? For how long? Do you feel better afterward?</li>
+    <li>💭 Can you identify any stressors or problems that triggered your sleep issue?</li>
+    <li>🍽️ What’s your daily routine like? (diet, exercise, medications)</li>
+    <li>🔧 Have you tried anything to improve your sleep? What were the results?</li>
+  </ul>
+</section>
+
+<section className="bg-white p-6 rounded-2xl shadow-md space-y-6 text-gray-800">
+  <h2 className="text-2xl font-bold text-indigo-600">🛌 Identifying Sleep-Wake Disorders</h2>
+  <p>
+    Sleep-wake disorders can be grouped into insomnia, hypersomnia, arousal disorders, and circadian rhythm issues.
+  </p>
+
+  <div>
+    <h3 className="text-xl font-semibold text-blue-600">🌙 Insomnia</h3>
+    <ul className="list-disc list-inside space-y-1">
+      <li>Difficulty falling asleep, staying asleep, or early-morning awakenings?</li>
+      <li>Do you feel refreshed in the morning?</li>
+      <li>Has sleep affected your energy, mood, focus, or work quality?</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3 className="text-xl font-semibold text-red-600">😴 Obstructive Sleep Apnea</h3>
+    <ul className="list-disc list-inside">
+      <li>Has anyone told you that you snore or stop breathing in your sleep?</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3 className="text-xl font-semibold text-yellow-600">🦵 Restless Legs Syndrome</h3>
+    <ul className="list-disc list-inside">
+      <li>Unpleasant sensations in your legs or arms that make you want to move and disrupt your sleep?</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3 className="text-xl font-semibold text-purple-600">🌀 Narcolepsy</h3>
+    <ul className="list-disc list-inside space-y-1">
+      <li>Uncontrollable episodes of sleepiness?</li>
+      <li>Sleep paralysis during sleep transitions?</li>
+      <li>Sudden muscle weakness after emotion (cataplexy)?</li>
+      <li>Seeing or hearing things as you fall asleep or wake up (hallucinations)?</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3 className="text-xl font-semibold text-pink-600">😫 Primary Hypersomnia</h3>
+    <ul className="list-disc list-inside">
+      <li>Feeling unrested even after long sleep?</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3 className="text-xl font-semibold text-fuchsia-600">😳 Other Sleep Disorders</h3>
+    <ul className="list-disc list-inside space-y-1">
+      <li>Walking or talking in your sleep?</li>
+      <li>Acting out dreams (REM sleep behavior disorder)?</li>
+      <li>Frequent disturbing dreams or nightmares?</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3 className="text-xl font-semibold text-emerald-600">🕰️ Circadian Rhythm</h3>
+    <ul className="list-disc list-inside">
+      <li>Is your sleep schedule affecting your work or social life?</li>
+      <li>What’s your natural sleep-wake schedule?</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3 className="text-xl font-semibold text-orange-600">⚠️ Functioning & Safety</h3>
+    <p>Sleep issues can lead to accidents or affect your daily functioning. Consider these:</p>
+    <ul className="list-disc list-inside">
+      <li>Had an accident due to sleepiness?</li>
+      <li>Get sleepy while driving? What do you do?</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3 className="text-xl font-semibold text-teal-600">💡 Nursing Interventions</h3>
+    <ul className="list-disc list-inside space-y-1">
+      <li>Reduce fear and anxiety before bed.</li>
+      <li>Discourage daytime sleeping unless necessary.</li>
+      <li>Relieve discomfort (e.g. reposition, pain meds).</li>
+      <li>Offer evening snacks like milk or cheese 🧀.</li>
+      <li>Support regular presleep routines (reading 📖, music 🎶).</li>
+      <li>Ensure comfort and warmth before sleep 🛏️.</li>
+      <li>Reduce noise/light distractions 🌙.</li>
+      <li>Limit alcohol in the evening 🍷🚫.</li>
+      <li>Suggest relaxation: back rubs, prayer, meditation, soft music, or light snacks.</li>
+      <li>Cut down on stimulants and reduce evening activity.</li>
+      <li>Discourage naps. Keep curtains open and engage during the day ☀️.</li>
+    </ul>
+  </div>
+</section>
+
+<section className="bg-white p-6 rounded-2xl shadow-md space-y-6 text-gray-800">
+  <h2 className="text-2xl font-bold text-indigo-600">🛡️ Patient Safety</h2>
+  <p>✅ Monitor patient safety from falls.</p>
+
+  <div>
+    <h3 className="text-xl font-semibold text-blue-600">🛏️ Sleep Hygiene Behavior Strategies</h3>
+    <ul className="list-disc list-inside space-y-1">
+      <li>⏰ Maintain a regular bedtime and wake-up time every day, including weekends.</li>
+      <li>🏃‍♂️ Exercise daily to help sleep, but avoid vigorous exercise close to bedtime.</li>
+      <li>🧘 Schedule wind-down time before bed and try relaxation techniques.</li>
+      <li>🚫 Avoid worrying while trying to fall asleep.</li>
+      <li>🔕 Guard against nighttime interruptions.</li>
+      <li>🦻 Earplugs may help with a noisy partner.</li>
+      <li>🌙 Ensure the bedroom is dark, quiet, cool, and comfortable.</li>
+      <li>🪟 Heavy window shades help block light.</li>
+      <li>🛏️ Create a comfortable and cozy bed.</li>
+      <li>🛁 A warm bath or warm drink may help promote sleep.</li>
+      <li>🍽️ Avoid going to bed overly hungry or too full.</li>
+      <li>🍝 Avoid large meals before bedtime; opt for a light snack if hungry.</li>
+      <li>☕ Avoid caffeine, alcohol, stimulants, and too much fluid intake in the evening.</li>
+      <li>😴 Excessive daytime naps may interfere with nighttime sleep.</li>
+      <li>📺 Do not eat, read, work, or watch TV in bed. Reserve the bed for sleep and sex only.</li>
+      <li>⚖️ Maintain a healthy weight; being overweight can lead to fatigue and sleep apnea.</li>
+      <li>🛑 If you can’t fall asleep, get out of bed and do a quiet activity until drowsy.</li>
+    </ul>
+  </div>
+</section>
+
+<section className="bg-white p-6 rounded-2xl shadow-md space-y-4 text-gray-800">
+  <h2 className="text-2xl font-bold text-indigo-600">🧠 Self-Assessment</h2>
+
+  <p>👩‍⚕️ Nurses and nursing students are especially vulnerable to the effects of <strong>sleep deprivation</strong> and <strong>sleep disruption</strong>.</p>
+
+  <p>🌙 Rotating shifts and night work disrupt the <strong>circadian rhythm</strong>, leading to problems like insomnia and excessive sleepiness.</p>
+
+  <p>⏳ Long shifts and overtime can reduce total available sleep time, which impairs judgment and performance — potentially putting <strong>patient safety</strong> at risk.</p>
+
+  <p>🚗 Nurses working night or rotating shifts may pose increased risk for <strong>accidents</strong> while driving due to excessive sleepiness.</p>
+
+  <p>🔍 It’s crucial for nurses to recognize signs of <strong>chronic sleep deprivation</strong> and take proactive steps to stay well-rested in order to deliver <strong>safe and competent care</strong>.</p>
+
+  <p>🛌 A self-evaluation for possible sleep disorders and the ability to cope with shift work is highly recommended.</p>
+
+  <p>👨‍⚕️ Seek help from a sleep professional if you're experiencing serious disruptions in sleep, mental or physical health, job performance, or social functioning.</p>
+
+  <p>✅ To stay healthy and safe:
+    <ul className="list-disc list-inside mt-2 space-y-1">
+      <li>🕖 Aim for 7–8 hours of sleep within each 24-hour period.</li>
+      <li>⛔ Limit overtime and shift work to no more than 8 hours if possible.</li>
+      <li>🧘‍♀️ Practice good sleep hygiene habits.</li>
+    </ul>
+  </p>
+</section>
+
+
+
+      </div>
+    ),
+  },
   // Add more lessons here
 ];
 

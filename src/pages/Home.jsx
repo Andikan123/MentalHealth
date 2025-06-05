@@ -21,6 +21,7 @@ const lessons = [
   { id: 16, title: "Psychiatric Rehabilitation And Nursing" },
   { id: 17, title: "Substance Use Disorders and Nursıng Approach" },
   { id: 18, title: "Emergencies In Psychiatry, Drugs used, Emergency Psychiatry Nursing" },
+  { id: 19, title: "Sleep Process, Individuals With Sleep Disorders and Nursing Approach" },
   // Add more lessons here
 ];
 

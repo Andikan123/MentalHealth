@@ -3845,7 +3845,158 @@ const quizData = {
     correctAnswer: "Prompt diagnosis, treatment, and therapeutic relationships"
   }
 ],
-  
+  19:[
+  {
+    question: "A patient reports difficulty falling asleep and early-morning awakenings. This is characteristic of:",
+    options: ["Insomnia", "Narcolepsy", "Sleep apnea"],
+    correctAnswer: "Insomnia"
+  },
+  {
+    question: "Which of the following is a common symptom of obstructive sleep apnea?",
+    options: ["Nightmares", "Snoring and breathing pauses during sleep", "Tingling in the legs at night"],
+    correctAnswer: "Snoring and breathing pauses during sleep"
+  },
+  {
+    question: "A patient describes feeling a sudden loss of muscle tone after laughing. This may indicate:",
+    options: ["Cataplexy", "Insomnia", "Night terrors"],
+    correctAnswer: "Cataplexy"
+  },
+  {
+    question: "What sleep disorder is associated with vivid hallucinations as one falls asleep?",
+    options: ["Narcolepsy", "Circadian rhythm disorder", "Insomnia"],
+    correctAnswer: "Narcolepsy"
+  },
+  {
+    question: "Which sleep disorder involves uncomfortable sensations in the legs that disrupt sleep?",
+    options: ["Narcolepsy", "Restless Legs Syndrome", "REM sleep behavior disorder"],
+    correctAnswer: "Restless Legs Syndrome"
+  },
+  {
+    question: "A nurse should ask which question when assessing for hypersomnia?",
+    options: ["Do you wake up frequently during the night?", "Do you feel unrested even after sleeping for a long time?", "Do you move your legs involuntarily at night?"],
+    correctAnswer: "Do you feel unrested even after sleeping for a long time?"
+  },
+  {
+    question: "A patient acts out dreams and kicks during sleep. This may indicate:",
+    options: ["Night terrors", "REM sleep behavior disorder", "Primary insomnia"],
+    correctAnswer: "REM sleep behavior disorder"
+  },
+  {
+    question: "A patient reports walking and talking during sleep. The nurse should suspect:",
+    options: ["Arousal disorder", "REM sleep behavior disorder", "Circadian rhythm disorder"],
+    correctAnswer: "Arousal disorder"
+  },
+  {
+    question: "Which symptom may indicate a circadian rhythm sleep disorder?",
+    options: ["Sleepwalking", "Desire to sleep at times that conflict with work/social obligations", "Frequent awakenings"],
+    correctAnswer: "Desire to sleep at times that conflict with work/social obligations"
+  },
+  {
+    question: "Which intervention promotes sleep hygiene?",
+    options: ["Exercising right before bedtime", "Drinking coffee to stay up", "Maintaining a regular sleep schedule"],
+    correctAnswer: "Maintaining a regular sleep schedule"
+  },
+  {
+    question: "Which activity should be discouraged to maintain good sleep hygiene?",
+    options: ["Reading before bed", "Listening to calm music", "Watching TV in bed"],
+    correctAnswer: "Watching TV in bed"
+  },
+  {
+    question: "What should the nurse recommend to a patient who feels hungry at bedtime?",
+    options: ["Avoid all food", "Have a light carbohydrate snack", "Eat a heavy meal"],
+    correctAnswer: "Have a light carbohydrate snack"
+  },
+  {
+    question: "What is a helpful strategy for a noisy sleeping environment?",
+    options: ["Use an overhead light", "Wear earplugs", "Drink alcohol before bed"],
+    correctAnswer: "Wear earplugs"
+  },
+  {
+    question: "Which beverage may help induce sleep due to L-tryptophan content?",
+    options: ["Soda", "Milk", "Coffee"],
+    correctAnswer: "Milk"
+  },
+  {
+    question: "Which of the following should be avoided before bedtime?",
+    options: ["Reading a book", "Caffeine", "Taking a warm bath"],
+    correctAnswer: "Caffeine"
+  },
+  {
+    question: "A patient complains of difficulty sleeping and feeling tired during the day. The nurse should first:",
+    options: ["Administer a sleeping pill", "Assess for sleep-wake disorders", "Recommend alcohol before bed"],
+    correctAnswer: "Assess for sleep-wake disorders"
+  },
+  {
+    question: "Which nursing action promotes sleep in hospitalized clients?",
+    options: ["Leave the overhead light on", "Allow frequent daytime naps", "Reduce environmental distractions"],
+    correctAnswer: "Reduce environmental distractions"
+  },
+  {
+    question: "A warm bath before bedtime helps by:",
+    options: ["Reducing hunger", "Inducing relaxation", "Preventing nightmares"],
+    correctAnswer: "Inducing relaxation"
+  },
+  {
+    question: "Daytime naps should be:",
+    options: ["Encouraged frequently", "Taken for over 2 hours", "Discouraged unless medically indicated"],
+    correctAnswer: "Discouraged unless medically indicated"
+  },
+  {
+    question: "Which factor is most likely to interfere with REM sleep?",
+    options: ["Soft music", "Alcohol", "Herbal tea"],
+    correctAnswer: "Alcohol"
+  },
+  {
+    question: "Nurses working night shifts are more at risk for:",
+    options: ["Circadian rhythm disruption", "Narcolepsy", "Arousal disorders"],
+    correctAnswer: "Circadian rhythm disruption"
+  },
+  {
+    question: "How does sleep deprivation affect nurses?",
+    options: ["Improves alertness", "Impairs performance and judgment", "Has no effect on care quality"],
+    correctAnswer: "Impairs performance and judgment"
+  },
+  {
+    question: "What is a safety concern for nurses experiencing sleep deprivation?",
+    options: ["Skin breakdown", "Motor vehicle accidents", "Hypertension"],
+    correctAnswer: "Motor vehicle accidents"
+  },
+  {
+    question: "What can help nurses cope with rotating shifts?",
+    options: ["Sleeping in 2-hour intervals", "Limiting overtime and practicing sleep hygiene", "Skipping meals to rest"],
+    correctAnswer: "Limiting overtime and practicing sleep hygiene"
+  },
+  {
+    question: "Which statement about sleep hygiene is true?",
+    options: ["Only matters for older adults", "Should include consistent sleep routines", "Includes using the bed for watching TV"],
+    correctAnswer: "Should include consistent sleep routines"
+  },
+  {
+    question: "What should nurses evaluate in themselves regarding sleep?",
+    options: ["Favorite sleep position", "Signs of chronic sleep deprivation", "Caffeine preference"],
+    correctAnswer: "Signs of chronic sleep deprivation"
+  },
+  {
+    question: "When should a nurse consult a sleep professional?",
+    options: ["After one night of poor sleep", "When sleep issues affect job or social functioning", "When they don’t dream at night"],
+    correctAnswer: "When sleep issues affect job or social functioning"
+  },
+  {
+    question: "What is a safe recommendation for nurses post-shift?",
+    options: ["Drive home while sleepy", "Take energy drinks", "Nap before commuting if sleepy"],
+    correctAnswer: "Nap before commuting if sleepy"
+  },
+  {
+    question: "What role does weight play in sleep quality?",
+    options: ["None", "Excessive weight can lead to fatigue and apnea", "It only affects dreams"],
+    correctAnswer: "Excessive weight can lead to fatigue and apnea"
+  },
+  {
+    question: "Why should the bed be used only for sleep and sex?",
+    options: ["To save space", "To condition the brain to associate bed with sleep", "To reduce mattress wear"],
+    correctAnswer: "To condition the brain to associate bed with sleep"
+  }
+],
 };
 
 const Quiz = ({ markCourseAsCompleted }) => {
